@@ -16,7 +16,12 @@ Dialogue of NPCs is synced by the party leader. If an NPC talks on the party lea
 
 ### Inventories and equipment
 
-Both player and NPC inventories and equipment are fully synced. Chest contents are also synced. Players can look at the same chest at the same time, and loot/store items similarly. Enchanted and poisoned items are synced. Pickpocketing is synced as well, including pickpocketing fellow players. Dropping items on the ground is synced. Picking up items is not always synced.
+Both player and NPC inventories and equipment are fully synced. Chest contents are also synced. Players can look at the same chest at the same time, and loot/store items similarly. Enchanted and poisoned items are synced. Pickpocketing is synced as well, including pickpocketing fellow players. \
+
+
+Dropping items on the ground is synced, someone else picking it up isn't synced.\
+Only pre-placed items in the world by Bethesda/Mod creator (eg. an item in a dungeon), are synced when picking those up.\
+
 
 ### Death
 

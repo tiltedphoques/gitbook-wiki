@@ -31,8 +31,8 @@ Option 2:
  - Select *Advanced Options*
  - Select *UEFI Firmware Settings*
 
-
 Once you are within the BIOS menu:
  - BIOS differs depending on Firmware. Search for *AES*, *AES-NI*, *Data Protection Technology* or *Advanced Encryption Standard*, and enable it.
  - Do not alter anything else. You can *probably* press F10 to save your settings and exit.
 
+Context: the reason why this is needed in the client and server is because they depend on libsodium lib which relies on AES. Therefore, we need to wait until libsodium stop relying on AES (which is unlikely, [see](https://github.com/ValveSoftware/GameNetworkingSockets/issues/243)) or reimplement some parts with OpenSSL (time consuming).

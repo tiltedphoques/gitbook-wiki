@@ -22,7 +22,7 @@ Once the command has finished executing, you should have a copy of this reposito
 
 ### Requirements
 
-As mentioned in the [Readme](https://github.com/tiltedphoques/TiltedOnline#windows) you will need [Visual Studio 2022 ](https://www.visualstudio.com/downloads/)(the community edition is freely available for download) and [xmake ](https://xmake.io/#/getting\_started)to build the project, as well as [Node.js](https://nodejs.org/en/) for building the UI.
+You will need [Visual Studio 2022 ](https://www.visualstudio.com/downloads/)(the community edition is freely available for download) and [xmake ](https://xmake.io/#/getting\_started)to build the project, as well as [Node.js](https://nodejs.org/en/) for building the UI.
 
 ### Generating the project files
 

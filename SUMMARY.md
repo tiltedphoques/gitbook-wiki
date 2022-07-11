@@ -6,8 +6,10 @@
 
 * [Getting Started](guides/getting-started.md)
 * [Mod Organizer 2](guides/mod-organizer-2.md)
-* [Address library error](guides/address-library-error.md)
-* [Gameplay issues troubleshooting](guides/gameplay-issues-troubleshooting.md)
+* [Troubleshooting](guides/troubleshooting/README.md)
+  * [Installation issues](guides/troubleshooting/installation-issues.md)
+  * [Gameplay issues](guides/troubleshooting/gameplay-issues.md)
+  * [Address library error](guides/troubleshooting/address-library-error.md)
 * [Server guide](guides/server-guide/README.md)
   * [Server configuration](guides/server-guide/server-configuration.md)
 

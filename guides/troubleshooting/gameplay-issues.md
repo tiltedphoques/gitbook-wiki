@@ -15,7 +15,7 @@ We are not sure what causes this yet exactly, but one possible cause is custom s
 ### Crashing on connect (AES-NI)
 The mod will crash without any error message (in the client and/or the server) if the processor support for AES-NI is not enabled. Note that most of new processors support AES-NI (see [list](https://en.wikipedia.org/wiki/AES_instruction_set#Intel)). You can enable support for AES-NI in the BIOS menu.
 
-If you are not familiar with how to open the BIOS menu you can go throw the following steps:
+If you are not familiar with how to open the BIOS menu you can go through the following steps:
 
 Option 1 (Windows 10 only):
  - Hold the key *shift* while clicking the *restart* button in Windows.

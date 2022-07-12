@@ -2,7 +2,7 @@
 
 ### What does `bEnableModcheck` do?
 
-The parameter `bEnableModcheck` can enable or disable the possibility of enforcing a mod policy.
+The parameter `bEnableModcheck` can enable or disable the option of enforcing a mod policy.
 
 If you **enable** `bEnableModcheck`, that means that everyone connecting to your server will go through this process:
 
@@ -10,8 +10,6 @@ If you **enable** `bEnableModcheck`, that means that everyone connecting to your
 2. Your server will check Player A's `loadorder.txt`
 3. If the `loadorder.txt` matches the one on the server, Player A will now join your server
 4. If the `loadorder.txt` **doesn't** match the one on the server, Player A will not be allowed to join the server.
-
-
 
 If you **disable** `bEnableModcheck`, that means that everyone connecting to your server will go through this process:
 
@@ -22,8 +20,6 @@ If you **disable** `bEnableModcheck`, that means that everyone connecting to you
 The reason why it can be good idea to enable this, is to increase chances of having a more stable gaming session and/or playthrough.
 
 It is **not** necessary to use, if you and your friends are playing **without** mods (or if you're just playing with `Address Library for SKSE`)
-
-
 
 ### Oh! I want that! I want my server to kick players, that doesn't use the mods that I choose!
 

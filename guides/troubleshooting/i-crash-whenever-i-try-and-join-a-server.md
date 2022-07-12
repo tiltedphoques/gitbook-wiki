@@ -1,6 +1,6 @@
 # My game crashes when I open it, or connect to a server
 
-### Q: I crash whenever I join my friends server, but other people can join it just fine
+### Q: My game crashes when I open it, or when I connect to a server
 
 **A:** You can try enabling `AES-NI` in your BIOS. This is apparently especially relevant for Intel CPUs. This is hard to guide you through, since almost every BIOS looks different.
 

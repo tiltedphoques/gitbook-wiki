@@ -1,3 +1,3 @@
 # Troubleshooting
 
-These pages contain troubleshooting steps for installation, stability, and gameplay issues.
+This will be a collection of common issues and fixes that may or may not work.

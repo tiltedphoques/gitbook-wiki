@@ -33,18 +33,15 @@ sAdminPassword=
 sServerName=Dedicated Together Server
 bPremiumMode=true
 uPort=10578
-
 ```
 
-
-
-To read about what each specific line does, I will refer to [this page](https://wiki.tiltedphoques.com/tilted-online/guides/server-guide/server-configuration) that explains every parameter available in depth.
+To read about what each specific line does, I will refer to [this page](../../server-configuration.md) that explains every parameter available in depth.
 
 I will, in the next page, explain what the `bEnableModCheck` is about, and how to configure that properly.
 
 ### Example of how a config file can look
 
-I'll give you an example of how a config file can be setup. I will again refer to [this page](https://wiki.tiltedphoques.com/tilted-online/guides/server-guide/server-configuration) if you need more explanation of the parameters. I think it's pretty straight forward.
+I'll give you an example of how a config file can be setup. I will again refer to [this page](../../server-configuration.md) if you need more explanation of the parameters. I think it's pretty straight forward.
 
 ```
 [general]
@@ -75,9 +72,6 @@ sAdminPassword=thisdoesntmatter # Setting the admin password to thisdoesntmatter
 sServerName=My Very Best Server # Setting the server name to be "My Very Best Server"
 bPremiumMode=true # Setting the tickrate to 60
 uPort=10578 # Setting the port to 10578 (important!)
-
 ```
-
-
 
 ### Onwards to learn about the `bEnableModCheck`!

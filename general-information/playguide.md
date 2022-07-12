@@ -13,7 +13,7 @@ Do **NOT** connect to a server while you are still doing the Helgen intro quest.
 {% hint style="warning" %}
 We recommend you play without any other mods installed for optimal gameplay. If you do, it's on your own precaution.
 
-[Mods may or may not work as explained in the FAQ.](https://wiki.tiltedphoques.com/tilted-online/general-information/faq#q-will-x-mod-work-with-this-mod)
+[Mods may or may not work as explained in the FAQ.](faq.md)
 {% endhint %}
 
 ### Questing

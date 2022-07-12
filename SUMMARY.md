@@ -57,7 +57,7 @@
   * [Address Library error](guides/troubleshooting/address-library-error.md)
   * [My game runs with very low FPS](guides/troubleshooting/my-game-runs-with-very-low-fps.md)
   * [Closing the SkyrimTogether UI (STRUI) makes it reopen](guides/troubleshooting/closing-the-skyrimtogether-ui-strui-makes-it-reopen.md)
-  * [My game crashes when I open it, or connect to a server](guides/troubleshooting/i-crash-whenever-i-try-and-join-a-server.md)
+  * [My game crashes when I open it, or connect to a server](guides/troubleshooting/my-game-crashes-when-i-open-it-or-connect-to-a-server.md)
   * [Hostile NPCs only target my friends, not me](guides/troubleshooting/hostile-npcs-only-target-my-friends-not-me.md)
   * [The STRUI doesn't appear when I press RIGHT CTRL or F2](guides/troubleshooting/the-strui-doesnt-appear-when-i-press-right-ctrl-or-f2.md)
   * [Naked NPCs / players](guides/troubleshooting/naked-npcs-players.md)

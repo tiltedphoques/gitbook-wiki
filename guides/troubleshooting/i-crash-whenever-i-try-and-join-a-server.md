@@ -1,4 +1,4 @@
-# I crash whenever I try and join a server
+# My game crashes when I open it, or connect to a server
 
 ### Q: I crash whenever I join my friends server, but other people can join it just fine
 
@@ -50,8 +50,35 @@ To get to your BIOS, if you're using Windows 11, do the following steps:
 
 **A:** Try and delete your INI files from the `My Games\Skyrim Special Edition` folder. Then relaunch SkyrimSE normally through Steam (not through MO2), to let it regenerate the vanilla config files.
 
-
-
 **Context:**
 
 The reason why this is needed in the client and server is because they depend on libsodium lib which relies on AES. Therefore, we need to wait until libsodium stop relying on AES (which is unlikely, see) or reimplement some parts with OpenSSL (time consuming).
+
+
+
+### How do I check if `AES-NI` enabled?
+
+We need to download a tool named `CPU-Z`.
+
+1. Download CPU-Z [here](https://www.cpuid.com/softwares/cpu-z.html).
+2. Select the version you prefer (setup or portable version)
+3. Download and install it
+4. Open CPU-Z and look for `AES` under `Instructions`:\
+   ![](https://shx.is/5BFxts8CR.png)
+5. If you can find `AES`, it should be enabled.
+
+### How do I know if my CPU supports it? (Intel)
+
+1. Find the name of your CPU, using this method:
+2. Press your `Windows key` and search for `System information`
+3. Find the line where it says `Processors` and write down the name.
+4. Then visit the [this page](https://ark.intel.com) from Intel.
+5. Use the search function:\
+   ![](https://shx.is/5BFtNOIfU.png)
+6. Type in your CPU, e.g. `i7-9700K` and select it:\
+   ![](https://shx.is/5BFwpTD8m.png)
+7. Search for `AES New Instructions` on the page that opens
+8. If it says `Yes`, it's supported on your CPU. If it says `No`, it's not supported on your CPU.
+
+
+

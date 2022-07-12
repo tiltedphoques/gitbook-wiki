@@ -4,10 +4,6 @@ description: For developers only
 
 # Build guide
 
-{% hint style="danger" %}
-This guide cannot be used until the mod releases on July 8th, when the build goes open source.
-{% endhint %}
-
 ## Cloning the repository
 
 The code repository can be found [here](https://github.com/tiltedphoques/TiltedEvolution).

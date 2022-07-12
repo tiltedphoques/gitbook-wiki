@@ -48,7 +48,7 @@ In Visual Studio, set `FalloutImmversiveLauncher` or `SkyrimImmversiveLauncher` 
 
 ## Verifying
 
-If everything worked as intended, a Tilted Reverse Console will pop up. Once loaded into a save, run the corresponding server executable (or script, if you created one). Press F3 to display the Dear ImGui debug UI on top of your game. You should now be able to connect in-game by using the UI in the top left corner; pressing RCTRL or F2 should free your mouse so that you're able to interact with the UI.
+If everything worked as intended, a Tilted Reverse Console will pop up. Once loaded into a save, run the corresponding server executable (or script, if you created one). Press F3 to display the Dear ImGui debug UI on top of your game. You should now be able to connect in-game by using the UI in the top left corner; pressing RCTRL or F2 should free your mouse so that you're able to interact with the UI. Note that you must have the [Address Library](https://www.nexusmods.com/skyrimspecialedition/mods/32444?tab=files) mod manually installed to launch an instance of the game.
 
 ## Working in this repository
 

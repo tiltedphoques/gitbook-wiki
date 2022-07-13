@@ -16,7 +16,7 @@ VR, console, legendary edition (aka oldrim) and the gamepass version are not and
 
 ### Q: where can I report bugs and request features?
 
-A: we have an issue tracker for bugs and feature requests [here](https://github.com/tiltedphoques/bug-feature-reports).
+A: you can submit bugs and feature requests at our code repository [here](https://github.com/tiltedphoques/TiltedEvolution/issues).
 
 ### Q: what is the recommended amount of players?
 

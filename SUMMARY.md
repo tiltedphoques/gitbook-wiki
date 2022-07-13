@@ -57,7 +57,6 @@
     * [Port forwarding](guides/server-guide/linux-setup/port-forwarding.md)
   * [Server configuration parameters](guides/server-guide/server-configuration.md)
 * [Troubleshooting](guides/troubleshooting/README.md)
-  * [NPCs won't die](guides/troubleshooting/npcs-wont-die.md)
   * [Address Library error](guides/troubleshooting/address-library-error.md)
   * [My game runs with very low FPS](guides/troubleshooting/my-game-runs-with-very-low-fps.md)
   * [Closing the SkyrimTogether UI (STRUI) makes it reopen](guides/troubleshooting/closing-the-skyrimtogether-ui-strui-makes-it-reopen.md)

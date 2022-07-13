@@ -34,4 +34,4 @@
 
 ### That's it for the client part of the guide.
 
-### Next part: Server setup
+### Next part: [Server setup](../../../server-guide/)

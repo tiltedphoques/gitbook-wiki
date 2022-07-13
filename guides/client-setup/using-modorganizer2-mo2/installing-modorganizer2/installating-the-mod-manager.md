@@ -1,8 +1,8 @@
-# Installating the mod manager
+# Installating the MO2 mod manager
 
 ### Installing MO2
 
-Lets go and installing the mod organizer. There are two "big" ones to choose from. Vortex and MO2. In this guide we'll use MO2, since I don't really like the UI in Vortex that much.
+Lets go and installing the mod organizer.&#x20;
 
 1. Head to [this page](https://www.nexusmods.com/skyrimspecialedition/mods/6194?tab=files) and press the `Manual Download` button
 

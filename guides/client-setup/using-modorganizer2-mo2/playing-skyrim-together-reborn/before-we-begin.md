@@ -11,6 +11,6 @@
 
 ### How do I \_\_\_\_\_ with my friends?
 
-Use the excellent [playguide here](../../../general-information/playguide.md), and read it carefully. I don't want to explain the same things, when they've done it so well.
+Use the excellent [playguide here](../../../../general-information/playguide.md), and read it carefully. I don't want to explain the same things, when they've done it so well.
 
 ### Onwards to the next step!

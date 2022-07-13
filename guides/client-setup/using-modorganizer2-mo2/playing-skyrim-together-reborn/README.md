@@ -1,7 +1,7 @@
 # Playing Skyrim Together Reborn
 
 {% hint style="warning" %}
-Reading the playguide is **as essential** as the installation itself. It takes one minute to read. Please take the time to do so, as it will help you in the dozens of hours you might be playing this mod.
+Reading the [playguide](../../../../general-information/playguide.md) is **as essential** as the installation itself. It takes one minute to read. Please take the time to do so, as it will help you in the dozens of hours you might be playing this mod.
 {% endhint %}
 
 ### This section will cover how to play, using the Skyrim Together Reborn mod

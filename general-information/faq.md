@@ -26,7 +26,7 @@ A: while we do not have a hard player count limit in theory, for the best experi
 
 A: when developing Skyrim Together Reborn, the developers decided to make the mod work with Fallout 4 too. At the start of 2022, we decided to focus on Skyrim Together Reborn entirely due to time constraints and the small size of the team. We said that we would finish Fallout Together after Skyrim Together Reborn was released.
 
-There is currently only one developer on the team who is interested in finishing Fallout Together (see: _Q: will the mod get future updates?_). Even for this developer, this is most likely too big a task. If Fallout Together is to be completed, more developers need to pitch in. We hope that going open source brings in more people to help with that.
+There is currently only one developer on the team who is interested in finishing Fallout Together (see [_Q: will the mod get future updates?_](https://wiki.tiltedphoques.com/tilted-online/general-information/faq#q-will-the-mod-get-future-updates/)). Even for this developer, this is most likely too big a task. If Fallout Together is to be completed, more developers need to pitch in. We hope that going open source brings in more people to help with that.
 
 ### Q: can I use other mods with this mod?
 

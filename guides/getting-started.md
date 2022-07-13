@@ -20,17 +20,15 @@ This guide will try and include as many screenshots and GIFs as possible, and be
 
 Whenever the guide refers to "SkyrimSE", it's just short for Skyrim Special Edition.
 
-This guide will probably not be perfect, especially since English is not my first language, and also because I'm forgetful and will probably miss something important.
+### Notes:
 
-**Other notes:**
+{% hint style="warning" %}
+This guide uses ModOrganizer (MO2).
 
-* The UI in the screenshots will be from Windows 11.
-* I use ModOrganizer2 (MO2) instead of Vortex.
-* If you want to use Vortex, use [this YouTube tutorial](https://www.youtube.com/watch?v=7ogIhWUxPyE).
-* If you need hosting of a server, consider using the free "Skyrim Togehter Reborn" hosting service [PlayTogether](https://playtogether.gg/) by Discord user LordKanelsnegle (`LK#1337`).
+If you want to use NexusMods' **Vortex**, you can use [this YouTube tutorial](https://www.youtube.com/watch?v=7ogIhWUxPyE).
+{% endhint %}
+
+
 
 \
-Good luck!
-
-
-
+**Good luck!**

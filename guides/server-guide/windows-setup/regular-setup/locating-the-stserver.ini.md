@@ -4,7 +4,7 @@
 
 Now that our server is closed, and we've created the inbound rules for the firewall, we can take a look at the `STServer.ini` config file, that let's us configure a few parameters.
 
-#### Locating the `STServer.ini` config file
+#### **Locating the `STServer.ini` config file**
 
 1. Open MO2
 2. Find the mod `Skyrim Together Reborn`

@@ -35,7 +35,7 @@ bPremiumMode=true
 uPort=10578
 ```
 
-To read about what each specific line does, I will refer to [this page](../server-configuration.md) that explains every parameter available in depth.
+To read about what each specific line does, you can visit [this page](../server-configuration.md) that explains every parameter available in depth.
 
 I will, in the next page, explain what the `bEnableModCheck` is about, and how to configure that properly.
 

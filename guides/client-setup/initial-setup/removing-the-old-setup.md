@@ -28,7 +28,7 @@ Let's clear out the folder where all **your config files** and **your savegames 
 
 ![Remember to backup this folder, if you want to make sure you've saved your old settings and savegames](https://shx.is/5Bi9L78r2.png)
 
-#### Notes:
+#### **Notes:**
 
 * If you use Steam Cloud, it _should_ automatically upload your savegames to the Steam Cloud. And Steam _should_ re-download them, once you launch SkyrimSE again.
 * But if you don't trust Steam Cloud, or not sure if you've enabled it, do a manual backup of the `My Games\Skyrim Special Edition` folder.

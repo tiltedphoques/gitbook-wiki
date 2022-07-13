@@ -43,6 +43,7 @@ Building is the first step; once the project compiled successfully you will need
 In Visual Studio, set `FalloutImmversiveLauncher` or `SkyrimImmversiveLauncher` as the startup project and ensure you are in the dev branch. Hit `Local Windows Debugger` to start debugging. From `build/windows/x64/releasedbg` , you can launch the server executable and a second client if you wish.
 
 ### Building the Together UI
+
 Until you've built and installed the Together UI, you will not have it in game (this does not include the debug UI). Open a shell inside `Code/skyrim_ui` and execute `npm install` . This will install the required packages.
 
 Next, execute `npm run deploy:develop` to build the development version. Alternatively, execute `npm run deploy:production` to build the production version. Copy the folder `Code/skyrim_ui/dist/UI` over to `build/windows/x64/releasedbg` . Although not necessary, we recommend creating a symbolic link to the folder during development instead of duplicating to avoid having to copy over the folder after each build.

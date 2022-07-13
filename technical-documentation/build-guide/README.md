@@ -22,7 +22,7 @@ You will need [Visual Studio 2022 ](https://www.visualstudio.com/downloads/)(the
 
 ### Generating the project files
 
-You can generate the Visual Studio solution with `xmake project -k vsxmake` which can then be found in the `vsxmake20**` folder. You can choose the build mode either in Visual Studio directly, or through the command line, `xmake config -m releasedbg` .
+Run `xmake project -k vsxmake` to generate `TiltedEvolution.sln` , the Visual Studio solution which we'll be using. This can now be found in the `vsxmake20**` folder. You can choose the build mode either in Visual Studio directly, or through the command line, `xmake config -m releasedbg` .
 
 {% hint style="warning" %}
 You MUST do this step every time you merge changes from the main repository to avoid conflicts.
@@ -40,7 +40,12 @@ The mod can either be compiled through Visual Studio, or through the command lin
 
 Building is the first step; once the project compiled successfully you will need to generate an install by running `xmake install -o distrib`, which will create a directory called `distrib` in the root path that contains all of the files needed to run. Copy the files in `distrib/bin` over to `build/windows/x64/releasedbg` . This step should only be performed once, when building the project for the first time.
 
-In Visual Studio, set `FalloutImmversiveLauncher` or `SkyrimImmversiveLauncher` as the startup project. Hit `Local Windows Debugger` to start debugging. Simple launch the server exe and potentially a second client through the build folder.
+In Visual Studio, set `FalloutImmversiveLauncher` or `SkyrimImmversiveLauncher` as the startup project and ensure you are in the dev branch. Hit `Local Windows Debugger` to start debugging. From `build/windows/x64/releasedbg` , you can launch the server executable and a second client if you wish.
+
+### Building the Together UI
+Until you've built and installed the Together UI, you will not have it in game (this does not include the debug UI). Open a shell inside `Code/skyrim_ui` and execute `npm install` . This will install the required packages.
+
+Next, execute `npm run deploy:develop` to build the development version. Alternatively, execute `npm run deploy:production` to build the production version. Copy the folder `Code/skyrim_ui/dist/UI` over to `build/windows/x64/releasedbg` . Although not necessary, we recommend creating a symbolic link to the folder during development instead of duplicating to avoid having to copy over the folder after each build.
 
 ## Verifying
 
@@ -82,7 +87,7 @@ When it comes to the actual code (located in `TiltedEvolution\Code`), the two pr
 
 ### Starting points
 
-When getting started, a good place to begin is looking at the **TestService** in `client` as it demonstrates how to get a service to listen to update events and how to spawn a copy of yourself. It also displays a bunch of gameplay elements for which we have written debuggers.
+When getting started, a good place to begin is looking at the **DebugService** in `client\Services` as it demonstrates how to get a service to listen to update events and how to spawn a copy of yourself. It also displays a bunch of gameplay elements for which we have written debuggers.
 
 ## Afterword
 

@@ -26,7 +26,7 @@
 
 8\. Now you should be connected and ready to play Skyrim Together Reborn with your friends :thumbsup:
 
-#### Notes:
+#### **Notes:**
 
 1. If you `ALT-TAB` out and back in, it might get stuck. Press either `F2` or `Right-CTRL` to close it and then re-open it again.
 2. If it gets stuck, or doesn't want to close or re-open, you might need to restart the game.

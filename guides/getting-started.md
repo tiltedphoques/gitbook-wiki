@@ -20,15 +20,17 @@ This guide will try and include as many screenshots and GIFs as possible, and be
 
 Whenever the guide refers to "SkyrimSE", it's just short for Skyrim Special Edition.
 
-### Notes:
+### Guides:
 
 {% hint style="warning" %}
-This guide uses ModOrganizer (MO2).
+The guide uses either MO2 or Vortex as the mod manager.
 
-If you want to use NexusMods' **Vortex**, you can use [this YouTube tutorial](https://www.youtube.com/watch?v=7ogIhWUxPyE).
+Both mod managers has their own separate guides.
 {% endhint %}
 
+### [Client Setup](client-setup/) (installing the mod)
 
+### [Server Setup](getting-started.md#server-setup) (hosting a server)
 
 \
 **Good luck!**

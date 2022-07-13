@@ -4,7 +4,7 @@
 
 We also need to get some terminology in place. Mostly regarding ip addresses and networks.
 
-I'm no expert in networking, but these are the basics, that are good to know, and that I'll use myself throughout the guide.
+I'm no expert in networking, but these are the basics, that are good to know, and that will be used throughout the guide.
 
 #### **Local network**
 

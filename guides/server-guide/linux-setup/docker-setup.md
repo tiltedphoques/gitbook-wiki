@@ -1,6 +1,6 @@
 # Docker setup
 
-I will assume you're using **Ubuntu 22.04 LTS** in this guide. I don't want to cover a whole lot of distros, so I'll just go with the most popular one.
+I will assume you're using **Ubuntu 22.04 LTS** in this guide. I don't want to cover a whole lot of distros, so the guide will just use the most popular one.
 
 ### Installing Docker
 
@@ -38,14 +38,10 @@ I like to put my stuff in `/opt/` so that's what we will do for now
    `docker logs -tf "skyrimserver"`
 5. Now your server is up and running.
 
-
-
 ### Stopping your docker server
 
 1. To stop your `skyrimserver`, simply run this command in your console
 2. `docker stop skyrimserver` and it will stop your Skyrim Together Reborn server.
-
-
 
 ### I want to use docker-compose, what is the template?
 

@@ -33,7 +33,7 @@ We need to join the network of the server host.
 ### Using the Skyrim Together Reborn UI (STRUI)
 
 1. Now to connect to your friends Skyrim Together Reborn server.
-2. You can use either `F2` or `Right-CTRL` to open up the Skyrim Together Reborn UI. I'll refer to it as the `STRUI` from now on.
+2. You can use either `F2` or `Right-CTRL` to open up the Skyrim Together Reborn UI. The guide will refer to it as the `STRUI` from now on.
 3. Open up the `STRUI` by pressing either `F2` or `Right-CTRL`.
 4. Press the `Connect` button to start connecting to a server
 

@@ -24,6 +24,6 @@ This guide will go through setting up a server on your Windows PC, using ZeroTie
 
 This guide will go through setting up a server on your Linux PC, using Docker.
 
-I'll only use the Linux terminal in this guide.
+In this guide, only the Linux terminal will be used.
 
 ### Onwards to the next step!

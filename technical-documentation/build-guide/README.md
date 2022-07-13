@@ -92,4 +92,4 @@ When getting started, a good place to begin is looking at the **DebugService** i
 
 ## Afterword
 
-And that's all! With that, you're on your way to making great contributions to the repository. As mentioned previously, if you have any questions or encounter any hurdles, feel free to use the **#coding** channel in the Skyrim Together Discord!
+And that's all! With that, you're on your way to making great contributions to the repository. As mentioned previously, if you have any questions or encounter any hurdles, feel free to use the **#coding** channel in the [Skyrim Together Discord](https://discord.gg/skyrimtogether)!

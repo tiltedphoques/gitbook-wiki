@@ -18,7 +18,13 @@ Once the command has finished executing, you should have a copy of this reposito
 
 ### Requirements
 
-You will need [Visual Studio 2022 ](https://www.visualstudio.com/downloads/)(the community edition is freely available for download) and [xmake ](https://xmake.io/#/getting\_started)to build the project, as well as [Node.js](https://nodejs.org/en/) for building the UI.
+You will need [Visual Studio 2022](https://www.visualstudio.com/downloads/) (the community edition is freely available for download) and [xmake](https://xmake.io/#/getting\_started) to build the project, as well as [Node.js](https://nodejs.org/en/) for building the UI.
+
+#### Installing Visual Studio 2022
+Download Visual Studio 2022 from the official [webpage](https://www.visualstudio.com/downloads/)) (the community edition is free). Follow the installation steps and what you reach the following screen select the options "Desktop development with C++" and "Game development with C++".
+
+<img src="https://i.imgur.com/AJ03O1g.png" alt="Installation details" width="80%">
+
 
 ### Generating the project files
 

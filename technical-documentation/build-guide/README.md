@@ -18,7 +18,7 @@ Once the command has finished executing, you should have a copy of this reposito
 
 ### Requirements
 
-You will need [Visual Studio 2022](https://www.visualstudio.com/downloads/) (the community edition is freely available for download) and [xmake](https://xmake.io/#/getting\_started) to build the project, as well as [Node.js](https://nodejs.org/en/) for building the UI.
+You will need [Visual Studio 2022](https://www.visualstudio.com/downloads/) (the community edition is freely available for download) and [xmake](https://xmake.io/#/getting\_started) to build the project, as well as [Node.js](https://nodejs.org/en/) and [PNPM](https://pnpm.io/) for building the UI.
 
 #### Installing Visual Studio 2022
 Download Visual Studio 2022 from the official [webpage](https://www.visualstudio.com/downloads/)) (the community edition is free). Follow the installation steps and what you reach the following screen select the options "Desktop development with C++" and "Game development with C++".
@@ -50,9 +50,9 @@ In Visual Studio, set `FalloutImmversiveLauncher` or `SkyrimImmversiveLauncher` 
 
 ### Building the Together UI
 
-Until you've built and installed the Together UI, you will not have it in game (this does not include the debug UI). Open a shell inside `Code/skyrim_ui` and execute `npm install` . This will install the required packages.
+Until you've built and installed the Together UI, you will not have it in game (this does not include the debug UI). Open a shell inside `Code/skyrim_ui` and execute `pnpm install`. This will install the required packages.
 
-Next, execute `npm run deploy:develop` to build the development version. Alternatively, execute `npm run deploy:production` to build the production version. Copy the folder `Code/skyrim_ui/dist/UI` over to `build/windows/x64/releasedbg` . Although not necessary, we recommend creating a symbolic link to the folder during development instead of duplicating to avoid having to copy over the folder after each build.
+Next, execute `pnpm deploy:develop` to build the development version. Alternatively, execute `pnpm deploy:production` to build the production version. Copy the folder `Code/skyrim_ui/dist/UI` over to `build/windows/x64/releasedbg` . Although not necessary, we recommend creating a symbolic link to the folder during development instead of duplicating to avoid having to copy over the folder after each build.
 
 ## Verifying
 

@@ -1,6 +1,6 @@
 # Utilities
 
-### This section will cover installing ModOrganizer2 (MO2)
+### This section will cover installing SKSE and Address Library
 
 This section will cover installing SKSE and the `Address Library for SKSE`, and how to manage downloads and installs in ModOrganizer2 (MO2).
 

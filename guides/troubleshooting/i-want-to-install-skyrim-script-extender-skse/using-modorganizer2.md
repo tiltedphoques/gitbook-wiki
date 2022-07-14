@@ -1,8 +1,8 @@
 # Using ModOrganizer2
 
-Now we are going to get SKSE installed. This we will have to do manually.
-
-It's pretty easy and straightforward!
+{% hint style="danger" %}
+It's **NOT** required to use Skyrim Script Extender (SKSE) to play Skyrim Together Reborn!
+{% endhint %}
 
 ## Downloading SKSE using MO2
 

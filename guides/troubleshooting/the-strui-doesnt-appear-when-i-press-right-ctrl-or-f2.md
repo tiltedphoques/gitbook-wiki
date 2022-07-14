@@ -1,6 +1,6 @@
 # The STRUI doesn't appear when I press RIGHT CTRL or F2
 
-### Q: The STRUI doesn't appear when I press either `Right CTRL` or `F2`
+## Q: The STRUI doesn't appear when I press either `Right CTRL` or `F2`
 
 **A:** First, make sure you've followed this guide from A-Z. Then it shouldn't even happen in the first place. Make sure your `Skyrim Together Reborn` mod folder, with the `SkyrimTogehter.exe`, is located at:\
 `C:\Modding\MO2\mods\Skyrim Together Reborn\SkyrimTogetherReborn`
@@ -15,8 +15,8 @@
 
 **A:** You can try and launch the game using the `skse64_loader.exe`, load your latest savegame and then exit the game. Then go back to MO2 and launch the game using the custom Skyrim Together Reborn launcher, and it should work again.
 
-### None of that worked for me, what do I do?
+## None of that worked for me, what do I do?
 
-**A:**  You can do a complete reinstall. Deleting the Skyrim root folder, the `C:\Modding` folder (if you're using MO2) and the `My Games\Skyrim Special Edition` folder - and doing the entire guide again.
+**A:**  You can do a [complete reinstall](../getting-started.md). Deleting the Skyrim root folder, the `C:\Modding` folder (if you're using MO2) and the `My Games\Skyrim Special Edition` folder - and doing the entire guide again.
 
 If you're using Vortex,  delete the game profile we created named `Skyrim Together Reborn`.

@@ -1,6 +1,6 @@
 # My game runs with very low FPS
 
-### Q: Normally my game runs fine, but when launching through `SkyrimTogether.exe` the performance is terrible
+## Q: Normally my game runs fine, but when launching through `SkyrimTogether.exe` the performance is terrible
 
 This usually happens in laptops, or in systems where the CPU has an integrated graphics unit built in. The fix is to set your system to use your dedicated graphics card, and not your iGPU.
 

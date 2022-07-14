@@ -7,7 +7,7 @@
 3. You **NEED** to complete the first Helgen mission before even trying to connect. Else it'll end up badly for you, and you might need to start over, with a new savegame.
 4. Expect bugs. Lots of bugs. This will not be a MMO-like smooth experience, where everything "just works". Remember, they're a team of volunteers doing this **for free** in their spare time.
 5. If you want to help improve the mod, we are always looking for **C++ coders** for the mod and **Angular/TypeScript coders** for the UI of the mod. Head to their [Discord](https://discord.gg/skyrimtogether) and introduce yourself :thumbsup:
-6. If you don't know how to code, but want to help anyways, please report your bugs and findings [here](https://github.com/tiltedphoques/bug-feature-reports/issues/new?assignees=\&labels=\&template=Bug\_report.md). Use the template, it's there for a reason. Be as thorough as possible, if you actually want to help fix the bug.
+6. If you don't know how to code, but want to help anyways, please report your bugs and findings [here](https://github.com/tiltedphoques/TiltedEvolution/issues). Use the template, it's there for a reason. Be as thorough as possible, if you actually want to help fix the bug.
 
 ## How do I \_\_\_\_\_ with my friends?
 

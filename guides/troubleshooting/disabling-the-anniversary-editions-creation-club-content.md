@@ -1,6 +1,6 @@
 # Disabling the Anniversary Editions Creation Club content
 
-### Disabling the SkyrimSE Anniversary Editions included Creation Club content
+## Disabling the SkyrimSE Anniversary Editions included Creation Club content
 
 You can't actually disable them, so we'll have two options to choose from:
 
@@ -58,7 +58,7 @@ Steam will try and redownload those files. E.g. if Skyrim has an update, or you 
 
 ![Option 2](https://shx.is/5BsA\_LBe2.gif)
 
-### I need the Creation Club files back, what do I do?
+## I need the Creation Club files back, what do I do?
 
 If you chose the **2nd option**, and want the files again you can always `Verify integrity of game files` through Steam:
 
@@ -66,6 +66,4 @@ If you chose the **2nd option**, and want the files again you can always `Verify
 2. Right click and select `Properties`
 3. Select `Local Files`
 4. Select `Verify integrity of game files...`
-5. Steam will redownload the Creation Club mods that you deleted
-
-### Onwards to the next step!
+5. Steam will re-download the Creation Club mods that you deleted

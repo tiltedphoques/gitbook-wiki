@@ -1,6 +1,6 @@
 # Hostile NPCs only target my friends, not me
 
-### Q: When we're in combat, the NPCs only target my friends and not me
+## Q: When we're in combat, the NPCs only target my friends and not me
 
 **A:** That may happen if you've already killed the mobs in your own savegame.
 

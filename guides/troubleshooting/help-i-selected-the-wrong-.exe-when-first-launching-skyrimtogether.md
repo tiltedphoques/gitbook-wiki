@@ -1,6 +1,6 @@
 # Help! I selected the wrong .exe, when first launching SkyrimTogether
 
-### Q: Help! I selected the wrong .exe, when first launching SkyrimTogether
+## Q: Help! I selected the wrong .exe, when first launching SkyrimTogether
 
 
 

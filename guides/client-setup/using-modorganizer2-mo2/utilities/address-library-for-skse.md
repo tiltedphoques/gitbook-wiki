@@ -1,6 +1,12 @@
 # Address Library for SKSE
 
-We'll need the Address Library mod for Skyrim Together Reborn to work.
+{% hint style="danger" %}
+It's **NOT** required to use Skyrim Script Extender (SKSE) to play Skyrim Together Reborn!
+{% endhint %}
+
+Even though the name of the mod is `Address Library for SKSE`, we don't actually need SKSE installed.&#x20;
+
+But we **do** need to install this mod, for Skyrim Together Reborn to work.
 
 ## Downloading and installing Address Library
 

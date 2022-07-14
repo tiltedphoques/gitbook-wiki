@@ -1,10 +1,10 @@
-# Skyrim Script Extender (SKSE)
+# Using ModOrganizer2
 
 Now we are going to get SKSE installed. This we will have to do manually.
 
 It's pretty easy and straightforward!
 
-## Downloading SKSE
+## Downloading SKSE using MO2
 
 1. Before we begin, **please close your MO2 instance!**
 2. Head to [this website](https://skse.silverlock.org/) and download the `Anniversary Edition` version of SKSE

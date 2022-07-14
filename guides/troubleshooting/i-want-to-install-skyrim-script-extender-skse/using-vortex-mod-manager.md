@@ -1,4 +1,4 @@
-# Skyrim Script Extender (SKSE)
+# Using Vortex Mod Manager
 
 Now we are going to get SKSE installed.&#x20;
 

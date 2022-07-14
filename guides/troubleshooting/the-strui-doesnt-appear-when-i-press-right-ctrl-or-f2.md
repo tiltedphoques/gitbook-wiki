@@ -15,6 +15,8 @@
 
 **A:** You can try and launch the game using the `skse64_loader.exe`, load your latest savegame and then exit the game. Then go back to MO2 and launch the game using the custom Skyrim Together Reborn launcher, and it should work again.
 
-#### None of that worked for me, what do I do?
+### None of that worked for me, what do I do?
 
-**A:** I had the issue myself. The only thing I could do to solve it was do a complete reinstall. Deleting the Skyrim root folder, the `C:\Modding` folder and the `My Games\Skyrim Special Edition` folder - and doing the entire guide again.
+**A:**  You can do a complete reinstall. Deleting the Skyrim root folder, the `C:\Modding` folder (if you're using MO2) and the `My Games\Skyrim Special Edition` folder - and doing the entire guide again.
+
+If you're using Vortex,  delete the game profile we created named `Skyrim Together Reborn`.

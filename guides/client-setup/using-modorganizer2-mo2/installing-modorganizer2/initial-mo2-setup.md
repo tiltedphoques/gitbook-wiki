@@ -1,6 +1,6 @@
 # Initial MO2 setup
 
-### Opening MO2 for the first time
+## Opening MO2 for the first time
 
 Opening MO2 for the first time will present you with a window, titled `Creating an instance`. Follow these steps:
 
@@ -41,4 +41,4 @@ Opening MO2 for the first time will present you with a window, titled `Creating 
 
 ![](https://shx.is/5BiDoUbtD.png)
 
-### Onwards to the next step!
+#### Onwards to the next step!

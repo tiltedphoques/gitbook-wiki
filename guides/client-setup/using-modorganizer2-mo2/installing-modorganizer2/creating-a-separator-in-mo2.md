@@ -8,7 +8,7 @@ Since we don't need many, if even any, mods, we'll just create one separator.
 
 But if you want to add more separators (to sort other mods), you can do so yourself.
 
-### Creating a separator
+## Creating a separator
 
 1. Open MO2
 2. Make sure to select the profile "Skyrim Together Reborn" that we created earlier.
@@ -18,4 +18,4 @@ But if you want to add more separators (to sort other mods), you can do so yours
 
 ![Now we have a nice separator!](https://shx.is/5BiRamd9b.gif)
 
-### Onwards to the next step!
+#### Onwards to the next step!

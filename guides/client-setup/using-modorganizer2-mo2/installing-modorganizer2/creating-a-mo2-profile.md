@@ -2,7 +2,7 @@
 
 Now we need to setup MO2 properly.
 
-### Creating a new profile
+## Creating a new profile
 
 1. Find this icon in the top menu <img src="https://shx.is/5BEuPZp6d.png" alt="" data-size="line"> and press it. It should say `Configure profiles` when hovering it. This will open a new window.
 2. Press `Create` and name your profile what you want. In this tutorial we'll go with `Skyrim Together Reborn`.
@@ -12,6 +12,6 @@ Now we need to setup MO2 properly.
 
 ![It's pretty simple!](https://shx.is/5BizPEsKU.gif)
 
-Now we have a seperate profile that we can mess around with.
+Now we have a separate profile that we can mess around with.
 
-### Onwards to the next step!
+#### Onwards to the next step!

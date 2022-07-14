@@ -2,9 +2,7 @@
 
 This step is **ONLY** needed for the **HOST** of the server. The clients can just [follow this step](connecting-to-your-server.md).
 
-
-
-### Making a ZeroTier account
+## Making a ZeroTier account
 
 1. First off, head to ZeroTier and [create an account](https://accounts.zerotier.com/auth/realms/zerotier/protocol/openid-connect/registrations?client\_id=zt-central\&redirect\_uri=https%3A%2F%2Fmy.zerotier.com%2Fapi%2F\_auth%2Foidc%2Fcallback\&response\_type=code\&scope=openid+profile+email+offline\_access\&state=state).
 2. You don't need to put in your real information, except for your email.
@@ -12,13 +10,11 @@ This step is **ONLY** needed for the **HOST** of the server. The clients can jus
 4. Then verify your email (click the link in your email)
 5. ![](https://shx.is/5BDY4FKl1.png)
 
-
-
-### Creating a ZeroTier network
+## Creating a ZeroTier network
 
 1. Go to the [MyZeroTier page](https://my.zerotier.com/).
 2. Select `Create a network`
-3. It will then create a new ZeroTier network for you: \
+3. It will then create a new ZeroTier network for you:\
    ![](https://shx.is/5BD\_1pAr6.png)
 4. Select the network it created by clicking it.
 5. There will be a lot of configuration options. We don't need to focus on them right now.
@@ -28,5 +24,4 @@ This step is **ONLY** needed for the **HOST** of the server. The clients can jus
 
 ![](https://shx.is/5BDZGR0EF.gif)
 
-### Onwards to the next step!
-
+#### Onwards to the next step!

@@ -1,6 +1,6 @@
 # Installing the game
 
-### Installing SkyrimSE
+## Installing SkyrimSE
 
 Now to install a fresh install of SkyrimSE.
 
@@ -12,4 +12,4 @@ Now to install a fresh install of SkyrimSE.
 
 ![](https://shx.is/5BicuES0K.gif)
 
-### Onwards to the next step!
+#### Onwards to the next step!

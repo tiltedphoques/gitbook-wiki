@@ -4,7 +4,7 @@ description: Installation of the Skyrim Together Reborn on the client-side
 
 # Client setup
 
-### **Prerequisites**
+## **Prerequisites**
 
 Here's a short list of what you need to get completely up and running.
 
@@ -17,4 +17,4 @@ You need:
 
 ![Take a deep breath, before you begin](https://shx.is/5Bik56Rp7.gif)
 
-### Onwards to the next step!
+#### Onwards to the next step!

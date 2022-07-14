@@ -1,6 +1,6 @@
 # Making a custom launch option in VMM
 
-### Making a custom launch option in VMM
+## Making a custom launch option in VMM
 
 1. Open Vortex
 2. Go to the `Dashboard`
@@ -13,4 +13,4 @@
 
 ![So far so good!](https://shx.is/5BKPJbEsT.gif)
 
-### Onwards to the next step!
+#### Onwards to the next step!

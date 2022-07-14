@@ -1,6 +1,6 @@
 # Installing Skyrim Together Reborn
 
-### Installing Skyrim Together Reborn in MO2
+## Installing Skyrim Together Reborn in MO2
 
 1. To the right in MO2, there should be a tab named ![](https://shx.is/5BiX5nxYS.png). Click it!
 2. In there will be the mod we just downloaded. Right-click on it and select `Install`
@@ -14,4 +14,4 @@
 10. ![](https://shx.is/5BltW8IW4.gif)
 11. So far so good.
 
-### Onwards to the next step!
+#### Onwards to the next step!

@@ -5,7 +5,7 @@ With our path copied from the last step:\
 
 We are now ready to continue!
 
-### Making a custom launch option in MO2
+## Making a custom launch option in MO2
 
 1. Open MO2
 2. Locate the box besides the `RUN` button, where it says `Skyrim Special Edition`
@@ -39,4 +39,4 @@ We are now ready to continue!
 
 ![](https://shx.is/5BlC7XaC1.gif)
 
-### Onwards to the next step!
+#### Onwards to the next step!

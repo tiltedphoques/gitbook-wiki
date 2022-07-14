@@ -4,7 +4,7 @@ Now we are going to get SKSE installed. This we will have to do manually.
 
 It's pretty easy and straightforward!
 
-### Downloading SKSE
+## Downloading SKSE
 
 1. Before we begin, **please close your MO2 instance!**
 2. Head to [this website](https://skse.silverlock.org/) and download the `Anniversary Edition` version of SKSE
@@ -26,7 +26,7 @@ It's pretty easy and straightforward!
 
 ![So far so very good :)](https://shx.is/5BiUAuF1o.gif)
 
-#### Running Skyrim with SKSE
+## Running Skyrim with SKSE
 
 Just be sure it works, let's launch SKSE now manually.
 
@@ -34,4 +34,4 @@ Just be sure it works, let's launch SKSE now manually.
    `C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition`
 2. Open the `skse64_loader.exe` and Exit Skyrim after the main menu has loaded.
 
-### Onwards to the next step!
+#### Onwards to the next step!

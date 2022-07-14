@@ -1,6 +1,6 @@
 # Editing STServer.ini
 
-### First look at `STServer.ini`
+## First look at `STServer.ini`
 
 The default `STServer.ini` config file will look like this:
 
@@ -39,7 +39,7 @@ To read about what each specific line does, you can visit [this page](../server-
 
 I will, in the next page, explain what the `bEnableModCheck` is about, and how to configure that properly.
 
-### Example of how a config file can look
+## Example of how a config file can look
 
 I'll give you an example of how a config file can be setup. I will again refer to [this page](../server-configuration.md) if you need more explanation of the parameters. I think it's pretty straight forward.
 
@@ -74,4 +74,4 @@ bPremiumMode=true # Setting the tickrate to 60
 uPort=10578 # Setting the port to 10578 (important!)
 ```
 
-### Onwards to learn about the `bEnableModCheck`!
+#### Onwards to learn about the `bEnableModCheck`!

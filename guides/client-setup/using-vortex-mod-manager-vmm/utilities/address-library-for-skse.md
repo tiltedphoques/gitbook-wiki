@@ -2,7 +2,7 @@
 
 We'll need the Address Library mod for Skyrim Together Reborn to work.
 
-### Downloading and installing Address Library
+## Downloading and installing Address Library
 
 1. Head to the [mod page](https://www.nexusmods.com/skyrimspecialedition/mods/32444?tab=files), find the `All in one (Anniversary Edition)` version and press `Mod Manager Download`
 2. ![](https://shx.is/5BiWbFFPM.png)
@@ -11,6 +11,4 @@ We'll need the Address Library mod for Skyrim Together Reborn to work.
 
 ![](https://shx.is/5BKMDyOze.gif)
 
-
-
-### Onwards to the next step!
+#### Onwards to the next step!

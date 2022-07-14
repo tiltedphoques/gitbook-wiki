@@ -1,6 +1,6 @@
 # Overview
 
-### Overview
+## Overview
 
 Here will be an overview of the different guides and approaches to installing and playing Skyrim Together Reborn.
 

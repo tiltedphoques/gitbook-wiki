@@ -1,6 +1,6 @@
 # First time launch
 
-### First time launching the game
+## First time launching the game
 
 1. Open up VMM
 2. Make sure to select the `Skyrim Together Reborn` in the `Dashboard` menu of Vortex
@@ -14,4 +14,4 @@
 
 ![](https://shx.is/5BlO9atGb.png)
 
-### Onwards to the next step!
+#### Onwards to the next step!

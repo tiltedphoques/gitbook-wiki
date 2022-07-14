@@ -30,7 +30,7 @@ Both mod managers has their own separate guides.
 
 ### [Client Setup](client-setup/) (installing the mod)
 
-### [Server Setup](getting-started.md#server-setup) (hosting a server)
+### [Server Setup](server-guide/) (hosting a server)
 
 \
 **Good luck!**

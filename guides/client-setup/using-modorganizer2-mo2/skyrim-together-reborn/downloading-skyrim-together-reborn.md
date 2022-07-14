@@ -4,7 +4,7 @@
 If you just skipped straight to this section, this guide will probably not work for you.
 {% endhint %}
 
-### Downloading Skyrim Together Reborn
+## Downloading Skyrim Together Reborn
 
 1. Head to the [mod page](https://www.nexusmods.com/skyrimspecialedition/mods/69993?tab=files), find the `Skyrim Together Reborn` file
 2. Press the `Mod Manager Download` button
@@ -14,4 +14,4 @@ If you just skipped straight to this section, this guide will probably not work 
    ![](https://shx.is/5BlnFyqyz.png)![](https://shx.is/5Blo5Z9rJ.png)
 6. Your MO2 should now launch and download the mod.
 
-### Onwards to the next step!
+#### Onwards to the next step!

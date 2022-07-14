@@ -2,7 +2,7 @@
 
 I will assume you're using **Ubuntu 22.04 LTS** in this guide. I don't want to cover a whole lot of distros, so the guide will just use the most popular one.
 
-### Installing Docker
+## Installing Docker
 
 1. Open your terminal
 2. Do a `sudo apt update`
@@ -19,7 +19,7 @@ I will assume you're using **Ubuntu 22.04 LTS** in this guide. I don't want to c
    `sudo usermod -aG docker ${USER}`
 9. You will need to re-log your user, for this to take effect (open and close your terminal, if you're using a headless Ubuntu server)
 
-### Creating paths for the Skyrim Together Reborn server
+## Creating paths for the Skyrim Together Reborn server
 
 I like to put my stuff in `/opt/` so that's what we will do for now
 
@@ -28,7 +28,7 @@ I like to put my stuff in `/opt/` so that's what we will do for now
 2. Now let us take ownership of the folders\
    `sudo chown -R ${USER}:${USER} /opt/docker`
 
-### Starting the server using Docker
+## Starting the server using Docker
 
 1. Docker is extremely simple to get up and running
 2. We just need to run this command, and Docker will take care of the rest:\
@@ -43,7 +43,7 @@ I like to put my stuff in `/opt/` so that's what we will do for now
 1. To stop your `skyrimserver`, simply run this command in your console
 2. `docker stop skyrimserver` and it will stop your Skyrim Together Reborn server.
 
-### I want to use docker-compose, what is the template?
+## I want to use docker-compose, what is the template?
 
 ```
 version: "3.9"
@@ -61,4 +61,4 @@ services:
     restart: unless-stopped
 ```
 
-### Onwards to the next step!
+#### Onwards to the next step!

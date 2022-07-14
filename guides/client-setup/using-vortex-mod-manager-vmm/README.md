@@ -1,6 +1,6 @@
 # Using Vortex Mod Manager (VMM)
 
-### Using Vortex Mod Manager (VMM)
+## Using Vortex Mod Manager (VMM)
 
 This guide will show how to setup and install `Skyrim Together Reborn`, using NexusMod's Vortex Mod Manager (VMM) as the mod manager.
 

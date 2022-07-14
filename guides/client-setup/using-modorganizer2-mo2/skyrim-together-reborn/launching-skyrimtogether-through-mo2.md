@@ -1,8 +1,6 @@
 # Launching SkyrimTogether through MO2
 
-We are very close now :thumbsup:
-
-### Launching `SkyrimTogether.exe` for the first time
+## Launching `SkyrimTogether.exe` for the first time
 
 1. Open MO2
 2. Make sure `Skyrim Together Reborn` has been selected in the launch option dropdown menu
@@ -24,23 +22,23 @@ It's looking for the `Address Library for SKSE` mod, but that will only be loade
 
 ![](https://shx.is/5BlILHGmw.gif)
 
-### Oh shit! I selected the wrong `.exe` file, what do I do??
+## Oh shit! I selected the wrong `.exe` file, what do I do??
 
 You have three options
 
-#### **Option 1**
+### **Option 1**
 
 1. Press the `WindowsKey + R` and copy & paste this into the `Run` prompt:\
    `C:\Modding\MO2\mods\Skyrim Together Reborn\SkyrimTogetherReborn\SkyrimTogether.exe -r`
 2. Then select the right executable (`SkyrimSE.exe`)
 
-#### **Option 2**
+### **Option 2**
 
 1. Head to the Skyrim Together Reborn mod folder location:\
    `C:\Modding\MO2\mods\Skyrim Together Reborn\SkyrimTogetherReborn`
 2. Hold down your `Spacebar` and then double click the `SkyrimTogether.exe`. It shoud allow you to choose another executable.
 
-#### **Option 3**
+### **Option 3**
 
 1. Press `Windows Key + R` to open the `Run` menu
 2. Type `regedit` to open the Registry Editor.
@@ -49,4 +47,4 @@ You have three options
 5. Delete the folder called `TiltedPhoques`
 6. This will remove the default preference of the `SkyrimTogether.exe`, and it will ask you again upon reopening the `SkyrimTogether.exe`.
 
-### Onwards to the next step!
+#### Onwards to the next step!

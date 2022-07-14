@@ -1,6 +1,6 @@
 # Installating the MO2 mod manager
 
-### Installing MO2
+## Installing MO2
 
 Lets go and installing the mod organizer.&#x20;
 
@@ -18,4 +18,4 @@ Lets go and installing the mod organizer.&#x20;
 
 4\. So far so good.
 
-### Onwards to the next step!
+#### Onwards to the next step!

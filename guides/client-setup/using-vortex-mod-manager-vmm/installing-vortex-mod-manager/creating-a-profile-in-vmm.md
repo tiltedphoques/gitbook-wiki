@@ -1,6 +1,6 @@
 # Creating a profile in VMM
 
-### Creating a profile in Vortex Mod Manager
+## Creating a profile in Vortex Mod Manager
 
 1. Open Vortex
 2. In the lefthand menu, select ![](https://shx.is/5BKb\_VSWY.png)
@@ -14,4 +14,4 @@
 
 ![](https://shx.is/5BKdnJlTT.gif)
 
-### Onwards to the next step!
+#### Onwards to the next step!

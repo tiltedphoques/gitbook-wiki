@@ -1,6 +1,6 @@
 # Connecting to a server
 
-### Using the Skyrim Together Reborn UI (STRUI)
+## Using the Skyrim Together Reborn UI (STRUI)
 
 1. Now that we're out of the cave, we want to connect to a Skyrim Together Reborn server.
 2. You can use either `F2` or `Right-CTRL` to open up the Skyrim Together Reborn UI. The guide will refer to it as the `STRUI` from now on.
@@ -9,7 +9,7 @@
 
 ![](https://shx.is/5BlQ6rSiM.png)
 
-### Connecting to a server
+## Connecting to a server
 
 1. When you press connect, you can enter your server's connection information.
 2. There will be an `Address` field and a `Password` field.
@@ -26,12 +26,12 @@
 
 8\. Now you should be connected and ready to play Skyrim Together Reborn with your friends :thumbsup:
 
-#### **Notes:**
+## **Notes:**
 
 1. If you `ALT-TAB` out and back in, it might get stuck. Press either `F2` or `Right-CTRL` to close it and then re-open it again.
 2. If it gets stuck, or doesn't want to close or re-open, you might need to restart the game.
 3. If your connection times out, make sure the **server host** has forwarded the port `10578`. There's a decent guide on how to do it [here](https://www.youtube.com/watch?v=ExrSULINq9c).
 
-### That's it for the client part of the guide.
+#### That's it for the client part of the guide.
 
 ### Next part: [Server setup](../../../server-guide/)

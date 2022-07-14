@@ -1,6 +1,6 @@
 # Initial VMM setup
 
-### Logging in to Vortex Mod Manager
+## Logging in to Vortex Mod Manager
 
 First off, we need to connect our NexusMods account to the VMM.
 
@@ -20,7 +20,7 @@ First off, we need to connect our NexusMods account to the VMM.
 
 ![](https://shx.is/5BK79x9FN.gif)
 
-### Initial Vortex Mod Manager setup
+## Initial Vortex Mod Manager setup
 
 1. Open `Vortex`&#x20;
 2. Find the `Profile Management` button, and press it once, so it says `Yes`:\
@@ -37,3 +37,4 @@ First off, we need to connect our NexusMods account to the VMM.
 
 ![So far so good](https://shx.is/5BK7rn0ZO.gif)
 
+#### Onwards to the next step!

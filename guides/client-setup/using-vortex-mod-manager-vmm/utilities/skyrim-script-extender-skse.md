@@ -8,7 +8,7 @@ In VMM there are multiple options, we'll focus on two different ones.
 
 **Option 2: Downloading it manually, importing it in VMM**
 
-### Option 1: Downloading SKSE through VMM
+## Option 1: Downloading SKSE through VMM
 
 1. Close Vortex
 2. Open Vortex
@@ -34,7 +34,7 @@ Remember to complete **Running Skyrim with SKSE**, at the bottom of this page.
 
 
 
-### Option 2: Downloading SKSE manually
+## Option 2: Downloading SKSE manually
 
 This option will guide you through downloading `SKSE` and importing it manually in VMM.
 
@@ -54,17 +54,19 @@ This option will guide you through downloading `SKSE` and importing it manually 
 
 ![](https://shx.is/5BKjLevFK.png)
 
-###
+{% hint style="warning" %}
+Remember to run **SkyrimSE** with **SKSE** after installing it, to make sure it works!
+{% endhint %}
 
-### Running Skyrim with SKSE
+## Running Skyrim with SKSE
 
 Just be sure it works, let's launch SKSE now manually.
 
 1. Open Vortex
 2. Go to the `Dashboard`
-3. Find this blahblah
+3. Find the custom launch option named `Skyrim Script Extender 64`
 4. Press this \
    ![](https://shx.is/5BKkoaCyQ.png)
 5. If it doesn't show up, or if you can't launch it, restart Vortex and it should appear.
 
-### Onwards to the next step!
+#### Onwards to the next step!

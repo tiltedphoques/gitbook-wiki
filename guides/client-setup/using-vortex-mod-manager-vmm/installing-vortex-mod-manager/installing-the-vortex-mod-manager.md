@@ -1,6 +1,6 @@
 # Installing the Vortex Mod Manager
 
-### Installing Vortex Mod Manager (VMM)
+## Installing Vortex Mod Manager (VMM)
 
 Lets go and installing the mod organizer VMM.
 
@@ -11,3 +11,4 @@ Lets go and installing the mod organizer VMM.
    ![](https://shx.is/5BJQUpx5I.png)
 4. That's it for now!
 
+#### Onwards to the next step!

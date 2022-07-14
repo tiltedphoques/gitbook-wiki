@@ -1,6 +1,6 @@
 # Explaining bEnableModcheck
 
-### What does `bEnableModcheck` do?
+## What does `bEnableModcheck` do?
 
 The parameter `bEnableModcheck` can enable or disable the option of enforcing a mod policy.
 
@@ -21,17 +21,13 @@ The reason why it can be good idea to enable this, is to increase chances of hav
 
 It is **not** necessary to use, if you and your friends are playing **without** mods (or if you're just playing with `Address Library for SKSE`)
 
-### Oh! I want that! I want my server to kick players, that doesn't use the mods that I choose!
+## Oh! I want that! I want my server to kick players, that doesn't use the mods that I choose!
 
-Alright. For that, we need to get your `loadorder.txt` . If you use a Linux server to host, but a Windows PC to play Skyrim, you can use [this page](../windows-setup/regular-setup/explaining-benablemodcheck.md#oh-i-want-that-i-want-my-server-to-kick-players-that-doesnt-use-the-mods-that-i-choose), to grab your `loadorder.txt` from MO2 and then use that.
+Alright. For that, we need to get your `loadorder.txt` . If you use a Linux server to host, but a Windows PC to play Skyrim, you can use [this page](../windows-setup/zerotier-setup/explaining-benablemodcheck.md#oh-i-want-that-i-want-my-server-to-kick-players-that-doesnt-use-the-mods-that-i-choose), to grab your `loadorder.txt` from MO2 or VMM and then use that.
 
 1. Put your `loadorder.txt` in the `/opt/docker/skyrimserver/Data` directory.
 2. Edit your `STServer.ini` using `nano`, e.g. `nano /opt/docker/skyrimserver/config/STServer.ini`
 3. Find `bEnableModCheck` and set it to `true`.
 4. Close and save the file by pressing `CTRL-X` and then `Y` and then `Enter`.
 
-
-
-
-
-### Onwards to the next step!
+#### Onwards to the next step!

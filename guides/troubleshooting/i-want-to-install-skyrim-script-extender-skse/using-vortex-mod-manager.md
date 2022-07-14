@@ -1,12 +1,8 @@
 # Using Vortex Mod Manager
 
-Now we are going to get SKSE installed.&#x20;
-
-In VMM there are multiple options, we'll focus on two different ones.
-
-**Option 1: Downloading it through VMM**
-
-**Option 2: Downloading it manually, importing it in VMM**
+{% hint style="danger" %}
+It's **NOT** required to use Skyrim Script Extender (SKSE) to play Skyrim Together Reborn!
+{% endhint %}
 
 ## Option 1: Downloading SKSE through VMM
 

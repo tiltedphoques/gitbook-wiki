@@ -1,8 +1,8 @@
 # Explaining bEnableModcheck
 
-### What does `bEnableModcheck` do?
+## What does `bEnableModcheck` do?
 
-The parameter `bEnableModcheck` can enable or disable the possibility of enforcing a mod policy.
+The parameter `bEnableModcheck` can enable or disable the option of enforcing a mod policy.
 
 If you **enable** `bEnableModcheck`, that means that everyone connecting to your server will go through this process:
 
@@ -10,8 +10,6 @@ If you **enable** `bEnableModcheck`, that means that everyone connecting to your
 2. Your server will check Player A's `loadorder.txt`
 3. If the `loadorder.txt` matches the one on the server, Player A will now join your server
 4. If the `loadorder.txt` **doesn't** match the one on the server, Player A will not be allowed to join the server.
-
-
 
 If you **disable** `bEnableModcheck`, that means that everyone connecting to your server will go through this process:
 
@@ -23,11 +21,11 @@ The reason why it can be good idea to enable this, is to increase chances of hav
 
 It is **not** necessary to use, if you and your friends are playing **without** mods (or if you're just playing with `Address Library for SKSE`)
 
+## Oh! I want that! I want my server to kick players, that doesn't use the mods that I choose!
 
+Alright. For that, we need to get your `loadorder.txt` from MO2 or VMM and put it in the right location.
 
-### Oh! I want that! I want my server to kick players, that doesn't use the mods that I choose!
-
-Alright. For that, we need to get your `loadorder.txt` from MO2 and put it in the right location.
+### Using MO2
 
 1. Open MO2
 2. Enable the mods you want to enforce.
@@ -62,4 +60,25 @@ Alright. For that, we need to get your `loadorder.txt` from MO2 and put it in th
 
 ![Here's the whole process of how to do it](https://shx.is/5BAmnL9Ni.gif)
 
-### Onwards to the next step!
+### Using VMM
+
+1. Open Vortex/VMM
+2. Go to the `Mods` menu
+3. Select the folder icon that says `Open...`
+4. Select `Open Game Application Data Folder`\
+   ![](https://shx.is/5BO\_roz5c.png)
+5. Find the file named `loadorder.txt`
+6. Right click it, and select `Copy`
+7. Go back to the Skyrim Together Reborn folder:\
+   `C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\SkyrimTogetherReborn`
+8. Create a folder named `Data` (important with uppercase D)
+9. Inside the `Data` folder, paste the `loadorder.txt` that we copied before.
+10. Go back to the `config` folder, where `STServer.ini` is located.
+11. Open the `STServer.ini` and change `bEnableModcheck` from `false` to `true`
+12. Save the file
+13. Run `SkyrimTogetherServer.exe` again
+14. It should now say `ModPolicy is active` and your mod policy will now be enforced.
+
+![](https://shx.is/5BP1nld8D.gif)
+
+#### Onwards to the next step!

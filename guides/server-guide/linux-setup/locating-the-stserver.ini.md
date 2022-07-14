@@ -1,11 +1,9 @@
 # Locating the STServer.ini
 
-### The location of `STServer.ini`
+## The location of `STServer.ini`
 
-It will be located in this directory:&#x20;
+It will be located in this directory:
 
-`/opt/docker/skyrimserver/config`&#x20;
+`/opt/docker/skyrimserver/config`
 
-
-
-### Onwards to the next step!
+#### Onwards to the next step!

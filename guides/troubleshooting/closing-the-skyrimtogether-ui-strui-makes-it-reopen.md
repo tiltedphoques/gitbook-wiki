@@ -1,6 +1,6 @@
 # Closing the SkyrimTogether UI (STRUI) makes it reopen
 
-### Q: When I'm trying to close the STRUI, it just reopens
+## Q: When I'm trying to close the STRUI, it just reopens
 
 **A:** Try and use the `F2` button instead of `Right CTRL`.
 

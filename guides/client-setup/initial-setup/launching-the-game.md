@@ -1,6 +1,6 @@
 # Launching the game
 
-### Making sure Anniversary Upgrade DLC is disabled
+## Making sure Anniversary Upgrade DLC is disabled
 
 A very important step is to make sure the Anniversary DLC is disabled. You may not have bought it, but it's best to double check it's not there:
 
@@ -13,7 +13,7 @@ A very important step is to make sure the Anniversary DLC is disabled. You may n
 
 ###
 
-### Launching the game from Steam
+## Launching the game from Steam
 
 Next thing, we need to launch the game normally from Steam, so that it can generate some config files for us. This is luckily a very simple process.
 
@@ -31,4 +31,4 @@ Next thing, we need to launch the game normally from Steam, so that it can gener
 
 ![Just exit the game after it has launched](https://shx.is/5BigQmBoP.gif)
 
-### Onwards to the next step!
+#### Onwards to the next step!

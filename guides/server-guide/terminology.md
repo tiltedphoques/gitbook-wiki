@@ -1,20 +1,20 @@
 # Terminology
 
-### Terminology
+## Terminology
 
 We also need to get some terminology in place. Mostly regarding ip addresses and networks.
 
-I'm no expert in networking, but these are the basics, that are good to know, and that I'll use myself throughout the guide.
+I'm no expert in networking, but these are the basics, that are good to know, and that will be used throughout the guide.
 
-#### **Local network**
+### **Local network**
 
 Your local network is the network that you have at your home. Everyone who's connected to the router in your home, is part of your **local network**.
 
-#### **"Outside" network**
+### **"Outside" network**
 
 Is basically everyone who's **not** connected to your local network. Meaning, everyone who's **not** connected to the router in your house.
 
-#### **Local IPv4**
+### **Local IPv4**
 
 Your local IPv4 is the ip address that the router in your local network will assign to you.
 
@@ -30,7 +30,7 @@ On Windows machines, it can be found by:
 
 ![](https://shx.is/5BxOG8FiU.gif)
 
-#### **Public IPv4**
+### **Public IPv4**
 
 Your local IPv4 can be easily found using websites, like any of these:
 
@@ -43,13 +43,13 @@ These site will show your **public** IPv4. This will be the address that people 
 
 The public IPv4 is sometimes named as **External IP** as well on some router software.
 
-#### **Managed IP**
+### **Managed IP**
 
 This is the IP address that ZeroTier will assign to you.
 
 The managed IP of the host, is the IP address that you will have to use, to connect to your server.
 
-#### **Localhost**
+### **Localhost**
 
 Localhost usually refers to, or is a synonym, to the IP used by your own PC only. The `localhost` is an IP address equivilant to `127.0.0.1`.
 
@@ -57,7 +57,7 @@ Every PC has their own `localhost` / `127.0.0.1` IP address, that only they can 
 
 E.g. if you're hosting a server on the same PC as you play SkyrimSE with, and you want to check it's actually working.
 
-#### **Port forwarding**
+### **Port forwarding**
 
 Basically means opening ports on your router, enabling people from outside your local network to connect to you, using the port(s) you choose.
 
@@ -65,4 +65,4 @@ E.g. the game server will be hosted on the default port of `10578`. That port is
 
 If we forward the port `10578` in our router, that means that people from the **outside** of your local network, will now be able to connect to your server, using that port.
 
-### Onwards to the next step!
+#### Onwards to the next step!

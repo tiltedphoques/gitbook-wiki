@@ -1,10 +1,10 @@
 # Locating the STServer.ini
 
-### Locating the `STServer.ini` to configure our server
+## Locating the `STServer.ini` to configure our server
 
 Now that our server is closed, and we've created the inbound rules for the firewall, we can take a look at the `STServer.ini` config file, that let's us configure a few parameters.
 
-#### Locating the `STServer.ini` config file
+### **Using MO2**
 
 1. Open MO2
 2. Find the mod `Skyrim Together Reborn`
@@ -17,4 +17,17 @@ Now that our server is closed, and we've created the inbound rules for the firew
 
 ![It's pretty easy finding the STServer.ini](https://shx.is/5BAazzE\_s.gif)
 
-### Onwards to the next step!
+### **Using Vortex**
+
+1. Open Vortex
+2. Go to the `Mods` menu
+3. Make sure `Skyrim Together Reborn` is installed and `Enabled`
+4. Press `Windows Key + R` and enter this path in the `Run` window:\
+   `C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\SkyrimTogetherReborn`
+5. In that folder, open the `config` folder
+6. In there will be the `STServer.ini` file
+7. Open that with a text-editor of your choice. In my case I'll use good ol' `Notepad++`.
+
+![](https://shx.is/5BOUJ9o1H.gif)
+
+#### Onwards to the next step!

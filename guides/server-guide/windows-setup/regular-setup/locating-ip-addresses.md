@@ -1,10 +1,10 @@
 # Locating IP addresses
 
-### Locating IP addresses
+## Locating IP addresses
 
 In this step we'll need to get the IP address of our router and the **local** IPv4 address of your PC. This step needs to be done on the PC that wants to host a Skyrim Together Reborn server.
 
-#### Accessing your router
+### **Accessing your router**
 
 1. Before we begin, we need to locate how to access our router.
 2. Press `Windows Key + R` and write `cmd`
@@ -17,7 +17,7 @@ In this step we'll need to get the IP address of our router and the **local** IP
 
 ![This is how you find your router's IP address](https://shx.is/5BDp4ORT2.gif)
 
-#### Before we continue
+## **Before we continue**
 
 1. Before we figure out how to do port-forwarding in our router, we need to find our PCs **local** IPv4 address.
 2. To do this, we need to open `cmd` again.
@@ -29,4 +29,4 @@ In this step we'll need to get the IP address of our router and the **local** IP
 
 ![This is how you find your local IPv4 address](https://shx.is/5BDpxiGQd.gif)
 
-### Onwards to the next step!
+#### Onwards to the next step!

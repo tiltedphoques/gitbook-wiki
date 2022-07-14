@@ -1,6 +1,6 @@
 # My game crashes when I open it, or connect to a server
 
-### Q: My game crashes when I open it, or when I connect to a server
+## Q: My game crashes when I open it, or when I connect to a server
 
 **A:** You can try enabling `AES-NI` in your BIOS. This is apparently especially relevant for Intel CPUs. This is hard to guide you through, since almost every BIOS looks different.
 
@@ -54,9 +54,7 @@ To get to your BIOS, if you're using Windows 11, do the following steps:
 
 The reason why this is needed in the client and server is because they depend on libsodium lib which relies on AES. Therefore, we need to wait until libsodium stop relying on AES (which is unlikely, see) or reimplement some parts with OpenSSL (time consuming).
 
-
-
-### How do I check if `AES-NI` enabled?
+## How do I check if `AES-NI` enabled?
 
 We need to download a tool named `CPU-Z`.
 
@@ -67,7 +65,7 @@ We need to download a tool named `CPU-Z`.
    ![](https://shx.is/5BFxts8CR.png)
 5. If you can find `AES`, it should be enabled.
 
-### How do I know if my CPU supports it? (Intel)
+## How do I know if my CPU supports AES-NI? (Intel)
 
 1. Find the name of your CPU, using this method:
 2. Press your `Windows key` and search for `System information`
@@ -79,6 +77,3 @@ We need to download a tool named `CPU-Z`.
    ![](https://shx.is/5BFwpTD8m.png)
 7. Search for `AES New Instructions` on the page that opens
 8. If it says `Yes`, it's supported on your CPU. If it says `No`, it's not supported on your CPU.
-
-
-

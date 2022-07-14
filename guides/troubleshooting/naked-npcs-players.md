@@ -1,6 +1,6 @@
 # Naked NPCs / players
 
-### Q: There's a lot of naked NPCs wandering about
+## Q: There's a lot of naked NPCs wandering about
 
 **A:** You can try and reconnect to the server (disconnect --> connect). Or restart the server. It's a known issue.
 
@@ -11,7 +11,7 @@
 3. Use `resurrect` command on them,
 4. It should reset their inventory and instantly redress them.
 
-### Q: The other players are naked. I can't see their armor
+## Q: The other players are naked. I can't see their armor
 
 **A:** Same as above. You can try and reconnect to the server (disconnect --> connect). Or restart the server.
 

@@ -1,6 +1,6 @@
 # Port forwarding
 
-### How to port forward
+## How to port forward
 
 This step is going to be wildly different from each person. Simply because each person has a different router, and they all look (very) different from eachother.
 
@@ -12,17 +12,15 @@ To find out how to do it on **your** router, you can use a website like this:
 2. Locate your router
 3. If your exact model isn't present on the list, try another one from the same brand name, and see if the router UI matches yours. Then it should be the same procedure.
 
-### What ports need to be forwarded?
+## What ports need to be forwarded?
 
 The `SkyrimTogetherServer.exe` uses the port `10578` by default. You can change this in the `STServer.ini`, but I recommend just leaving the default as is.
 
-Your router will ask you what protocol it needs to forward. If you have the option choosing `Both`, then that's what you should do.&#x20;
+Your router will ask you what protocol it needs to forward. If you have the option choosing `Both`, then that's what you should do.
 
 If you only have the option of choosing **either** `TCP` or `UDP`, create two port forwarding rules: One for `10578` UDP and one for `10578` TCP.
 
-
-
-### How to port-forward (in my personal router)
+## How to port-forward (in my personal router)
 
 _I'm using an ASUS AX86U router._
 
@@ -37,16 +35,16 @@ _I'm using an ASUS AX86U router._
 9. **Protocol:** `Both`
 10. **External Port:** `10578`
 11. **Internal Port:** `10578`
-12. **Internal IP Address:** `192.168.50.104`  <- the local IPv4
-13. **Source IP:** leave empty&#x20;
+12. **Internal IP Address:** `192.168.50.104` <- the local IPv4
+13. **Source IP:** leave empty
 14. Press the `OK` button
 
 ![How to port forward on my AX68U router](https://shx.is/5BDuK3yHR.gif)
 
-
-
-### Ubuntu Firewall specifics:
+## Ubuntu Firewall specifics:
 
 1. If you use `ufw` (Ubuntu Firewall), then run this command to allow the `10578` port:\
    `sudo ufw allow 10578`
 2. That's it!
+
+#### Your server should now be fully configured.

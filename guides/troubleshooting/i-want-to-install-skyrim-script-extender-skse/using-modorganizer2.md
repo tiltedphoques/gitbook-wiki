@@ -33,5 +33,3 @@ Just be sure it works, let's launch SKSE now manually.
 1. Head to your SkyrimSE root folder again:\
    `C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition`
 2. Open the `skse64_loader.exe` and Exit Skyrim after the main menu has loaded.
-
-#### Onwards to the next step!

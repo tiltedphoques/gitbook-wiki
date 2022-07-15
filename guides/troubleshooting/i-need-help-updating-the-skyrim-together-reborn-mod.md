@@ -1,6 +1,6 @@
-# I need help upgrading the Skyrim Together Reborn mod
+# I need help updating the Skyrim Together Reborn mod
 
-## Q: I need help upgrading the Skyrim Together Reborn mod
+## Q: I need help upgrading/updating the Skyrim Together Reborn mod
 
 ### I use ModOrganizer2 (MO2)
 

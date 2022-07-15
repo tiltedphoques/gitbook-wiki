@@ -64,3 +64,5 @@ Just be sure it works, let's launch SKSE now manually.
 4. Press this \
    ![](https://shx.is/5BKkoaCyQ.png)
 5. If it doesn't show up, or if you can't launch it, restart Vortex and it should appear.
+
+#### Onwards to the next step!

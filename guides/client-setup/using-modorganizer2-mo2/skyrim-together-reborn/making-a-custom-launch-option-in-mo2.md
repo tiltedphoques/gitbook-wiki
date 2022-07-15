@@ -12,13 +12,13 @@ We are now ready to continue!
 3. ![](https://shx.is/5BlyHKvpG.png)
 4. Press on it, and select the `<Edit...>` button
 5. ![](https://shx.is/5Blz2zZdv.png)
-6. Find `Skyrim Special Edition`, select it, then press the little ![](https://shx.is/5BlzJrBxo.png) icon
+6. Find `SKSE`, select it, then press the little ![](https://shx.is/5BlzJrBxo.png) icon
 7. Select the `Clone selected` option.
 8. So far it should look like this:
 
-![](https://shx.is/5BVqQDRZY.gif)
+![](https://shx.is/5BlA68CY7.gif)
 
-9\. Rename the newly created `Skyrim Special Edition (1)` to `Skyrim Together Reborn`
+9\. Rename the newly created `SKSE (1)` to `Skyrim Together Reborn`
 
 10\. In the `Binary` setting, press the ![](https://shx.is/5BlAvYz\_D.png) button
 
@@ -35,8 +35,8 @@ We are now ready to continue!
 
 15\. Select the `Skyrim Together Reborn` launch option in the dropdown menu
 
-16\. ![](https://shx.is/5BVrzqStw.png)
+16\. ![](https://shx.is/5BlCrEk1H.png)
 
-![](https://shx.is/5BVrnZINJ.gif)
+![](https://shx.is/5BlC7XaC1.gif)
 
 #### Onwards to the next step!

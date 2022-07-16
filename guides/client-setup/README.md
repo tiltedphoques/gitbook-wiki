@@ -17,4 +17,8 @@ You need:
 
 ![Take a deep breath, before you begin](https://shx.is/5Bik56Rp7.gif)
 
+{% hint style="danger" %}
+You **need** to launch Skyrim Special Edition through Steam before beginning!
+{% endhint %}
+
 #### Onwards to the next step!

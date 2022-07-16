@@ -15,6 +15,10 @@ A very important step is to make sure the Anniversary DLC is disabled. You may n
 
 ## Launching the game from Steam
 
+{% hint style="warning" %}
+It's very important launch Skyrim Special Edition through Steam, **at least once**, before continuing, if you haven't done so already.
+{% endhint %}
+
 Next thing, we need to launch the game normally from Steam, so that it can generate some config files for us. This is luckily a very simple process.
 
 1. Open Steam and head to your library.

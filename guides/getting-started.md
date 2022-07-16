@@ -28,6 +28,10 @@ The guide uses either MO2 or Vortex as the mod manager.
 Both mod managers has their own separate guides.
 {% endhint %}
 
+{% hint style="danger" %}
+You need to launch Skyrim Special Edition through Steam before beginning!
+{% endhint %}
+
 ### [Client Setup](client-setup/) (installing the mod)
 
 ### [Server Setup](server-guide/) (hosting a server)

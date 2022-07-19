@@ -29,3 +29,13 @@ Steam will try and redownload those files. E.g. if Skyrim has an update, or you 
 6. Go to the `Plugins` menu, and the mods/plugins will not be listed anymore
 
 ![](https://shx.is/5CjqL0HvJ.gif)
+
+## I need the Creation Club files back, what do I do?
+
+If you want to restore the files, you can always `Verify integrity of game files` through Steam:
+
+1. Find `The Elder Scrolls V: Skyrim Special Edition`
+2. Right click and select `Properties`
+3. Select `Local Files`
+4. Select `Verify integrity of game files...`
+5. Steam will re-download the Creation Club mods that you deleted

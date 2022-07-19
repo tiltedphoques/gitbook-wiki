@@ -36,7 +36,7 @@ Steam will try and redownload those files. E.g. if Skyrim has an update, or you 
 
 ## I need the Creation Club files back, what do I do?
 
-If you chose the **2nd option**, and want the files again you can always `Verify integrity of game files` through Steam:
+If you want to restore the files, you can always `Verify integrity of game files` through Steam:
 
 1. Find `The Elder Scrolls V: Skyrim Special Edition`
 2. Right click and select `Properties`

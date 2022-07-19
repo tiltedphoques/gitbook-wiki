@@ -88,7 +88,9 @@
   * [The STRUI doesn't appear when I press RIGHT CTRL or F2](guides/troubleshooting/the-strui-doesnt-appear-when-i-press-right-ctrl-or-f2.md)
   * [Naked NPCs / players](guides/troubleshooting/naked-npcs-players.md)
   * [The server list is not appearing](guides/troubleshooting/the-server-list-is-not-appearing.md)
-  * [Disabling the Anniversary Editions Creation Club content](guides/troubleshooting/disabling-the-anniversary-editions-creation-club-content.md)
+  * [Disabling the Anniversary Editions Creation Club content](guides/troubleshooting/disabling-the-anniversary-editions-creation-club-content/README.md)
+    * [Using ModOrganizer2](guides/troubleshooting/disabling-the-anniversary-editions-creation-club-content/using-modorganizer2.md)
+    * [Using Vortex Mod Manager](guides/troubleshooting/disabling-the-anniversary-editions-creation-club-content/using-vortex-mod-manager.md)
 
 ## General information
 

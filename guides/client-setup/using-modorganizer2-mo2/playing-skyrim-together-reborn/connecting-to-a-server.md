@@ -26,6 +26,12 @@
 
 8\. Now you should be connected and ready to play Skyrim Together Reborn with your friends :thumbsup:
 
+{% hint style="warning" %}
+Read [the playguide](../../../../general-information/playguide.md) to learn how to do quests properly with your friends!&#x20;
+
+You will need to read [the playguide](../../../../general-information/playguide.md), if you want to do quests with your friends.
+{% endhint %}
+
 ## **Notes:**
 
 1. If you `ALT-TAB` out and back in, it might get stuck. Press either `F2` or `Right-CTRL` to close it and then re-open it again.

@@ -9,8 +9,10 @@
 5. If you want to help improve the mod, we are always looking for **C++ coders** for the mod and **Angular/TypeScript coders** for the UI of the mod. Head to their [Discord](https://discord.gg/skyrimtogether) and introduce yourself :thumbsup:
 6. If you don't know how to code, but want to help anyways, please report your bugs and findings [here](https://github.com/tiltedphoques/TiltedEvolution/issues). Use the template, it's there for a reason. Be as thorough as possible, if you actually want to help fix the bug.
 
-## How do I \_\_\_\_\_ with my friends?
+{% hint style="warning" %}
+Read [the playguide](../../../../general-information/playguide.md) to learn how to do quests properly with your friends!
 
-Use the excellent [playguide here](../../../../general-information/playguide.md), and read it carefully. I don't want to explain the same things, when they've done it so well.
+You **will** need to read the playguide, if you want to do quests with your friends.
+{% endhint %}
 
 #### Onwards to the next step!

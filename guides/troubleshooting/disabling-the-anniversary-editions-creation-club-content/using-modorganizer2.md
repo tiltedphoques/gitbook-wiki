@@ -1,6 +1,10 @@
-# Disabling the Anniversary Editions Creation Club content
+# Using ModOrganizer2
 
-## Disabling the SkyrimSE Anniversary Editions included Creation Club content
+{% hint style="danger" %}
+Removing the Creation Club content **might** make your existing savegame(s) unloadable. Regardless of that, it's still **highly recommended** to remove them!
+{% endhint %}
+
+## Removing the Creation Club content
 
 You can't actually disable them, so we'll have two options to choose from:
 

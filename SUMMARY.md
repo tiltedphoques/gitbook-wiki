@@ -17,6 +17,7 @@
       * [Initial MO2 setup](guides/client-setup/using-modorganizer2-mo2/installing-modorganizer2/initial-mo2-setup.md)
       * [Creating a MO2 profile](guides/client-setup/using-modorganizer2-mo2/installing-modorganizer2/creating-a-mo2-profile.md)
       * [Creating a separator in MO2](guides/client-setup/using-modorganizer2-mo2/installing-modorganizer2/creating-a-separator-in-mo2.md)
+    * [Disabling the Anniversary Editions included Creation Club content](guides/client-setup/using-modorganizer2-mo2/disabling-the-anniversary-editions-included-creation-club-content.md)
     * [Utilities](guides/client-setup/using-modorganizer2-mo2/utilities/README.md)
       * [Address Library for SKSE](guides/client-setup/using-modorganizer2-mo2/utilities/address-library-for-skse.md)
     * [Skyrim Together Reborn](guides/client-setup/using-modorganizer2-mo2/skyrim-together-reborn/README.md)
@@ -34,6 +35,7 @@
       * [Installing the Vortex Mod Manager](guides/client-setup/using-vortex-mod-manager-vmm/installing-vortex-mod-manager/installing-the-vortex-mod-manager.md)
       * [Initial VMM setup](guides/client-setup/using-vortex-mod-manager-vmm/installing-vortex-mod-manager/initial-vmm-setup.md)
       * [Creating a profile in VMM](guides/client-setup/using-vortex-mod-manager-vmm/installing-vortex-mod-manager/creating-a-profile-in-vmm.md)
+    * [Disabling the Anniversary Editions included Creation Club content](guides/client-setup/using-vortex-mod-manager-vmm/disabling-the-anniversary-editions-included-creation-club-content.md)
     * [Utilities](guides/client-setup/using-vortex-mod-manager-vmm/utilities/README.md)
       * [Address Library for SKSE](guides/client-setup/using-vortex-mod-manager-vmm/utilities/address-library-for-skse.md)
     * [Skyrim Together Reborn](guides/client-setup/using-vortex-mod-manager-vmm/skyrim-together-reborn/README.md)
@@ -86,7 +88,9 @@
   * [The STRUI doesn't appear when I press RIGHT CTRL or F2](guides/troubleshooting/the-strui-doesnt-appear-when-i-press-right-ctrl-or-f2.md)
   * [Naked NPCs / players](guides/troubleshooting/naked-npcs-players.md)
   * [The server list is not appearing](guides/troubleshooting/the-server-list-is-not-appearing.md)
-  * [Disabling the Anniversary Editions Creation Club content](guides/troubleshooting/disabling-the-anniversary-editions-creation-club-content.md)
+  * [Disabling the Anniversary Editions Creation Club content](guides/troubleshooting/disabling-the-anniversary-editions-creation-club-content/README.md)
+    * [Using ModOrganizer2](guides/troubleshooting/disabling-the-anniversary-editions-creation-club-content/using-modorganizer2.md)
+    * [Using Vortex Mod Manager](guides/troubleshooting/disabling-the-anniversary-editions-creation-club-content/using-vortex-mod-manager.md)
 
 ## General information
 

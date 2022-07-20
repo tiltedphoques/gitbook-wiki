@@ -1,5 +1,9 @@
 # Using Vortex Mod Manager
 
+{% hint style="danger" %}
+Removing the Creation Club content **might** make your existing savegame(s) unloadable. Regardless of that, it's still **highly recommended** to remove them!
+{% endhint %}
+
 ## Removing the Creation Club content
 
 You can't actually disable them, so we'll have to delete them

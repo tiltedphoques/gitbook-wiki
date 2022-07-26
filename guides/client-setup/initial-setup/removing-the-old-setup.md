@@ -14,8 +14,6 @@ You can start by uninstalling your game in the Steam application:
 
 ![](https://shx.is/5Bi9WQc8d.png)
 
-###
-
 ## Removing old game profile(s) and savegames
 
 Let's clear out the folder where all **your config files** and **your savegames are**. If you care about these, back them up and replace them later. For now, let's remove them.

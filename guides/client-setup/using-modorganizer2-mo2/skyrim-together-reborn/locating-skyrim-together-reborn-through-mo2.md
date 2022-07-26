@@ -1,6 +1,6 @@
 # Locating Skyrim Together Reborn through MO2
 
-To get Skyrim Together Reborn to work, we'll need to configure MO2 to allow us to launch Skyrim via `SkyrimTogether.exe`.
+To get Skyrim Together Reborn working, we'll need to configure MO2 to let us open Skyrim through the `SkyrimTogether.exe`.
 
 ## Finding the Skyrim Together Reborn folder
 

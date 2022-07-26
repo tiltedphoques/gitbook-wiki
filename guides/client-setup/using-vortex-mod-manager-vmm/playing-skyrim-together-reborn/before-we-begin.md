@@ -2,17 +2,17 @@
 
 ## A few notes before we begin playing!
 
-1. Every time you want to play Skyrim Together Reborn, you must use the custom launcher we made in Vortex/VMM.
-2. When you first launch Skyrim Together Reborn, you should create a NEW CHARACTER. When playing Skyrim Together Reborn, it is recommended that you only use that character and savegame.
-3. You **MUST** finish the first Helgen mission before attempting to connect. Otherwise, things will go wrong for you, and you may have to restart with a new savegame.
-4. Bugs should be expected. There are [numerous bugs](https://github.com/tiltedphoques/TiltedEvolution/issues). This will not be a smooth, MMO-like experience in which everything "just works." Remember, they're a group of volunteers doing this in their spare time for free.
-5. If you want to contribute to the mod's development, we are always looking for **C++ coders** and people with **reverse engineering** skills for the mod, and **Angular/TypeScript coders** for the mod's UI. Join our [Discord server](https://discord.com/invite/skyrimtogether) and introduce yourself.
-6. If you don't know how to code but still want to help, please report your bugs and discoveries [here](https://github.com/tiltedphoques/TiltedEvolution/issues). Use the template; it exists for a reason. If you truly want to help fix the bug, be as thorough as possible.
+1. Everytime you want to play Skyrim Together Reborn, you need to launch it through the custom launcher we created in Vortex/VMM.
+2. You should create a **NEW CHARACTER** the first time launching. My recommendation would be to **only** use that character when playing Skyrim Together Reborn.
+3. You **NEED** to complete the first Helgen mission before even trying to connect. Else it'll end up badly for you, and you might need to start over, with a new savegame.
+4. Expect bugs. Lots of bugs. This will not be a MMO-like smooth experience, where everything "just works". Remember, they're a team of volunteers doing this **for free** in their spare time.
+5. If you want to help improve the mod, we are always looking for **C++ coders** for the mod and **Angular/TypeScript coders** for the UI of the mod. Head to their [Discord](https://discord.gg/skyrimtogether) and introduce yourself :thumbsup:
+6. If you don't know how to code, but want to help anyways, please report your bugs and findings [here](https://github.com/tiltedphoques/TiltedEvolution/issues). Use the template, it's there for a reason. Be as thorough as possible, if you actually want to help fix the bug.
 
 {% hint style="warning" %}
-Read the [playguide](../../../../general-information/playguide.md) to learn how to properly complete quests with your friends!
+Read [the playguide](../../../../general-information/playguide.md) to learn how to do quests properly with your friends!
 
-If you want to do quests with your friends, you must first read the [playguide](../../../../general-information/playguide.md).
+You **will** need to read the playguide, if you want to do quests with your friends.
 {% endhint %}
 
 #### Onwards to the next step!

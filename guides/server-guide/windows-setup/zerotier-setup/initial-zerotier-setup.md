@@ -1,13 +1,13 @@
 # Initial ZeroTier setup
 
-This step is ONLY required for the server's HOST. Clients, or friends who want to connect with you, can simply follow [this step](connecting-to-your-server.md).
+This step is **ONLY** needed for the **HOST** of the server. The clients can just [follow this step](connecting-to-your-server.md).
 
 ## Making a ZeroTier account
 
-1. To begin, go to ZeroTier and [create an account](https://accounts.zerotier.com/auth/realms/zerotier/protocol/openid-connect/registrations?client\_id=zt-central\&redirect\_uri=https%3A%2F%2Fmy.zerotier.com%2Fapi%2F\_auth%2Foidc%2Fcallback\&response\_type=code\&scope=openid+profile+email+offline\_access\&state=state).
-2. Except for a valid email address, you do not need to enter any personal information.
+1. First off, head to ZeroTier and [create an account](https://accounts.zerotier.com/auth/realms/zerotier/protocol/openid-connect/registrations?client\_id=zt-central\&redirect\_uri=https%3A%2F%2Fmy.zerotier.com%2Fapi%2F\_auth%2Foidc%2Fcallback\&response\_type=code\&scope=openid+profile+email+offline\_access\&state=state).
+2. You don't need to put in your real information, except for your email.
 3. ![](https://shx.is/5BDXIMatb.png)
-4. To verify your account, click the link in the email that ZeroTier sent you.
+4. Then verify your email (click the link in your email)
 5. ![](https://shx.is/5BDY4FKl1.png)
 
 ## Creating a ZeroTier network
@@ -16,11 +16,11 @@ This step is ONLY required for the server's HOST. Clients, or friends who want t
 2. Select `Create a network`
 3. It will then create a new ZeroTier network for you:\
    ![](https://shx.is/5BD\_1pAr6.png)
-4. Click on the network it created to select it.
-5. There will be numerous configuration options available. We don't need to think about them right now.
-6. For the time being, simply copy or write down the `Network ID`. When your friends want to join you, they will need it!
+4. Select the network it created by clicking it.
+5. There will be a lot of configuration options. We don't need to focus on them right now.
+6. For now, just copy the `Network ID` or write it down. This is what your friends will need, when they want to join you.
 7. ![](https://shx.is/5BDZPmEUF.png)
-8. The `Access Control` is set to `PRIVATE` by default, and it is recommended that you leave it that way.
+8. The `Access Control` is set to `PRIVATE` by default - and I recommend leaving it as so.
 
 ![](https://shx.is/5BDZGR0EF.gif)
 

@@ -6,7 +6,7 @@ Reading the [playguide](../general-information/playguide.md) is **as essential**
 
 ### Supported versions
 
-To play Skyrim Together Reborn, you must use Skyrim Special Edition 1.6 on Steam. You do not need the Anniversary Upgrade paid mod pack. In fact, we recommend playing without it. The VR, console, Legendary and Gamepass editions are **not** supported. Neither is Skyrim Special Edition 1.5 (aka pre Anniversary update). To make sure you have the latest update of Special Edition installed, verify the game files through Steam.
+Skyrim Special Edition v1.6 on Steam is **required** to play Skyrim Together Reborn. The Anniversary Upgrade paid mod pack is not required. In fact, we recommend that you play without it. The VR, console, Legendary, and Gamepass editions are incompatible. Skyrim Special Edition 1.5 is not supported either (aka pre Anniversary update). Verify the game files through Steam to ensure you have the most recent Special Edition update installed.
 
 To see the full list of Supported games and versions, visit [this page](../general-information/supported-games.md).
 

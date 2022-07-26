@@ -1,13 +1,13 @@
 # Skyrim Together Reborn
 
 {% hint style="warning" %}
-**Do not skip ahead to this step!**
+**Don't just skip straight to this step!**
 
-This guide is intended to be used from start to finish.
+This guide is made for following it from the beginning to the end.
 {% endhint %}
 
 ## This section will cover the installation of the Skyrim Together Reborn mod
 
-This guide will walk you through installing the Skyrim Together Reborn mod and configuring it with VMM.
+This will cover the installation of the `Skyrim Together Reborn` mod, and how to configure it through VMM.
 
 #### Onwards to the next step!

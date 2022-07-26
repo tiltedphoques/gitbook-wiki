@@ -2,16 +2,16 @@
 
 ## Preliminaries
 
-Please read this page just to keep your expectations realistic.
+Just to set the expectations at a reasonable level, please read this page.
 
 ### **This guide will:**
 
-1. Assume you've completed all of the previous steps in this guide.
-2. Use paths from this guide and only this guide.
-3. As the mod manager, use either MO2 or VMM.
-4. Attempt to demonstrate various methods/options for hosting your server.
-5. Cover both how to set up your server on a Windows and a Linux (Ubuntu) machine.
-6. Continue to be as user-friendly as possible, and we will do our best to guide you!
+1. Assume that you've followed every previous step of this guide.
+2. Use paths from this guide and this guide only.
+3. Use MO2 as the mod manager.
+4. Try and show you different methods/options on how to host your server.
+5. Cover both how to setup your server on a Windows based machine and a Linux (Ubuntu) based machine.
+6. Keep being as user-friendly, and try and guide you as to the best of my ability.
 
 ### **This guide will not:**
 
@@ -20,9 +20,9 @@ Please read this page just to keep your expectations realistic.
 
 ## Expectations
 
-1. This should work for the vast majority of you.
-2. However, it is possible that it will not work for everyone.
-3. Because everyone's system is unique in some way, this guide cannot possibly help everyone.
-4. We expect you to read this guide as thoroughly as possible!
+1. Hopefully, this will work for the majority of you.
+2. But, there's a possibility that it won't work for everyone.
+3. Everyone's system is different in some way, which means this guide can't possibly help everyone.
+4. I expect that you read this guide as thoroughly as you can.
 
 #### With that being said, let's go :thumbsup:

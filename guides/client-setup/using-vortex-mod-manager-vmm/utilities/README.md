@@ -2,6 +2,6 @@
 
 ## This section will cover installing the Address Library for SKSE
 
-This section will go over installing the necessary mod, `Address Library for SKSE`, and managing downloads and installs in Vortex Mod Manager (VMM).
+This section will cover installing the required mod, `Address Library for SKSE`, and how to manage downloads and installs in Vortex Mod Manager (VMM).
 
 #### Onwards to the next step!

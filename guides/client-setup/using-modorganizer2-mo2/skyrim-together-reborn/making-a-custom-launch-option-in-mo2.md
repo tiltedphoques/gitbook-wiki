@@ -1,9 +1,9 @@
 # Making a custom launch option in MO2
 
-With our path from the previous step copied:\
+With our path copied from the last step:\
 `C:\Modding\MO2\mods\Skyrim Together Reborn\SkyrimTogetherReborn`
 
-We are now prepared to proceed!
+We are now ready to continue!
 
 ## Making a custom launch option in MO2
 

@@ -6,6 +6,6 @@ Reading the [playguide](../../../../general-information/playguide.md) is **as es
 
 ## This section will cover how to play, using the Skyrim Together Reborn mod
 
-This section will go over what you can realistically expect from the mod, how to connect to a server, and how to use the Skyrim Together Reborn UI (STRUI).
+This will cover expectations for the mod, how to connect to a server and how to use the Skyrim Together Reborn UI (STRUI).
 
 #### Onwards to the next step!

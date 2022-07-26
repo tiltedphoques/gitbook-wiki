@@ -16,7 +16,7 @@ Making sure the Anniversary Upgrade DLC is turned off is a critical step. You ma
 ## Launching the game from Steam
 
 {% hint style="warning" %}
-If you haven't already, please launch Skyrim Special Edition through Steam at least once before proceeding.
+Please **do not** skip this step!
 {% endhint %}
 
 Next, we must launch the game normally from Steam in order for it to generate some configuration files for us. Fortunately, this is a very simple procedure.

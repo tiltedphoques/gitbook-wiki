@@ -2,29 +2,29 @@
 
 ## How to port forward
 
-This step will be vastly different for each person. Simply because everyone has a different router and they all look (very) different.
+This step is going to be wildly different from each person. Simply because each person has a different router, and they all look (very) different from eachother.
 
-I'll do my best to demonstrate how to do it on my router, but it may look drastically different on yours.
+I will try to do my best at showing you how to do it on my router, but chances are it might look wildly different from yours.
 
-You can use a website like this to learn how to do it on your router:
+To find out how to do it on **your** router, you can use a website like this:
 
 1. Visit [PortForward.com](https://portforward.com/router.htm#1)
 2. Locate your router
-3. If your exact model isn't listed, try another from the same brand and see if the router UI matches yours. Then the same procedure should apply.
+3. If your exact model isn't present on the list, try another one from the same brand name, and see if the router UI matches yours. Then it should be the same procedure.
 
 ## What ports need to be forwarded?
 
-By default, SkyrimTogetherServer.exe connects to port `10578`. You can change this in the `STServer.ini` file, but I recommend leaving it alone.
+The `SkyrimTogetherServer.exe` uses the port `10578` by default. You can change this in the `STServer.ini`, but I recommend just leaving the default as is.
 
-Your router will prompt you to specify which protocol it should forward. If you have the option of selecting `Both`, you should do so.
+Your router will ask you what protocol it needs to forward. If you have the option choosing `Both`, then that's what you should do.
 
-If you can only choose between `TCP` and `UDP`, create two port forwarding rules: one for `10578` UDP and one for `10578` TCP.
+If you only have the option of choosing **either** `TCP` or `UDP`, create two port forwarding rules: One for `10578` UDP and one for `10578` TCP.
 
 ## How to port-forward (in my personal router)
 
 _I'm using an ASUS AX86U router._
 
-1. Navigate to your router's configuration page using the IP address you obtained in the previous step. In my case, the address will be `192.168.50.1`.
+1. Go to your router's configuration page, with the IP you gathered from the last step. In my case, it'll be `192.168.50.1`.
 2. Go to `Open NAT`
 3. Select `Enable port forwarding`
 4. Select `+ Add` under `Game Profile`

@@ -16,4 +16,3 @@ Due to the high load of people wanting to play on release day, playtogether.gg m
 
 If you want to host your own server, please continue reading the guide :thumbsup:
 
-![](https://shx.is/5CXChcro4.png)

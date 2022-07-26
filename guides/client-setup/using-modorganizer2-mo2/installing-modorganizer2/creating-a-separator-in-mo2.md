@@ -4,7 +4,7 @@ In MO2, we will now create a separator. This is useful for getting a sense of yo
 
 The only function is to distinguish mods from one another. It's like having your own categories.
 
-We'll only make one separator because we only need one mod, beyond the Skyrim Together Reborn mod itself.
+We'll only make one separator because we only need one mod.
 
 However, if you want to add more separators to sort other mods, you can do so.
 

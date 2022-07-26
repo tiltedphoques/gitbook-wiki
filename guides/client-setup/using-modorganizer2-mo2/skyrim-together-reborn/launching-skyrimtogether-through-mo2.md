@@ -6,18 +6,19 @@
 2. Make sure `Skyrim Together Reborn` has been selected in the launch option dropdown menu
 3. ![](https://shx.is/5BlD3wkRM.png)
 4. Press `Run`
-5. A popup window should appear, prompting you to choose an executable from the Skyrim root folder.
-6. **This is extremely important! Select SkyrimSE.exe and press the Open button.**
+5. A popup should appear, asking you to select an executable in the Skyrim root folder.
+6. **Very important! Select `SkyrimSE.exe` and press Open**
 
 ![](https://shx.is/5BlEBHSqt.png)
 
-7\. It may display an error like this, but you can safely disregard it by pressing `Close`. It's looking for the `Address Library for the SKSE` mod, but that won't be loaded until the game starts.
+7\. It might give you an error like so, but you can safely ignore it by pressing `Close`.\
+It's looking for the `Address Library for SKSE` mod, but that will only be loaded upon launch.
 
 ![](https://shx.is/5BlGCrk0m.png)
 
 8\. Return to MO2 and press `Run`.
 
-9\. Skyrim will now launch, but you can close it for the time being.
+9\. Skyrim will now launch, but you can close it again for now.
 
 ![](https://shx.is/5BlILHGmw.gif)
 
@@ -44,6 +45,6 @@ You have three options
 3. Select the folder `HKEY_CURRENT_USER`
 4. Select the folder `Software`
 5. Delete the folder called `TiltedPhoques`
-6. This will remove the `SkyrimTogether.exe`'s default preference and prompt you again when you reopen the `SkyrimTogether.exe`.
+6. This will remove the default preference of the `SkyrimTogether.exe`, and it will ask you again upon reopening the `SkyrimTogether.exe`.
 
 #### Onwards to the next step!

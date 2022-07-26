@@ -2,6 +2,6 @@
 
 ## Linux
 
-In this guide, Linux users have only one option: **Docker**. Docker is very simple to set up.
+Linux just have one option, and that is Docker. Docker is pretty easy to setup.
 
 ### [Option 1: Docker setup](docker-setup.md)

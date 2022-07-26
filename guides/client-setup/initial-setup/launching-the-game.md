@@ -11,8 +11,6 @@ Making sure the Anniversary Upgrade DLC is turned off is a critical step. You ma
 
 ![This is a necessary step because Skyrim Together Reborn does not function properly with the Anniversary Upgrade DLC enabled.](https://shx.is/5Bif7gkqI.gif)
 
-###
-
 ## Launching the game from Steam
 
 {% hint style="warning" %}

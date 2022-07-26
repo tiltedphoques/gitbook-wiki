@@ -4,60 +4,68 @@ description: Frequently asked questions about Skyrim Together Reborn and Fallout
 
 # FAQ
 
-### Q: what is Skyrim Together Reborn?
+### Q: What is Skyrim Together Reborn?
 
-A: Skyrim Together is a mod that aims to bring co-op to Skyrim. Skyrim Together Reborn is basically the "sequel" to the old Skyrim Together (which some of you may know as "Harbor Edition", "Nightlies", or simply "Old ST"). The code has been rewritten from the ground up, since the old codebase was too messy to work with. This decision has paid off big time, since Skyrim Together Reborn is _significantly_ better than old Skyrim Together. Check the sidebar for the list of features.
+A: Skyrim Together is a Skyrim mod that aims to bring co-op to the game. Skyrim Together Reborn is essentially a "sequel" to the original Skyrim Together (which some of you may know as "Harbor Edition", "Nightlies", or simply "Old ST").&#x20;
 
-### Q: what platforms and versions are supported?
+The code was rewritten from the ground up because the old codebase was too difficult to work with. This decision has paid off big time, as Skyrim Together Reborn is significantly better than the original Skyrim Together. The current list of features can be found [here](features.md).
 
-A: the **ONLY** version that is supported, and will most likely ever be supported, is Skyrim Special Edition on Steam, particularly version 1.6. The modding community has mislabeled this as "Anniversary Edition". Anniversary Edition is the combo package of Special Edition and the Anniversary Upgrade. You do not need this to play Skyrim Together Reborn. You only need to buy Special Edition.
+### Q: What platforms and versions are supported?
 
-VR, console, legendary edition (aka oldrim) and the gamepass version are not and will never be supported.
+A: Skyrim Special Edition on Steam, specifically version 1.6, is the **ONLY** version that is supported and will most likely always be supported. This has been mislabeled as "Anniversary Edition" by the modding community. The Anniversary Edition is a combination of the Special Edition and the Anniversary Upgrade. This is not required to play Skyrim Together Reborn. You only need to purchase the Special Editio.
 
-### Q: where can I report bugs and request features?
+The VR, console, legendary edition (aka Oldrim), and the gamepass version are not supported and will never be.
 
-A: you can submit bugs and feature requests at our code repository [here](https://github.com/tiltedphoques/TiltedEvolution/issues).
+### Q: Where can I report bugs and request features?
 
-### Q: what is the recommended amount of players?
+A: You can submit bugs and feature requests at our code repository [here](https://github.com/tiltedphoques/TiltedEvolution/issues).
 
-A: while we do not have a hard player count limit in theory, for the best experience, we recommend that you play with 2 to 8 people.
+### Q: What is the recommended amount of players?
 
-### Q: what is the current status of Fallout Together?
+A: While there is no hard player count limit in theory, we recommend that you play with 2 to 8 people for the best experience.
 
-A: when developing Skyrim Together Reborn, the developers decided to make the mod work with Fallout 4 too. At the start of 2022, we decided to focus on Skyrim Together Reborn entirely due to time constraints and the small size of the team. We said that we would finish Fallout Together after Skyrim Together Reborn was released.
+### Q: What is the current status of Fallout Together?
+
+A: When developing Skyrim Together Reborn, the developers decided to make the mod work with Fallout 4 too. At the start of 2022, we decided to focus on Skyrim Together Reborn entirely due to time constraints and the small size of the team. We said that we would finish Fallout Together after Skyrim Together Reborn was released.
 
 There is currently only one developer on the team who is interested in finishing Fallout Together (see [Q: will the mod get future updates?](https://wiki.tiltedphoques.com/tilted-online/general-information/faq#q-will-the-mod-get-future-updates)). Even for this developer, this is most likely too big a task. If Fallout Together is to be completed, more developers need to pitch in. We hope that going open source brings in more people to help with that.
 
-### Q: can I use other mods with this mod?
+### Q: Can I use other mods with this mod?
 
-A: our official stance is that, for the best, most stable experience, you should not install other mods. You still absolutely can, and our mod also automatically loads SKSE if you have it installed, but we cannot make any guarantees that these mods won't cause stability issues, play nice with our systems, or that their features will sync. This is up to your discretion. We consider Creation Club mods to fall under this same category, including the Anniversary Upgrade mod pack.
+A: Our official position is that you **should not** install any other mods for the best, most stable experience. You can still do so, and our mod also loads SKSE if you have it installed, but we cannot guarantee that these mods will not cause stability issues, will play nice with our systems, or that their features will sync. This is entirely up to you.&#x20;
+
+Creation Club mods, including the Anniversary Upgrade mod pack, are included in this category.
 
 {% hint style="warning" %}
-We did not build Reborn with the Anniversary Upgrade mod pack in mind. For the most stable experience, you should disable the mods that come with the paid Anniversary Upgrade mod pack.
+We did not build Reborn with the Anniversary Upgrade mod pack in mind. For the most stable experience, you should [disable the mods](../guides/client-setup/initial-setup/launching-the-game.md#making-sure-anniversary-upgrade-dlc-is-disabled) that come with the paid Anniversary Upgrade mod pack.
 {% endhint %}
 
-### Q: will X mod work with this mod?
+### Q: Will X mod work with this mod?
 
-A: we do not know which mods work well with our mods. No mods are explicitly synced. Mods only sync accidentally. The only way to know whether a mod syncs is by testing it. Graphics mods usually work fine. Other than that, it's hard to tell. Our mod loads SKSE automatically if you have it installed. We have a mod tracker where you can check and submit compatibility of mods, which can be found [here](https://github.com/tiltedphoques/Mod-Compatibility). There are a few mods that are blocked by us, since they are inherently incompatible:
+A: We have no idea which mods work well with Skyrim Together Reborn. There are no mods that are explicitly synced. Mods only sync by accident. The only way to find out if a mod syncs is to test it. Graphics mods generally work well. Aside from that, it's difficult to say. If you have SKSE installed, our mod will automatically load it. We have a mod tracker where you can check and submit mod compatibility. You can find it [here](https://github.com/tiltedphoques/Mod-Compatibility). We have blocked a few mods because they are inherently incompatible:
 
 * Engine fixes
 * Skyrim Souls RE
 * Fraps (not a mod, but also blocked)
 
-### Q: will the mod get future updates?
+### Q: Will the mod get future updates?
 
-A: Skyrim Together Reborn 1.0 is a solid base for a lot of future expansion. The current development team has put in a lot of work. Unfortunately, they cannot keep working at this pace. That is why the mod went open source. We hope that new developers come in to help this mod reach new heights. There is still lots of work that can be done, like building a scripting API, implementing features like weather sync, doing additional bug and crash fixes, making quests smoother, or finishing Fallout Together.
+A: Skyrim Together Reborn 1.0 is a solid base for a lot of future expansion. The current development team has put in a lot of work. Unfortunately, they cannot keep working at this pace. That is why the mod has become open source. We hope that new developers will join in the future to help this mod reach new heights.&#x20;
 
-The current dev team will still be there to maintain the codebase, guide new developers, and build new features (if they feel like it).
+There is still a lot of work to be done, such as creating a scripting API, adding features like weather sync, fixing bugs and crashes, smoothing out quests, and finishing Fallout Together.
 
-### Q: is there some place where I can donate money to the project?
+The current development team will continue to maintain the codebase, guide new developers, and build new features (if they feel like it).
 
-A: we currently do not take donations. This may change in the future.
+### Q: Is there some place where I can donate money to the project?
 
-### Q: what operating systems are supported?
+A: We currently do not take donations. This may change in the future.
 
-A: for the mod itself you will need Windows 8.1 or higher. Linux support will be something that will have to be done by the community on our GitHub. The server runs on both Windows and Linux.
+### Q: What operating systems are supported?
 
-### Q: what is Tilted Online?
+A: For the mod itself you will need Windows 8.1 or higher. Linux support will be something that will have to be done by the community on our GitHub. The server runs on both Windows and Linux.
+
+AES-NI support is also required on your CPU. Check [this page](../guides/troubleshooting/my-game-crashes-when-i-open-it-or-connect-to-a-server.md) to see if your CPU is compatible.
+
+### Q: What is Tilted Online?
 
 A: Tilted Online is the name of the codebase of both Skyrim Together Reborn and Fallout Together.

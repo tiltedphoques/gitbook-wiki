@@ -10,6 +10,10 @@ These CC items have been shown to make the Skyrim Together Reborn experience mor
 This guide will demonstrate how to remove the included CC content using either MO2 or VMM.
 {% endhint %}
 
+{% hint style="warning" %}
+If you purchased the Anniversary Upgrade DLC, [make sure it is not installed](../../client-setup/initial-setup/launching-the-game.md#making-sure-anniversary-upgrade-dlc-is-disabled) before installing and using the Skyrim Together Reborn mod!
+{% endhint %}
+
 {% hint style="danger" %}
 If you remove the Creation Club content, your existing savegame(s) may become unloadable.
 

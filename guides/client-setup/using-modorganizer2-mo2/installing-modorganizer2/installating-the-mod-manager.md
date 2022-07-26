@@ -2,7 +2,7 @@
 
 ## Installing MO2
 
-Lets go and installing the mod organizer.&#x20;
+Let's get started with installing the mod organizer.
 
 1. Head to [this page](https://www.nexusmods.com/skyrimspecialedition/mods/6194?tab=files) and press the `Manual Download` button
 
@@ -12,7 +12,7 @@ Lets go and installing the mod organizer.&#x20;
 
 ![](https://shx.is/5Bim5RaJT.png)
 
-3\. Continue with the install. Keep the default `C:\Modding\MO2` install location. The reason of why it's not in `Program Files (x86)` is because that's locked down by some standard Windows security things that usually messes mods up, and more specifically the way that MO2 works.
+3\. Carry on with the installation. Keep the default `C:\Modding\MO2` installation directory. The reason it's not in `Program Files (x86)` is because it's restricted by some standard Windows security features that usually impact negatively on mods, and more specifically the way MO2 works.
 
 ![Whether or not you want the desktop shortcut is obviously up to you lol](https://shx.is/5Birr7XmM.gif)
 

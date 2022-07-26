@@ -19,7 +19,7 @@ You need:
 ![Take a deep breath, before you begin](https://shx.is/5Bik56Rp7.gif)
 
 {% hint style="danger" %}
-You **need** to launch Skyrim Special Edition through Steam before beginning!
+You must first launch Skyrim Special Edition via Steam before you can begin! This only needs to be done once.
 {% endhint %}
 
 #### Onwards to the next step!

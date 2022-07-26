@@ -12,13 +12,15 @@ To see the full list of Supported games and versions, visit [this page](../gener
 
 ### ReadMe before installing!
 
-This will be a guide that will get Skyrim Together Reborn up and running, with only the required mods included. Main reason is, that mods can make things difficult with Skyrim Together Reborn. Refer to [this](../general-information/faq.md#q-can-i-use-other-mods-with-this-mod) and [this](../general-information/faq.md#q-will-x-mod-work-with-this-mod) for the reasons why.
+This will be a guide that will get Skyrim Together Reborn up and running, with only the required mods included.&#x20;
 
-The **most important thing** is that all your users/friends/players will use the exact same mods in the exact same load order. So if all your players have followed **this guide** and **ONLY** this guide, you should be somewhat fine. But again, refer to [this](../general-information/faq.md#q-can-i-use-other-mods-with-this-mod) and [this](../general-information/faq.md#q-will-x-mod-work-with-this-mod) - it might not work perfectly.
+This will be a guide to getting Skyrim Together Reborn up and running with only the required mods.
 
-This guide will try and include as many screenshots and GIFs as possible, and be as user-friendly as possible. This means that it will include all necessary steps to get Skyrim Together Reborn up and running.
+The main reason is that mods can complicate things with Skyrim Together Reborn. For more information, see [this](../general-information/faq.md#q-can-i-use-other-mods-with-this-mod) and [this](../general-information/faq.md#q-will-x-mod-work-with-this-mod).
 
-Whenever the guide refers to "SkyrimSE", it's just short for Skyrim Special Edition.
+This guide will attempt to include as many screenshots and GIFs as possible while remaining user-friendly. This means it will include all of the steps required to get Skyrim Together Reborn up and running.
+
+When the guide refers to "SkyrimSE," it simply means "Skyrim Special Edition."
 
 ### Guides:
 
@@ -29,7 +31,7 @@ Both mod managers has their own separate guides.
 {% endhint %}
 
 {% hint style="danger" %}
-You need to launch Skyrim Special Edition through Steam before beginning!
+You must first launch Skyrim Special Edition via Steam before you can begin! This only needs to be done once.
 {% endhint %}
 
 ### [Client Setup](client-setup/) (installing the mod)

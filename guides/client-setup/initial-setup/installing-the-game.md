@@ -2,7 +2,7 @@
 
 ## Installing SkyrimSE
 
-Now to install a fresh install of SkyrimSE.
+Now we'll install SkyrimSE from scratch.
 
 1. Open Steam
 2. Find `The Elder Scrolls V: Skyrim Special Edition`

@@ -2,6 +2,8 @@
 
 This will be a collection of common issues and fixes that may or may not work.
 
+If none of these options work for you, you are welcome to join the [official Discord server](https://discord.com/invite/skyrimtogether) and seek help.
+
 ## Index
 
 * [Address Library error](address-library-error.md)
@@ -9,6 +11,7 @@ This will be a collection of common issues and fixes that may or may not work.
 * [Disabling the included Creation Club content](disabling-the-anniversary-editions-creation-club-content/)
 * [During server setup, my firewall didn't ask for network permission!](during-server-setup-my-firewall-didnt-ask-for-network-permission.md)
 * [Hostile NPCs only target my friends, not me](hostile-npcs-only-target-my-friends-not-me.md)
+* [How do I uninstall the mod?](how-do-i-uninstall-the-mod/)
 * [I need help updating the Skyrim Together Reborn](i-need-help-updating-the-skyrim-together-reborn-mod.md)
 * [I selected the wrong .exe, when I first launched SkyrimTogether](help-i-selected-the-wrong-.exe-when-first-launching-skyrimtogether.md)
 * [I want to install Skyrim Script Extender (SKSE)](i-want-to-install-skyrim-script-extender-skse/)

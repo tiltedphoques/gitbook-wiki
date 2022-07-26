@@ -18,7 +18,7 @@ This will be a guide to getting Skyrim Together Reborn up and running with only 
 
 The main reason is that mods can complicate things with Skyrim Together Reborn. For more information, see [this](../general-information/faq.md#q-can-i-use-other-mods-with-this-mod) and [this](../general-information/faq.md#q-will-x-mod-work-with-this-mod).
 
-This guide will attempt to include as many screenshots and GIFs as possible while remaining user-friendly. This means it will include all of the steps required to get Skyrim Together Reborn up and running.
+This guide will attempt to include as many screenshots and GIFs as possible, with the goal of being user-friendly. This means it will include all of the steps required to get Skyrim Together Reborn up and running.
 
 When the guide refers to "SkyrimSE," it simply means "Skyrim Special Edition."
 

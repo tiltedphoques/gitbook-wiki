@@ -20,6 +20,10 @@ The VR, console, legendary edition (aka Oldrim), and the gamepass version are no
 
 A: You can submit bugs and feature requests at our code repository [here](https://github.com/tiltedphoques/TiltedEvolution/issues).
 
+### Q: I have a lot of issues with the mod
+
+A: You can look at the [troubleshooting page](../guides/troubleshooting/) on this wiki, which contains a list of common problems and solutions.
+
 ### Q: What is the recommended amount of players?
 
 A: While there is no hard player count limit in theory, we recommend that you play with 2 to 8 people for the best experience.

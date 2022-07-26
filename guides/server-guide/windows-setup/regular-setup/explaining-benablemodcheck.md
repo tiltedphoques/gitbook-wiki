@@ -2,30 +2,32 @@
 
 ## What does `bEnableModcheck` do?
 
-The parameter `bEnableModcheck` can enable or disable the option of enforcing a mod policy.
+The `bEnableModcheck` parameter allows you to enable or disable the option of enforcing a mod policy.
 
-If you **enable** `bEnableModcheck`, that means that everyone connecting to your server will go through this process:
+If you **enable** `bEnableModcheck`, everyone who connects to your server will go through the following process:
 
-1. Player A connects to your server, that has **enabled** modcheck
-2. Your server will check Player A's `loadorder.txt`
-3. If the `loadorder.txt` matches the one on the server, Player A will now join your server
-4. If the `loadorder.txt` **doesn't** match the one on the server, Player A will not be allowed to join the server.
+1. Player A connects to your server, which has modcheck enabled.
+2. Your server will examine Player A's `loadorder.txt` file.
+3. If the `loadorder.txt` file on the server matches, Player A will now join your server.
+4. If the `loadorder.txt` file does not match the one on the server, Player A will be denied access to the server.
 
-If you **disable** `bEnableModcheck`, that means that everyone connecting to your server will go through this process:
+If you **disable**`bEnableModcheck`, everyone who connects to your server will go through the following process:
 
-1. Player A connects to your server, that has **disabled** modcheck
-2. Your server will not check Player A's `loadorder.txt`
-3. The player will be allowed to join, even though you play with different mods
+1. Player A connects to your server, which has modcheck disabled.
+2. Your server will not examine Player A's `loadorder.txt` file.
+3. Even if you use different mods, the player will be allowed to join.
 
-The reason why it can be good idea to enable this, is to increase chances of having a more stable gaming session and/or playthrough.
+The reason for enabling this is to increase the chances of having a more stable gaming session and/or playthrough.
 
-It is **not** necessary to use, if you and your friends are playing **without** mods (or if you're just playing with `Address Library for SKSE`)
+It is not necessary to use if you and your friends are not using mods (or if you are only using `Address Library for SKSE`).
 
 ## Oh! I want that! I want my server to kick players, that doesn't use the mods that I choose!
 
-Alright. For that, we need to get your `loadorder.txt` from MO2 or VMM and put it in the right location.
+Alright! To do so, we must obtain your `loadorder.txt` from MO2 or VMM and place it in the correct location.
 
-### Using MO2
+## [Option1: Using MO2](explaining-benablemodcheck.md#using-mo2) | [Option2: Using VMM](explaining-benablemodcheck.md#using-vortex-mod-manager)
+
+### Using **ModOrganizer2**
 
 1. Open MO2
 2. Enable the mods you want to enforce.
@@ -60,7 +62,7 @@ Alright. For that, we need to get your `loadorder.txt` from MO2 or VMM and put i
 
 ![Here's the whole process of how to do it](https://shx.is/5BAmnL9Ni.gif)
 
-### Using VMM
+### Using Vortex Mod Manager
 
 1. Open Vortex/VMM
 2. Go to the `Mods` menu

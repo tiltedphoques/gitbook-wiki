@@ -1,13 +1,13 @@
 # Skyrim Together Reborn
 
 {% hint style="warning" %}
-**Don't just skip straight to this step!**
+**Do not skip ahead to this step!**
 
-This guide is made for following it from the beginning to the end.
+This guide is intended to be used from start to finish.
 {% endhint %}
 
 ## This section will cover the installation of the Skyrim Together Reborn mod
 
-This will cover the installation of the `Skyrim Together Reborn` mod, and how to configure it through MO2.
+This guide will walk you through installing and configuring the Skyrim Together Reborn mod in MO2.
 
 #### Onwards to the next step!

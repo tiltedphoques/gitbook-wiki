@@ -4,15 +4,19 @@ description: Using port forwarding
 
 # Regular setup
 
-This will setup a server using the `SkyrimTogetherServer.exe` and I'll try and walk you through the different config options that we have, and what they do.
+This section of the guide will walk you through the various config options and what they do, as well as how to set up a server using `SkyrimTogetherServer.exe`.
 
-It's very important that you've followed the guide so far, so that we share the same paths. If not, you'll have to figure out the paths yourselves.
+It's critical that you've followed the guide so far, so that we're using the same paths. Otherwise, you'll have to figure out the paths for yourself.
 
-If you've used this guide so far, you can use the exact same paths as I use, which makes everything easier.
+If you've followed this guide so far, you can take the same paths the guide does, making everything easier.
 
 ## Initial setup
 
-### **Using MO2**
+## [Option 1: Using MO2](./#using-modorganizer2) | [Option 2: Using VMM](./#using-vortex-mod-manager)
+
+
+
+### **Using ModOrganizer2**
 
 1. Open MO2
 2. Right click the mod `Skyrim Together Reborn`
@@ -23,7 +27,7 @@ If you've used this guide so far, you can use the exact same paths as I use, whi
 7. Open the `SkyrimTogetherServer.exe`
 8. A firewall popup will show mark, mark it both allowed for both private and public networks.
 9. <img src="https://shx.is/5BzTNr2rT.png" alt="" data-size="original">
-10. If the popup doesn't show up, don't worry, we'll figure it out in a minute.
+10. If the popup did not appear, visit [this page](../../../troubleshooting/during-server-setup-my-firewall-didnt-ask-for-network-permission.md) in the troubleshooting section.
 11. Now you can see the server is actually running:\
     ![](https://shx.is/5BzUvqRTO.png)\\
 12. For now, **only you** can connect to it, and it's not configured. We'll also figure that out in a minute.
@@ -37,7 +41,7 @@ If you've used this guide so far, you can use the exact same paths as I use, whi
 
 
 
-### **Using Vortex**
+### **Using Vortex Mod Manager**
 
 1. Open Vortex
 2. Go to the `Mods` menu
@@ -46,45 +50,21 @@ If you've used this guide so far, you can use the exact same paths as I use, whi
    `C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\SkyrimTogetherReborn`
 5. In that folder, open the `SkyrimTogetherServer.exe`
 6. A firewall popup will show mark, mark it both allowed for both private and public networks.
-7. <img src="https://shx.is/5BzTNr2rT.png" alt="" data-size="original">
+7. ![](https://shx.is/5CXHHOz4V.png)
 8. If the popup doesn't show up, don't worry, we'll figure it out in a minute.
 9. Now you can see the server is actually running:\
    ![](https://shx.is/5BzUvqRTO.png)
 10. For now, **only you** can connect to it, and it's not configured. We'll also figure that out in a minute.
 11. Close the `SkyrimTogetherServer.exe` for now.
-12. If you want to test if it works, **only you** can now connect to your server now.
+12. Only you can now connect to your server if you want to see if it works.
 13. Launch `Skyrim Together Reborn` using Vortex, and connect using `127.0.0.1` as your IP address, and using no password.
+
+![](https://shx.is/5CXHdbGfQ.gif)
 
 {% hint style="warning" %}
 If the firewall notice **did** show up, you can safely continue the guide
 
-If your firewall notice **didn't** show up, use the following guide
+If your firewall notice **did not** appear, visit [this page](../../../troubleshooting/during-server-setup-my-firewall-didnt-ask-for-network-permission.md)!
 {% endhint %}
-
-## The firewall didn't popup! Help!
-
-I'm using Windows 11, so the UI will reflect that. I think it's fairly the same as in Windows 10.
-
-1. Press the `Windows Key`
-2. Search for `firewall`
-3. Select the `Windows Defender Firewall with Advanced Security`
-4. ![](https://shx.is/5BzXk19Mc.png)
-5. Select `Inbound Rules`
-6. Verify the rules have not been created before. If they **have** been created before, there will be two rules named `Multiplayer Server for Bethesda games`. If they are there, you can safely continue.
-7. If they are not there, we will now create them manually.
-8. To the right side of the `Windows Defender Firewall`, there'll be a button named ![](https://shx.is/5BzYyMbqm.png)
-9. Select `New Rule`. A new window will appear.
-10. Select `Program`, then `Next`.
-11. Select `This program path` and press the ![](https://shx.is/5BzZ2ocvz.png) button
-12. Go to the folder location:\
-    `C:\Modding\MO2\mods\Skyrim Together Reborn\SkyrimTogetherReborn`
-13. Select the `SkyrimTogetherServer.exe`
-14. Press `Next`
-15. Select `Allow the connection`
-16. Select `Private` and `Public` but leave `Domain` unchecked
-17. Give it a name. I recommend `Multiplayer Server for Bethesda games`.
-18. Done for now.
-
-![](https://shx.is/5Bz\_DM9wr.gif)
 
 #### Onwards to the next step!

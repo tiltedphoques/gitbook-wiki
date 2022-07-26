@@ -80,6 +80,7 @@
   * [Disabling the included Creation Club content](guides/troubleshooting/disabling-the-anniversary-editions-creation-club-content/README.md)
     * [Using ModOrganizer2](guides/troubleshooting/disabling-the-anniversary-editions-creation-club-content/using-modorganizer2.md)
     * [Using Vortex Mod Manager](guides/troubleshooting/disabling-the-anniversary-editions-creation-club-content/using-vortex-mod-manager.md)
+  * [During server setup, my firewall didn't ask for network permission!](guides/troubleshooting/during-server-setup-my-firewall-didnt-ask-for-network-permission.md)
   * [Hostile NPCs only target my friends, not me](guides/troubleshooting/hostile-npcs-only-target-my-friends-not-me.md)
   * [I need help updating the Skyrim Together Reborn mod](guides/troubleshooting/i-need-help-updating-the-skyrim-together-reborn-mod.md)
   * [I selected the wrong .exe, when first launching SkyrimTogether](guides/troubleshooting/help-i-selected-the-wrong-.exe-when-first-launching-skyrimtogether.md)

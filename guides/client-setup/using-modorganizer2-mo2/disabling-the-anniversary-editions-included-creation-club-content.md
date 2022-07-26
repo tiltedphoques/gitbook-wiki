@@ -1,12 +1,22 @@
-# Disabling the Anniversary Editions included Creation Club content
+# Disabling the included Creation Club content
 
-{% hint style="danger" %}
-Removing the Creation Club content **might** make your existing savegame(s) unloadable.
+{% hint style="info" %}
+When Bethesda released the Anniversary Edition DLC, they updated the game to v1.6.
 
-Regardless of that, it's still **highly recommended** to remove them!
+In that update, they included 4 Creation Club items.
+
+These CC items have shown to make the Skyrim Together Reborn experience more unstable.
+
+This guide will show you how to remove the included CC content, either using MO2 or VMM.
 {% endhint %}
 
-## Disabling the SkyrimSE Anniversary Editions included Creation Club content
+{% hint style="danger" %}
+Removing the Creation Club content might make your existing savegame(s) unloadable.
+
+Regardless of that, it's still highly recommended to remove them!
+{% endhint %}
+
+## Disabling the included Creation Club content
 
 You can't actually disable them, so we'll have two options to choose from:
 

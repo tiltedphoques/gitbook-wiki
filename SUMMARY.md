@@ -88,7 +88,7 @@
     * [Using ModOrganizer2](guides/troubleshooting/i-want-to-install-skyrim-script-extender-skse/using-modorganizer2.md)
     * [Using Vortex Mod Manager](guides/troubleshooting/i-want-to-install-skyrim-script-extender-skse/using-vortex-mod-manager.md)
   * [My game crashes when I open it, or connect to a server](guides/troubleshooting/my-game-crashes-when-i-open-it-or-connect-to-a-server.md)
-  * [My game runs with very low FPS](guides/troubleshooting/my-game-runs-with-very-low-fps.md)
+  * [My game runs with very low FPS](guides/troubleshooting/my-game-runs-with-very-low-fps/README.md)
     * [Using ModOrganizer2](guides/troubleshooting/my-game-runs-with-very-low-fps/using-modorganizer2.md)
     * [Using Vortex Mod Manager (VMM)](guides/troubleshooting/my-game-runs-with-very-low-fps/using-vortex-mod-manager-vmm.md)
   * [Naked NPCs / players](guides/troubleshooting/naked-npcs-players.md)

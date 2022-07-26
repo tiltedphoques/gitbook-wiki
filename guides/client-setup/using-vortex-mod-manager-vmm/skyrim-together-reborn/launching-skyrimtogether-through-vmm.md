@@ -3,10 +3,10 @@
 ## Launching `SkyrimTogether.exe` for the first time
 
 1. Open Vortex/VMM
-2. Find the custom launcher we made in the previous step, and press the play button
+2. Locate the custom launcher we created in the previous step and click the play button.
 3. ![](https://shx.is/5BKQYt5oq.png)
-4. A popup should appear, asking you to select an executable in the Skyrim root folder.
-5. **Very important! Select `SkyrimSE.exe` and press Open**
+4. A popup window should appear, prompting you to choose an executable from the Skyrim root folder.
+5. **This is extremely important! Select SkyrimSE.exe and press the Open button.**
 
 ![It's very important to select SkyrimSE.exe!](https://shx.is/5BlEBHSqt.png)
 

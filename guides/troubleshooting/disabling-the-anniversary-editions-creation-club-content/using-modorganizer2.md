@@ -1,9 +1,7 @@
 # Using ModOrganizer2
 
 {% hint style="danger" %}
-If you remove the Creation Club content, your existing savegame(s) may become unloadable.
-
-Regardless, it is **strongly advised** that they be removed!
+Removing the Creation Club content **might** make your existing savegame(s) unloadable. Regardless of that, it's still **highly recommended** to remove them!
 {% endhint %}
 
 ## Removing the Creation Club content

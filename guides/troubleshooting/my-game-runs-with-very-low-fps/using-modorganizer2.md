@@ -5,7 +5,7 @@
 We must configure NVIDIA Control Panel to use your dedicated GPU rather than your integrated graphics unit (iGPU). Simply follow the steps below to accomplish this.
 
 1. Navigate to your `NVIDIA Control Panel`.
-2. Select `Manage 3D Settings`&#x20;
+2. Select `Manage 3D Settings`
 3. Select `Program Settings`
 4. Press the `Add` button
 5. Navigate to the folder:\
@@ -20,7 +20,7 @@ We must configure NVIDIA Control Panel to use your dedicated GPU rather than you
 
 ## Using Windows 11
 
-Even though Windows 11 claims to be able to control your graphics processor natively via their new "Graphics settings" menu, the NVIDIA Control Panel solution is still recommended.
+Even though Windows 11 claims to be able to control your graphics processor natively via their new "Graphics settings" menu, the NVIDIA Control Panel solution is still the recommended approach.
 
 1. Open `Settings`
 2. Go to `Display`

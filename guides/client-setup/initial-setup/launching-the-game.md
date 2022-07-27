@@ -8,6 +8,7 @@ Making sure the Anniversary Upgrade DLC is turned off is a critical step. You ma
 2. Find `The Elder Scrolls V: Skyrim Special Edition`
 3. Right-click and select `Properties`
 4. Go to `DLC` and **remove** the `✓` from the `The Elder Scrolls V: Skyrim Anniversary Upgrade` DLC.
+5. If you don't see a DLC tab, it means you didn't buy the `The Elder Scrolls V: Skyrim Anniversary Upgrade` DLC.
 
 ![This is a necessary step because Skyrim Together Reborn does not function properly with the Anniversary Upgrade DLC enabled.](https://shx.is/5Bif7gkqI.gif)
 
@@ -23,8 +24,8 @@ Next, we must launch the game normally from Steam in order for it to generate so
 2. Find `The Elder Scrolls V: Skyrim Special Edition`
 3. Right-click and select `Launch`
 4. The SkyrimSE launcher will open and popup with some detection mechanism that _should_ detect your system and set graphic options accordingly.
-5. But in my case, it detects everything wrong and will set everything to very low and a wrong resolution.
-6. To fix this, head to the `Options` and select `Windowed` and `Borderless` to edit your resolution.
+5. However, in my situation, it identifies everything incorrectly and sets everything to "Low Quality" and a incorrect resolution.
+6. To correct this, go to `Options` and select `Windowed` and `Borderless` to change your resolution.
 7. From there just set it up as how you'd like.
 
 ![Press PLAY after pressing OK](https://shx.is/5BiepgvZN.gif)

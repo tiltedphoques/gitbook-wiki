@@ -16,7 +16,7 @@
 
 ![](https://shx.is/5BKRNVIxA.gif)
 
-## Oh shit! I selected the wrong `.exe` file, what do I do??
+## Nothing pops up,when I open `SkyrimTogether.exe` / I chose the wrong .exe
 
 You have three options
 

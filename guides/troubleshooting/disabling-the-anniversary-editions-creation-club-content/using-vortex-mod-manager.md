@@ -8,13 +8,13 @@ Regardless, it is **strongly advised** that they be removed!
 
 ## Removing the Creation Club content
 
-You can't actually disable them, so we'll have to delete them
+Because you can't disable them, we'll have to delete them.
 
-Vortex Mod Manger (VMM) supports "ghosting" the files, which basically means renaming the files, but in my testing, it didn't work very well. So deleting the files is the best option.
+Vortex Mod Manger (VMM) supports "ghosting" files, which essentially means renaming them, but it didn't work very well in my testing. As a result, deleting the files is the best option.
 
-You will need to remember this though:
+**However, keep the following in mind:**
 
-Steam will try and redownload those files. E.g. if Skyrim has an update, or you reinstall the game, or if you `Verify the integrity of the game files` through Steam.
+Steam will attempt to download those files again. For example, if Skyrim receives an update, you reinstall the game, or you `Verify the integrity of the game files` via Steam.
 
 ### Delete the files
 

@@ -30,11 +30,11 @@ We need to download a tool named `CPU-Z`.
 
 ## How do I enable it in my BIOS?
 
-**A:** You can try enabling `AES-NI` in your BIOS. This is apparently especially relevant for Intel CPUs. This is hard to guide you through, since almost every BIOS looks different.
+**A:** You could try turning on `AES-NI` in your BIOS. This appears to be especially important for Intel CPUs. This is difficult to walk you through because practically every BIOS looks different.
 
 #### Windows 10
 
-To get to your BIOS, if you're using Windows 10, do the following steps:
+If you're running Windows 10, follow these steps to access your BIOS:
 
 1. Go to `Settings`
 2. Select `Update and Security`
@@ -55,7 +55,7 @@ To get to your BIOS, if you're using Windows 10, do the following steps:
 
 #### Windows 11
 
-To get to your BIOS, if you're using Windows 11, do the following steps:
+If you're running Windows 11, follow these steps to access your BIOS:
 
 1. Go to `Settings`
 2. Select `System`
@@ -76,8 +76,8 @@ To get to your BIOS, if you're using Windows 11, do the following steps:
 
 ## I have AES-NI enabled, but the issue still persists. What do I do?
 
-**A:** Make sure that you're using the right IP address and port when connecting. Trivial thing, but I accidentally miswrote the ip address and that sent me straight to my desktop (CTD).
+**A:** When connecting, make sure you're using the correct IP address and port. It's a little detail, but I mistakenly misspelled my IP address, which crashed me to my desktop (CTD).
 
-**A:** Try and delete your INI files from the `My Games\Skyrim Special Edition` folder. Then relaunch SkyrimSE normally through Steam (not through MO2), to let it regenerate the vanilla config files.
+**A:** Delete your INI files from the `Skyrim Special Edition` folder in `My Games`. Then, relaunch SkyrimSE through Steam (not through MO2 or VMM) to allow it to regenerate the vanilla config files.
 
 ##

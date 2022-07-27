@@ -8,16 +8,16 @@ Regardless, it is **strongly advised** that they be removed!
 
 ## Removing the Creation Club content
 
-You can't actually disable them, so we'll have two options to choose from:
+Because you can't actually disable them, we'll have two options:
 
-Pick only one of these.
+Choose only one of these.
 
-1. Moving the files and letting MO2 handle it
-2. Deleting the files manually
+1. MO2 will handle the mods
+2. Manually deleting the files
 
-Remember, no matter what option you pick:
+**Remember, no matter which option you choose:**
 
-Steam will try and redownload those files. E.g. if Skyrim has an update, or you reinstall the game, or if you `Verify the integrity of the game files` through Steam.
+Steam will attempt to download those files again. For example, if Skyrim receives an update, you reinstall the game, or you `Verify the integrity of the game files` via Steam.
 
 ### Option 1: Moving the files and letting MO2 handle it
 

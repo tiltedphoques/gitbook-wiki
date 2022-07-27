@@ -5,7 +5,7 @@ When Bethesda released the Anniversary Upgrade DLC, the game version was updated
 
 Whether you bought the DLC or not, Bethesda included four Creation Club items with the update.
 
-These 4 CC items have been shown to make the Skyrim Together Reborn experience more unstable, and prone to crashing more frequently.
+These four CC items have been shown to make the Skyrim Together Reborn experience more unstable, and prone to crashing more frequently.
 
 This guide will demonstrate how to remove the included CC content using either MO2 or VMM.
 {% endhint %}

@@ -6,13 +6,13 @@ description: Frequently asked questions about Skyrim Together Reborn and Fallout
 
 ### Q: What is Skyrim Together Reborn?
 
-A: Skyrim Together is a Skyrim mod that aims to bring co-op to the game. Skyrim Together Reborn is essentially a "sequel" to the original Skyrim Together (which some of you may know as "Harbor Edition", "Nightlies", or simply "Old ST").&#x20;
+A: Skyrim Together is a Skyrim mod that aims to bring co-op to the game. Skyrim Together Reborn is essentially a "sequel" to the original Skyrim Together (which some of you may know as "Harbor Edition", "Nightlies", or simply "Old ST").
 
 The code was rewritten from the ground up because the old codebase was too difficult to work with. This decision has paid off big time, as Skyrim Together Reborn is significantly better than the original Skyrim Together. The current list of features can be found [here](features.md).
 
 ### Q: What platforms and versions are supported?
 
-A: Skyrim Special Edition on Steam, specifically version 1.6, is the **ONLY** version that is supported and will most likely always be supported. This has been mislabeled as "Anniversary Edition" by the modding community. The Anniversary Edition is a combination of the Special Edition and the Anniversary Upgrade. This is not required to play Skyrim Together Reborn. You only need to purchase the Special Editio.
+A: Skyrim Special Edition on Steam, specifically version 1.6, is the **ONLY** version that is supported and will most likely always be supported. This has been mislabeled as "Anniversary Edition" by the modding community. The Anniversary Edition is a combination of the Special Edition and the Anniversary Upgrade. This is not required to play Skyrim Together Reborn. You only need to purchase the Special Edition.
 
 The VR, console, legendary edition (aka Oldrim), and the gamepass version are not supported and will never be.
 
@@ -36,7 +36,7 @@ There is currently only one developer on the team who is interested in finishing
 
 ### Q: Can I use other mods with this mod?
 
-A: Our official position is that you **should not** install any other mods for the best, most stable experience. You can still do so, and our mod also loads SKSE if you have it installed, but we cannot guarantee that these mods will not cause stability issues, will play nice with our systems, or that their features will sync. This is entirely up to you.&#x20;
+A: Our official position is that you **should not** install any other mods for the best, most stable experience. You can still do so, and our mod also loads SKSE if you have it installed, but we cannot guarantee that these mods will not cause stability issues, will play nice with our systems, or that their features will sync. This is entirely up to you.
 
 Creation Club mods, including the Anniversary Upgrade mod pack, are included in this category.
 
@@ -54,7 +54,7 @@ A: We have no idea which mods work well with Skyrim Together Reborn. There are n
 
 ### Q: Will the mod get future updates?
 
-A: Skyrim Together Reborn 1.0 is a solid base for a lot of future expansion. The current development team has put in a lot of work. Unfortunately, they cannot keep working at this pace. That is why the mod has become open source. We hope that new developers will join in the future to help this mod reach new heights.&#x20;
+A: Skyrim Together Reborn 1.0 is a solid base for a lot of future expansion. The current development team has put in a lot of work. Unfortunately, they cannot keep working at this pace. That is why the mod has become open source. We hope that new developers will join in the future to help this mod reach new heights.
 
 There is still a lot of work to be done, such as creating a scripting API, adding features like weather sync, fixing bugs and crashes, smoothing out quests, and finishing Fallout Together.
 

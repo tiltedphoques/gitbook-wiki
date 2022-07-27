@@ -6,19 +6,15 @@ Reading the [playguide](../general-information/playguide.md) is **as essential**
 
 ### Supported versions
 
-Skyrim Special Edition v1.6 on Steam is **required** to play Skyrim Together Reborn. The Anniversary Upgrade paid mod pack is not required. In fact, we recommend that you play without it. The VR, console, Legendary, and Gamepass editions are incompatible. Skyrim Special Edition 1.5 is not supported either (aka pre Anniversary update). Verify the game files through Steam to ensure you have the most recent Special Edition update installed.
+Skyrim Special Edition v1.6 on Steam is **required** to play Skyrim Together Reborn. The Anniversary Upgrade paid mod pack is not required. In fact, we recommend that you play without it. The VR, console, Legendary, and Gamepass editions are incompatible. Skyrim Special Edition v1.5 is not supported either (aka pre Anniversary update). Verify the game files through Steam to ensure you have the most recent Special Edition update installed.
 
 To see the full list of Supported games and versions, visit [this page](../general-information/supported-games.md).
 
 ### ReadMe before installing!
 
-This will be a guide that will get Skyrim Together Reborn up and running, with only the required mods included.&#x20;
-
-This will be a guide to getting Skyrim Together Reborn up and running with only the required mods.
+This will be a guide that will get Skyrim Together Reborn up and running, with only the required mods included.
 
 The main reason is that mods can complicate things with Skyrim Together Reborn. For more information, see [this](../general-information/faq.md#q-can-i-use-other-mods-with-this-mod) and [this](../general-information/faq.md#q-will-x-mod-work-with-this-mod).
-
-This guide will attempt to include as many screenshots and GIFs as possible, with the goal of being user-friendly. This means it will include all of the steps required to get Skyrim Together Reborn up and running.
 
 When the guide refers to "SkyrimSE," it simply means "Skyrim Special Edition."
 

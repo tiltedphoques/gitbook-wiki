@@ -2,9 +2,11 @@
 
 ## Locating the `STServer.ini` to configure our server
 
-Now that our server is closed, and we've created the inbound rules for the firewall, we can take a look at the `STServer.ini` config file, that let's us configure a few parameters.
+Now that our server is shut down and we've created the inbound firewall rules, we can look at the `STServer.ini` config file, which allows us to configure a few parameters.
 
-### **Using MO2**
+## [Option 1: Using MO2](locating-the-stserver.ini.md#using-mo2) | [Option 2: Using VMM](locating-the-stserver.ini.md#using-vortex)
+
+### **Using ModOrganizer2**
 
 1. Open MO2
 2. Find the mod `Skyrim Together Reborn`
@@ -17,7 +19,7 @@ Now that our server is closed, and we've created the inbound rules for the firew
 
 ![It's pretty easy finding the STServer.ini](https://shx.is/5BAazzE\_s.gif)
 
-### **Using Vortex**
+### **Using Vortex Mod Manager**
 
 1. Open Vortex
 2. Go to the `Mods` menu

@@ -6,7 +6,7 @@ This is most common in laptops or systems with an integrated graphics unit built
 
 There will be two options available to you. Depending on what you installed Skyrim Together Reborn with, either MO2 or VMM.
 
-## [Option1: ModOrganizer2 (MO2)](my-game-runs-with-very-low-fps/using-modorganizer2.md)
+## [Option 1: ModOrganizer2 (MO2)](using-modorganizer2.md)
 
-## [Option 2: Vortex Mod Manager (VMM)](my-game-runs-with-very-low-fps/using-vortex-mod-manager-vmm.md)
+## [Option 2: Vortex Mod Manager (VMM)](using-vortex-mod-manager-vmm.md)
 

@@ -2,9 +2,9 @@
 
 ## Q: When I'm trying to close the STRUI, it just reopens
 
-**A:** Try and use the `F2` button instead of `Right CTRL`.
+**A:** Instead of `Right CTRL`, try using the `F2` button.
 
-**A:** Reload your savegame, and/or restart your game if that doesn't work. Sometimes it takes multiple restarts.
+**A:** If that doesn't work, reload your savegame and/or restart your game. It may be necessary to restart several times.
 
-**A:** You can also try deleting whatever's inside MO2's overwrite folder, located here:\
+**A:** If you're using ModOrganizer2 (MO2), you can also try deleting everything in MO2's overwrite folder, which can be found here:\
 `C:\Modding\MO2\overwrite`

@@ -2,7 +2,7 @@
 
 ## Choose one option!
 
-It's all about your personal preference. They both work fine.
+It's all about your personal preference. If you're not experienced with port forwarding, it's recommended to go with the ZeroTier option.
 
 ### [Option 1: Regular setup](regular-setup/) (with port forwarding)
 

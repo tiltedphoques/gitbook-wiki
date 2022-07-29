@@ -2,20 +2,20 @@
 
 ## Opening MO2 for the first time
 
-Opening MO2 for the first time will present you with a window, titled `Creating an instance`. Follow these steps:
+When you first launch MO2, you will see a window titled `Creating an instance`. Take the following steps:
 
 1. Press `Next`
 2. Select `Create a portable instance`
 3. Select `Skyrim Special Edition` in the list
 4. Just confirm the location is `C:\Modding\MO2` and let the `Show advanced button` stay unchecked. No need to fiddle with that.
 5. Press `Next`
-6. It will ask for you to link MO2 to your NexusMods account. I highly recommend doing so.
+6. It will prompt you to connect MO2 to your NexusMods account. It is strongly advised that you do so.
 7. Press `Connect to Nexus` and it'll open a browser window.
-8. If you're logged in, it'll show this window. If not, log in and it'll show this window. Press `Authorise` to continue.
+8. This window will appear if you are logged in. If the window does not appear, log in and it will appear. To proceed, press `Authorize`.
 
 ![](https://shx.is/5BiwaBxJl.png)
 
-9\. The confirmation should look something like this:
+9\. This is how the confirmation should look:
 
 > Instance type: Portable
 >

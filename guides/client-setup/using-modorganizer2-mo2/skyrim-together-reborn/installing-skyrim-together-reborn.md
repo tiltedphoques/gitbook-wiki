@@ -5,7 +5,7 @@
 1. To the right in MO2, there should be a tab named ![](https://shx.is/5BiX5nxYS.png). Click it!
 2. In there will be the mod we just downloaded. Right-click on it and select `Install`
 3. ![](https://shx.is/5BlsJfZnz.png)
-4. An error will show, but you can safely ignore it. Press the green arrow, until the gray information/warning popup disappear.
+4. An error message will appear, but you can safely disregard it. Press the green arrow to make the gray information/warning popup go away.
 5. Then press `OK`
 6. Then press `Ignore`.
 7. Now the installation will continue as needed.

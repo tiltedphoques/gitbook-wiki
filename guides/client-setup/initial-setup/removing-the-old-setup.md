@@ -2,9 +2,9 @@
 
 ## Uninstalling the game
 
-Maybe you haven't even installed Skyrim Special Edition (SkyrimSE), but we'll need to make absolutely sure.
+Perhaps you haven't even installed Skyrim Special Edition (SkyrimSE), but we'll need to double-check.
 
-You can start by uninstalling your game in the Steam application:
+Begin by uninstalling your game from the Steam application:
 
 1. Open Steam
 2. Find `The Elder Scrolls V: Skyrim Special Edition`
@@ -14,11 +14,9 @@ You can start by uninstalling your game in the Steam application:
 
 ![](https://shx.is/5Bi9WQc8d.png)
 
-###
-
 ## Removing old game profile(s) and savegames
 
-Let's clear out the folder where all **your config files** and **your savegames are**. If you care about these, back them up and replace them later. For now, let's remove them.
+Let's empty the folder containing all of your config files and savegames. Back them up and put them back in the folder if you care about them. Let us remove them for the time being.
 
 1. Go to your `Documents` folder.
 2. Find your `My Games` folder.
@@ -30,7 +28,7 @@ Let's clear out the folder where all **your config files** and **your savegames 
 
 ### **Notes:**
 
-* If you use Steam Cloud, it _should_ automatically upload your savegames to the Steam Cloud. And Steam _should_ re-download them, once you launch SkyrimSE again.
-* But if you don't trust Steam Cloud, or not sure if you've enabled it, do a manual backup of the `My Games\Skyrim Special Edition` folder.
+* If you use Steam Cloud, your savegames should be automatically uploaded to the Steam Cloud. When you restart SkyrimSE, Steam should re-download them.
+* However, if you don't trust Steam Cloud or are unsure whether you've enabled it, make a manual backup of the `My Games\Skyrim Special Edition` folder.
 
 #### Onwards to the next step!

@@ -35,13 +35,13 @@ bPremiumMode=true
 uPort=10578
 ```
 
-To read about what each specific line does, I will refer to [this page](../../server-configuration.md) that explains every parameter available in depth.
+To learn more about what each line does, visit [this page](../../server-configuration.md), which goes over each parameter in detail.
 
-I will, in the next page, explain what the `bEnableModCheck` is about, and how to configure that properly.
+On the following page, the guide will explain what the `bEnableModCheck` is and how to properly configure it.
 
 ## Example of how a config file can look
 
-I'll give you an example of how a config file can be setup. I will again refer to [this page](../../server-configuration.md) if you need more explanation of the parameters. I think it's pretty straight forward.
+We'll give you **an example** of how to set up a config file in this section. If you require further explanation of the parameters, we will refer you to [this page](../../server-configuration.md).
 
 ```
 [general]

@@ -1,20 +1,30 @@
-# Disabling the Anniversary Editions included Creation Club content
+# Disabling the included Creation Club content
 
-{% hint style="danger" %}
-Removing the Creation Club content **might** make your existing savegame(s) unloadable.
+{% hint style="info" %}
+When Bethesda released the Anniversary Upgrade DLC, the game version was updated to v1.6.
 
-Regardless of that, it's still **highly recommended** to remove them!
+Whether you bought the DLC or not, Bethesda included four Creation Club items with the update.
+
+These four CC items have been shown to make the Skyrim Together Reborn experience more unstable, and prone to crashing more frequently.
+
+This guide will demonstrate how to remove the included CC content using either MO2 or VMM.
 {% endhint %}
 
-## Disabling the SkyrimSE Anniversary Editions included Creation Club content
+{% hint style="danger" %}
+If you remove the Creation Club content, your existing savegame(s) may become unloadable.
 
-You can't actually disable them, so we'll have to delete them
+Regardless, it is **strongly advised** that they be removed!
+{% endhint %}
 
-Vortex Mod Manger (VMM) supports "ghosting" the files, which basically means renaming the files, but in my testing, it didn't work very well. So deleting the files is the best option.
+## Disabling the included Creation Club content
 
-You will need to remember this though:
+Because you can't disable them, we'll have to delete them.
 
-Steam will try and redownload those files. E.g. if Skyrim has an update, or you reinstall the game, or if you `Verify the integrity of the game files` through Steam.
+Vortex Mod Manger (VMM) supports "ghosting" files, which essentially means renaming them, but it didn't work very well in my testing. As a result, deleting the files is the best option.
+
+**However, keep the following in mind:**
+
+Steam will attempt to download those files again. For example, if Skyrim receives an update, you reinstall the game, or you `Verify the integrity of the game files` via Steam.
 
 ### Delete the files
 

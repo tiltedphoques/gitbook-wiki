@@ -1,12 +1,12 @@
 # Creating a separator in MO2
 
-Now we are going to create a separator in MO2. This is nice for getting an overview of your setup.
+In MO2, we will now create a separator. This is useful for getting a sense of your setup.
 
-The only function is for separating mods from other mods. It's like homemade categories.
+The only function is to distinguish mods from one another. It's like having your own categories.
 
-Since we don't need many, if even any, mods, we'll just create one separator.
+We'll only make one separator because we only need one mod, beyond the Skyrim Together Reborn mod itself.
 
-But if you want to add more separators (to sort other mods), you can do so yourself.
+However, if you want to add more separators to sort other mods, you can do so.
 
 ## Creating a separator
 

@@ -1,12 +1,12 @@
 # Docker setup
 
-I will assume you're using **Ubuntu 22.04 LTS** in this guide. I don't want to cover a whole lot of distros, so the guide will just use the most popular one.
+In this guide, we'll assume you're running Ubuntu 22.04 LTS. Because we won't be covering many distros, the guide will only use the most popular one.
 
 ## Installing Docker
 
 1. Open your terminal
 2. Do a `sudo apt update`
-3. Then we need to install some prerequisites:\
+3. Then we must install the following prerequisites:\
    `sudo apt install -y apt-transport-https ca-certificates curl software-properties-common`
 4. Then we need to add the GPG key from the official Docker repository to our system:\
    `curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg`
@@ -51,8 +51,8 @@ I like to put my stuff in `/opt/` so that's what we will do for now
 version: "3.9"
 
 services:
-  skyrimreborn01:
-    container_name: skyrimreborn01
+  skyrimserver:
+    container_name: skyrimserver
     image: tiltedphoques/st-reborn-server:latest
     ports:
       - "10578:10578/udp"

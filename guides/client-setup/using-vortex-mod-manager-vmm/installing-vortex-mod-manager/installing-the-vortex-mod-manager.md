@@ -2,7 +2,7 @@
 
 ## Installing Vortex Mod Manager (VMM)
 
-Lets go and installing the mod organizer VMM.
+Let's begin by installing the mod manager VMM.
 
 1. Go to [this page](https://www.nexusmods.com/site/mods/1?tab=files) and select the `Manual Download` button, by the file named `Vortex`:\
    ![](https://shx.is/5BJPsTlGm.png)

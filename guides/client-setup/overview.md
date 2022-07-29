@@ -2,7 +2,7 @@
 
 ## Overview
 
-Here will be an overview of the different guides and approaches to installing and playing Skyrim Together Reborn.
+This section will provide an overview of the various guides and approaches to installing and playing Skyrim Together Reborn.
 
 {% hint style="warning" %}
 Choose only **one** of the options, whatever suits you the best.

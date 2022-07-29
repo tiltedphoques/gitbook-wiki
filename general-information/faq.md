@@ -20,9 +20,9 @@ The VR, console, legendary edition (aka Oldrim), and the gamepass version are no
 
 A: You can submit bugs and feature requests at our code repository [here](https://github.com/tiltedphoques/TiltedEvolution/issues).
 
-### Q: I have a lot of issues with the mod
+### Q: I have a lot of issues with the mod. Where can I get help?
 
-A: You can look at the [troubleshooting page](../guides/troubleshooting/) on this wiki, which contains a list of common problems and solutions.
+A: You can look at the [troubleshooting page](../guides/troubleshooting/) on this wiki, which contains a list of common problems and solutions. If none of the troubleshooting pages helped you, you can always join our [Discord server](https://discord.com/invite/skyrimtogether).
 
 ### Q: What is the recommended amount of players?
 

@@ -77,7 +77,7 @@ The server runs the world time. On connect, the local time will sync up to the s
 
 ### Homes
 
-Vanilla homes are not synced, but this is intentional. This way, players can customize their own homes however they like, and they can store items in their chests without having to be afraid of the chest contents getting overwritten by other players (since only these chests do not sync). This only goes for vanilla homes, not for DLC homes or modded homes. These homes are Breezehome, Hjerim, Honeyside, Proudside Manor and Vlindrel Hall.
+Vanilla(DLC) homes are not synced, but this is intentional. This way, players can customize their own homes however they like, and they can store items in their chests without having to be afraid of the chest contents getting overwritten by other players (since only these chests do not sync). This only goes for vanilla homes, includes DLC but not for modded homes.
 
 ### Followers
 

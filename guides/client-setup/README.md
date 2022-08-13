@@ -16,7 +16,7 @@ You need:
 4. Some kind of archiving tool. I use [7-Zip](https://7-zip.org/), but a lot of people use [WinRAR](https://www.win-rar.com).
 5. A lot of patience and a calm mind. You shouldn't rush through this. Take it easy. Grab a cup of tea, and enjoy.
 
-![Take a deep breath, before you begin](https://shx.is/5Bik56Rp7.gif)
+![Take a deep breath, before you begin](https://sxcu.net/5Bik56Rp7.gif)
 
 {% hint style="danger" %}
 You must first launch Skyrim Special Edition via Steam before you can begin! This only needs to be done once.

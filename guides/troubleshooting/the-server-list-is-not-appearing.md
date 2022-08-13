@@ -10,6 +10,6 @@
 
 **A:** You can try going into Vortex and re-enabling `Skyrim Together Reborn` and `Address Library for SKSE`:
 
-![](https://shx.is/5BRsTNf\_N.gif)
+![](https://sxcu.net/5BRsTNf_N.gif)
 
 ***

@@ -15,7 +15,7 @@ People from outside your local network will be able to access your server now th
 4. Find your **public IPv4** [here](https://icanhazip.com/) or [here](https://www.whatismyip.net/).
 5. Give your friend(s) the public IPv4, and tell them to use that to connect to your server.
 
-![That is the IP your friends will need from you.](https://shx.is/5BDwfV5b9.png)
+![That is the IP your friends will need from you.](https://sxcu.net/5BDwfV5b9.png)
 
 6\. If your port forwarding has been successful, they should now be able to connect to your server.
 
@@ -30,7 +30,7 @@ People from outside your local network will be able to access your server now th
 4. Find your **public IPv4** [here](https://icanhazip.com/) or [here](https://www.whatismyip.net/).
 5. Give your friend(s) the public IPv4, and tell them to use that to connect to your server.
 
-![That is the IP your friends will need from you.](https://shx.is/5BDwfV5b9.png)
+![That is the IP your friends will need from you.](https://sxcu.net/5BDwfV5b9.png)
 
 6\. If your port forwarding has been successful, they should now be able to connect to your server.
 

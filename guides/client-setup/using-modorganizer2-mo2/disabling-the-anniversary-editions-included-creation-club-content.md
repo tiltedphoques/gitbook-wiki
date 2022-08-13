@@ -53,7 +53,7 @@ Steam will attempt to download those files again. For example, if Skyrim receive
 9. Re-open MO2
 10. Now you can enable/disable the `CreationClubContent` as you would any other mod.
 
-![Option 1](https://shx.is/5BsA4biJa.gif)
+![Option 1](https://sxcu.net/5BsA4biJa.gif)
 
 ### Option 2: Deleting the files
 
@@ -72,7 +72,7 @@ Steam will attempt to download those files again. For example, if Skyrim receive
 4. And delete them.
 5. Re-open MO2, and the mods will not be listed anymore.
 
-![Option 2](https://shx.is/5BsA\_LBe2.gif)
+![Option 2](https://sxcu.net/5BsA\_LBe2.gif)
 
 ## I need the Creation Club files back, what do I do?
 

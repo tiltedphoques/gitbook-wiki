@@ -11,13 +11,13 @@ Now that our server is shut down and we've created the inbound firewall rules, w
 1. Open MO2
 2. Find the mod `Skyrim Together Reborn`
 3. Right-click it, and select `Open in Explorer`
-4. ![](https://shx.is/5BzT3n7WX.png)
+4. ![](https://sxcu.net/5BzT3n7WX.png)
 5. Inside there, select the folder named `Skyrim Together Reborn`
 6. Now find the folder named `config` and enter it.
 7. Inside there will be the config file named `STServer.ini`
 8. Open that with a text-editor of your choice. In my case I'll use good ol' `Notepad++`.
 
-![It's pretty easy finding the STServer.ini](https://shx.is/5BAazzE\_s.gif)
+![It's pretty easy finding the STServer.ini](https://sxcu.net/5BAazzE\_s.gif)
 
 ### **Using Vortex Mod Manager**
 
@@ -30,6 +30,6 @@ Now that our server is shut down and we've created the inbound firewall rules, w
 6. In there will be the `STServer.ini` file
 7. Open that with a text-editor of your choice. In my case I'll use good ol' `Notepad++`.
 
-![](https://shx.is/5BOUJ9o1H.gif)
+![](https://sxcu.net/5BOUJ9o1H.gif)
 
 #### Onwards to the next step!

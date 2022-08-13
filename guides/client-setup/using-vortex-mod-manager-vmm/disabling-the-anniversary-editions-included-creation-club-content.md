@@ -44,7 +44,7 @@ Steam will attempt to download those files again. For example, if Skyrim receive
 5. Re-open VMM
 6. Go to the `Plugins` menu, and the mods/plugins will not be listed anymore
 
-![](https://shx.is/5CjqL0HvJ.gif)
+![](https://sxcu.net/5CjqL0HvJ.gif)
 
 ## I need the Creation Club files back, what do I do?
 

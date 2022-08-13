@@ -10,7 +10,7 @@ Making sure the Anniversary Upgrade DLC is turned off is a critical step. You ma
 4. Go to `DLC` and **remove** the `✓` from the `The Elder Scrolls V: Skyrim Anniversary Upgrade` DLC.
 5. If you don't see a DLC tab, it means you didn't buy the `The Elder Scrolls V: Skyrim Anniversary Upgrade` DLC.
 
-![This is a necessary step because Skyrim Together Reborn does not function properly with the Anniversary Upgrade DLC enabled.](https://shx.is/5Bif7gkqI.gif)
+![This is a necessary step because Skyrim Together Reborn does not function properly with the Anniversary Upgrade DLC enabled.](https://sxcu.net/5Bif7gkqI.gif)
 
 ## Launching the game from Steam
 
@@ -28,10 +28,10 @@ Next, we must launch the game normally from Steam in order for it to generate so
 6. To correct this, go to `Options` and select `Windowed` and `Borderless` to change your resolution.
 7. From there just set it up as how you'd like.
 
-![Press PLAY after pressing OK](https://shx.is/5BiepgvZN.gif)
+![Press PLAY after pressing OK](https://sxcu.net/5BiepgvZN.gif)
 
 8\. Now press `Play` and **EXIT THE GAME** after it has opened into the main menu.
 
-![Just exit the game after it has launched](https://shx.is/5BigQmBoP.gif)
+![Just exit the game after it has launched](https://sxcu.net/5BigQmBoP.gif)
 
 #### Onwards to the next step!

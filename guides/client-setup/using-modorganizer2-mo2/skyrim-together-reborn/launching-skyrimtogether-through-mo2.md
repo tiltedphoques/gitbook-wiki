@@ -4,22 +4,22 @@
 
 1. Open MO2
 2. Make sure `Skyrim Together Reborn` has been selected in the launch option dropdown menu
-3. ![](https://shx.is/5BlD3wkRM.png)
+3. ![](https://sxcu.net/5BlD3wkRM.png)
 4. Press `Run`
 5. A popup window should appear, prompting you to choose an executable from the Skyrim root folder.
 6. **This is extremely important! Select SkyrimSE.exe and press the Open button.**
 
-![](https://shx.is/5BlEBHSqt.png)
+![](https://sxcu.net/5BlEBHSqt.png)
 
 7\. It may display an error like this, but you can safely disregard it by pressing `Close`. It's looking for the `Address Library for the SKSE` mod, but that won't be loaded until the game starts.
 
-![](https://shx.is/5BlGCrk0m.png)
+![](https://sxcu.net/5BlGCrk0m.png)
 
 8\. Return to MO2 and press `Run`.
 
 9\. Skyrim will now launch, but you can close it for the time being.
 
-![](https://shx.is/5BlILHGmw.gif)
+![](https://sxcu.net/5BlILHGmw.gif)
 
 ## Nothing pops up,when I open `SkyrimTogether.exe` / I chose the wrong .exe
 

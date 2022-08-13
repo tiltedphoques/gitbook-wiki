@@ -14,4 +14,4 @@
 10. If there **is** a `SkyrimTogetherReborn` folder leftover, delete it.
 11. The mod is now is now uninstalled.
 
-![](https://shx.is/5CYbASjzi.gif)
+![](https://sxcu.net/5CYbASjzi.gif)

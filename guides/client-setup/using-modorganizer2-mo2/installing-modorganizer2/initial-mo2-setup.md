@@ -13,7 +13,7 @@ When you first launch MO2, you will see a window titled `Creating an instance`. 
 7. Press `Connect to Nexus` and it'll open a browser window.
 8. This window will appear if you are logged in. If the window does not appear, log in and it will appear. To proceed, press `Authorize`.
 
-![](https://shx.is/5BiwaBxJl.png)
+![](https://sxcu.net/5BiwaBxJl.png)
 
 9\. This is how the confirmation should look:
 
@@ -25,20 +25,20 @@ When you first launch MO2, you will see a window titled `Creating an instance`. 
 >
 > Game location: C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition
 
-![](https://shx.is/5Bixkh\_4O.gif)
+![](https://sxcu.net/5Bixkh\_4O.gif)
 
 10\. Press `Finish` to continue.
 
 11\. A window titled `Show tutorial?` will appear. Just press `No`. We're skipping that for today.
 
-![You can find the tutorial later, under Help -> Help -> Tutorials -> First Steps](https://shx.is/5BitYCtUM.png)
+![You can find the tutorial later, under Help -> Help -> Tutorials -> First Steps](https://sxcu.net/5BitYCtUM.png)
 
 12\. You'll then be met with another window, titled `Register?`. It's asking you if you want MO2 to handle `nxm` links. And that we do want! So press `Yes`
 
-![Yes, please](https://shx.is/5BiugNd33.png)
+![Yes, please](https://sxcu.net/5BiugNd33.png)
 
 13\. Now it should look like this, and we're ready for the next step.
 
-![](https://shx.is/5BiDoUbtD.png)
+![](https://sxcu.net/5BiDoUbtD.png)
 
 #### Onwards to the next step!

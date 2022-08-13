@@ -28,7 +28,7 @@ On Windows machines, it can be found by:
 4. Find the part where it says `IPv4 Address`.
 5. In my case, my **local** IPv4 address is `192.168.50.209`
 
-![](https://shx.is/5BxOG8FiU.gif)
+![](https://sxcu.net/5BxOG8FiU.gif)
 
 ### **Public IPv4**
 

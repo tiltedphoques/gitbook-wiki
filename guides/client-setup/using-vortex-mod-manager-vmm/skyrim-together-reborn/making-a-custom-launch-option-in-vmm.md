@@ -11,6 +11,6 @@
 6. Press `Save`
 7. Now the custom launcher is ready!
 
-![So far so good!](https://shx.is/5BKPJbEsT.gif)
+![So far so good!](https://sxcu.net/5BKPJbEsT.gif)
 
 #### Onwards to the next step!

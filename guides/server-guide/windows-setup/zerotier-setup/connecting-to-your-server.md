@@ -9,23 +9,23 @@ This page is intended to show the host's friend how to connect to his or her ser
 It's actually quite easy. We only need to download the ZeroTier client.
 
 1. Go to the download page, and select `Windows`.\
-   ![](https://shx.is/5BD\_\_7440.png)
+   ![](https://sxcu.net/5BD\_\_7440.png)
 2. Open the `ZeroTier One.msi` file\
-   ![](https://shx.is/5BE0fD3yL.png)
+   ![](https://sxcu.net/5BE0fD3yL.png)
 3. There will be no installation prompts or instructions.
-4. When it's finished, you should see this icon ![](https://shx.is/5BE0DjXJn.png) in your system tray.&#x20;
+4. When it's finished, you should see this icon ![](https://sxcu.net/5BE0DjXJn.png) in your system tray.&#x20;
 
 ## Joining your hosts network
 
 We need to join the network of the server host.
 
-1. Find the little ![](https://shx.is/5BE0DjXJn.png) icon in your system tray
+1. Find the little ![](https://sxcu.net/5BE0DjXJn.png) icon in your system tray
 2. Right click and select `Join New Network...`\
-   ![](https://shx.is/5BE1Hq0Km.png)
+   ![](https://sxcu.net/5BE1Hq0Km.png)
 3. Get the `Network ID` from your **host**!\
-   ![](https://shx.is/5BE2gmw8E.png)
+   ![](https://sxcu.net/5BE2gmw8E.png)
 4. You can now confirm that you have joined the network by right-clicking the ZeroTier tray icon:\
-   ![](https://shx.is/5BE2CJxtZ.png)
+   ![](https://sxcu.net/5BE2CJxtZ.png)
 5. Remind your server host that you need to be authorized. They will understand what it means!
 
 ## Using the Skyrim Together Reborn UI (STRUI)
@@ -35,7 +35,7 @@ We need to join the network of the server host.
 3. Open up the `STRUI` by pressing either `F2` or `Right-CTRL`.
 4. Press the `Connect` button to start connecting to a server
 
-![](https://shx.is/5BlQ6rSiM.png)
+![](https://sxcu.net/5BlQ6rSiM.png)
 
 ## Connecting to a server
 
@@ -50,7 +50,7 @@ We need to join the network of the server host.
 
 8\. Now you should be connected and ready to play Skyrim Together Reborn with your friends :thumbsup:
 
-![Visit the Server setup section of this wiki to learn how to host a server!](https://shx.is/5CXy5CfmM.gif)
+![Visit the Server setup section of this wiki to learn how to host a server!](https://sxcu.net/5CXy5CfmM.gif)
 
 {% hint style="warning" %}
 Read the [playguide](../../../../general-information/playguide.md) to learn how to properly complete quests with your friends!

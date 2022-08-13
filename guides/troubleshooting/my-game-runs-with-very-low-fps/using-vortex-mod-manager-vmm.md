@@ -16,7 +16,7 @@ We must configure NVIDIA Control Panel to use your dedicated GPU rather than you
 9. Press the `Apply` button.
 10. Your system should now use the proper GPU, when playing Skyrim Together Reborn.
 
-![](https://shx.is/5CXcBI8Al.gif)
+![](https://sxcu.net/5CXcBI8Al.gif)
 
 ## Using Windows 11
 
@@ -33,4 +33,4 @@ Even though Windows 11 claims to be able to control your graphics processor nati
 * Choose the `High performance` option and press `Save`
 * Your system should now use the proper GPU, when playing Skyrim Together Reborn.
 
-![](https://shx.is/5CXivFvB8.gif)
+![](https://sxcu.net/5CXivFvB8.gif)

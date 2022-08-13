@@ -31,7 +31,7 @@ When you first launch MO2, you will see a window titled `Creating an instance`. 
 
 11\. A window titled `Show tutorial?` will appear. Just press `No`. We're skipping that for today.
 
-![You can find the tutorial later, under Help -> Help -> Tutorials -> First Steps](https://i.imgur.com/VmCElLS.gif)
+![You can find the tutorial later, under Help -> Help -> Tutorials -> First Steps](https://i.imgur.com/tLn6dXx.png)
 
 12\. You'll then be met with another window, titled `Register?`. It's asking you if you want MO2 to handle `nxm` links. And that we do want! So press `Yes`
 

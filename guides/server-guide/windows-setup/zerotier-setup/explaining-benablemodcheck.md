@@ -34,7 +34,7 @@ Alright! To do so, we must obtain your `loadorder.txt` from MO2 or VMM and place
 3. **Make sure** they're in the load order that you want to enforce.
 4. In my case, I only have 3 mods, so it'll look like this:
 
-![](https://shx.is/5BAiKMkPL.png)
+![](https://i.imgur.com/cy6noLy.png)
 
 5\. Go to the folder, where the `loadorder.txt` is located:\
 `C:\Modding\MO2\profiles\Skyrim Together Reborn`
@@ -60,7 +60,7 @@ Alright! To do so, we must obtain your `loadorder.txt` from MO2 or VMM and place
 
 15\. It should now say `ModPolicy is active` and your mod policy will now be enforced.
 
-![Here's the whole process of how to do it](https://shx.is/5BAmnL9Ni.gif)
+![Here's the whole process of how to do it](https://i.imgur.com/cDShSOJ.gif)
 
 ### Using Vortex Mod Manager
 
@@ -68,7 +68,7 @@ Alright! To do so, we must obtain your `loadorder.txt` from MO2 or VMM and place
 2. Go to the `Mods` menu
 3. Select the folder icon that says `Open...`
 4. Select `Open Game Application Data Folder`\
-   ![](https://shx.is/5BO\_roz5c.png)
+   ![](https://i.imgur.com/9L2RfhR.png)
 5. Find the file named `loadorder.txt`
 6. Right click it, and select `Copy`
 7. Go back to the Skyrim Together Reborn folder:\
@@ -81,6 +81,6 @@ Alright! To do so, we must obtain your `loadorder.txt` from MO2 or VMM and place
 13. Run `SkyrimTogetherServer.exe` again
 14. It should now say `ModPolicy is active` and your mod policy will now be enforced.
 
-![](https://shx.is/5BP1nld8D.gif)
+![](https://i.imgur.com/Ti0ufJ6.gif)
 
 #### Onwards to the next step!

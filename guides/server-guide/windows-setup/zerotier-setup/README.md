@@ -23,19 +23,19 @@ It's critical that you've followed the guide so far, so that we're on the same p
 1. Open MO2
 2. Right click the mod `Skyrim Together Reborn`
 3. Select `Open in Explorer`
-4. <img src="https://shx.is/5BzT3n7WX.png" alt="" data-size="original">
+4. <img src="https://i.imgur.com/p3SxhRQ.png" alt="" data-size="original">
 5. Inside will be a file called `meta.ini` and a folder named `Skyrim Together Reborn`
 6. Enter the folder named `Skyrim Together Reborn`
 7. Open the `SkyrimTogetherServer.exe`
 8. A firewall popup will show mark, mark it both allowed for both private and public networks.
-9. <img src="https://shx.is/5BzTNr2rT.png" alt="" data-size="original">
+9. <img src="https://i.imgur.com/JQYlZSF.png" alt="" data-size="original">
 10. If the popup did not appear, visit [this page](../../../troubleshooting/during-server-setup-my-firewall-didnt-ask-for-network-permission.md) in the troubleshooting section.
 11. Now you can see the server is actually running:\
-    ![](https://shx.is/5BzUvqRTO.png)\\
+    ![](https://i.imgur.com/Fma2Sbe.png)\
 12. For now, **only you** can connect to it, and it's not configured. We'll also figure that out in a minute.
 13. Close the `SkyrimTogetherServer.exe` for now.
 
-![](https://shx.is/5BzWiRKr7.gif)
+![](https://i.imgur.com/JCAPct7.gif)
 
 14\. If you want to test if it works, **only you** can now connect to your server now.
 
@@ -52,16 +52,16 @@ It's critical that you've followed the guide so far, so that we're on the same p
    `C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\Data\SkyrimTogetherReborn`
 5. In that folder, open the `SkyrimTogetherServer.exe`
 6. A firewall popup will show mark, mark it both allowed for both private and public networks.
-7. ![](https://shx.is/5CXHHOz4V.png)
+7. ![](https://i.imgur.com/5haVkRt.png)
 8. If the popup doesn't show up, don't worry, we'll figure it out in a minute.
 9. Now you can see the server is actually running:\
-   ![](https://shx.is/5BzUvqRTO.png)
+   ![](https://i.imgur.com/837hau4.png)
 10. For now, **only you** can connect to it, and it's not configured. We'll also figure that out in a minute.
 11. Close the `SkyrimTogetherServer.exe` for now.
 12. Only you can now connect to your server if you want to see if it works.
 13. Launch `Skyrim Together Reborn` using Vortex, and connect using `127.0.0.1` as your IP address, and using no password.
 
-![](https://shx.is/5CXHdbGfQ.gif)
+![](https://i.imgur.com/wpQwuDP.gif)
 
 {% hint style="warning" %}
 If the firewall notice **did** show up, you can safely continue the guide

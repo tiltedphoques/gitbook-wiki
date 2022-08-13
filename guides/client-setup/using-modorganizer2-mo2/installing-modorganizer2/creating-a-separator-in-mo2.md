@@ -12,10 +12,10 @@ However, if you want to add more separators to sort other mods, you can do so.
 
 1. Open MO2
 2. Make sure to select the profile "Skyrim Together Reborn" that we created earlier.
-3. ![](https://shx.is/5BiQKJGiF.png)
+3. ![](https://i.imgur.com/v0ICwIk.png)
 4. Right-click in some empty area below the mods, and select `Create separator`
 5. Name it `Utilities` and press Enter.
 
-![Now we have a nice separator!](https://shx.is/5BiRamd9b.gif)
+![Now we have a nice separator!](https://i.imgur.com/SHNwboB.gif)
 
 #### Onwards to the next step!

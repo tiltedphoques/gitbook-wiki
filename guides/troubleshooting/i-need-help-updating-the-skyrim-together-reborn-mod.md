@@ -16,7 +16,7 @@
 8. As per usual, select `OK` and then `Ignore`.
 9. Now you have the latest version installed.
 
-![](https://shx.is/5BVu7wj7i.gif)
+![](https://i.imgur.com/3xk4i5a.gif)
 
 ### I use Vortex Mod Manger (VMM)
 
@@ -32,4 +32,4 @@
 9. Vortex will automatically install the newest version for you.
 10. Now you have the latest version installed.
 
-![Remember to delete the leftover SkyrimTogetherReborn folder, if you have one!](https://shx.is/5BVvAE88a.gif)
+![Remember to delete the leftover SkyrimTogetherReborn folder, if you have one!](https://i.imgur.com/cFJoxAT.gif)

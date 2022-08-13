@@ -11,9 +11,9 @@
 3. Find the line where it says `Processors` and write down the name.
 4. Then visit the [this page](https://ark.intel.com) from Intel.
 5. Use the search function:\
-   ![](https://shx.is/5BFtNOIfU.png)
+   ![](https://i.imgur.com/O6kYkjc.png)
 6. Type in your CPU, e.g. `i7-9700K` and select it:\
-   ![](https://shx.is/5BFwpTD8m.png)
+   ![](https://i.imgur.com/7lCuc6P.png)
 7. Search for `AES New Instructions` on the page that opens
 8. If it says `Yes`, it's supported on your CPU. If it says `No`, it's not supported on your CPU.
 
@@ -25,7 +25,7 @@ We need to download a tool named `CPU-Z`.
 2. Select the version you prefer (setup or portable version)
 3. Download and install it
 4. Open CPU-Z and look for `AES` under `Instructions`:\
-   ![](https://shx.is/5BFxts8CR.png)
+   ![](https://i.imgur.com/s2SjWnq.png)
 5. If you can find `AES`, it should be enabled.
 
 ## How do I enable it in my BIOS?

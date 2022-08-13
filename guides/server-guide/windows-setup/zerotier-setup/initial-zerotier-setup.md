@@ -6,22 +6,22 @@ This step is ONLY required for the server's HOST. Clients, or friends who want t
 
 1. To begin, go to ZeroTier and [create an account](https://accounts.zerotier.com/auth/realms/zerotier/protocol/openid-connect/registrations?client\_id=zt-central\&redirect\_uri=https%3A%2F%2Fmy.zerotier.com%2Fapi%2F\_auth%2Foidc%2Fcallback\&response\_type=code\&scope=openid+profile+email+offline\_access\&state=state).
 2. Except for a valid email address, you do not need to enter any personal information.
-3. ![](https://shx.is/5BDXIMatb.png)
+3. ![](https://i.imgur.com/LiPYrks.png)
 4. To verify your account, click the link in the email that ZeroTier sent you.
-5. ![](https://shx.is/5BDY4FKl1.png)
+5. ![](https://i.imgur.com/1grxRKK.png)
 
 ## Creating a ZeroTier network
 
 1. Go to the [MyZeroTier page](https://my.zerotier.com/).
 2. Select `Create a network`
 3. It will then create a new ZeroTier network for you:\
-   ![](https://shx.is/5BD\_1pAr6.png)
+   ![](https://i.imgur.com/ZuPK6sp.png)
 4. Click on the network it created to select it.
 5. There will be numerous configuration options available. We don't need to think about them right now.
 6. For the time being, simply copy or write down the `Network ID`. When your friends want to join you, they will need it!
-7. ![](https://shx.is/5BDZPmEUF.png)
+7. ![](https://i.imgur.com/s5Li6gg.png)
 8. The `Access Control` is set to `PRIVATE` by default, and it is recommended that you leave it that way.
 
-![](https://shx.is/5BDZGR0EF.gif)
+![](https://i.imgur.com/jOSuKIh.gif)
 
 #### Onwards to the next step!

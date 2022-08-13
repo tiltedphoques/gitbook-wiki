@@ -39,6 +39,6 @@ _I'm using an ASUS AX86U router._
 13. **Source IP:** leave empty
 14. Press the `OK` button
 
-![How to port forward on my AX68U router](https://shx.is/5BDuK3yHR.gif)
+![How to port forward on my AX68U router](https://i.imgur.com/ZsDMhaw.gif)
 
 #### Onwards to the next step!

@@ -15,7 +15,7 @@ In this step, we'll need to obtain our router's IP address as well as your PC's 
 7. You'll most likely be greeted with a login page. If you don't know your login information, this guide can't help you. Typically, the information is physically located on your router, usually on a small white sticker.
 8. Login to your router.
 
-![This is how you find your router's IP address](https://shx.is/5BDp4ORT2.gif)
+![This is how you find your router's IP address](https://i.imgur.com/IXQmKX6.gif)
 
 ## **Before we continue**
 
@@ -27,6 +27,6 @@ In this step, we'll need to obtain our router's IP address as well as your PC's 
 6. It will show you your **local** IPv4 address. In my case, it's `192.168.50.104`.
 7. Make a note of it, copy it, or remember it. It will come in handy later.
 
-![This is how you find your local IPv4 address](https://shx.is/5BDpxiGQd.gif)
+![This is how you find your local IPv4 address](https://i.imgur.com/xbfZ3b4.gif)
 
 #### Onwards to the next step!

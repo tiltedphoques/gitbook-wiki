@@ -7,7 +7,7 @@
 3. Open up the `STRUI` by pressing either `F2` or `Right-CTRL`.
 4. Press the `Connect` button to start connecting to a server
 
-![](https://shx.is/5BlQ6rSiM.png)
+![](https://i.imgur.com/9PUUsWj.png)
 
 ## Connecting to a server
 
@@ -22,7 +22,7 @@
 
 8\. Now you should be connected and ready to play Skyrim Together Reborn with your friends :thumbsup:
 
-![Visit the Server setup section of this wiki to learn how to host a server!](https://shx.is/5CXy5CfmM.gif)
+![Visit the Server setup section of this wiki to learn how to host a server!](https://i.imgur.com/xlRI5wv.gif)
 
 {% hint style="warning" %}
 Read the [playguide](../../../../general-information/playguide.md) to learn how to properly complete quests with your friends!

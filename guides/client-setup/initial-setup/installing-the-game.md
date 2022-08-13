@@ -10,6 +10,6 @@ Now we'll install SkyrimSE from scratch.
 4. Follow the instructions on screen (literally just press `Next`)
 5. Press `Finish` and wait for your download to complete
 
-![](https://shx.is/5BicuES0K.gif)
+![](https://i.imgur.com/IuB3upI.gif)
 
 #### Onwards to the next step!

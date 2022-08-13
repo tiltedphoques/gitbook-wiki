@@ -4,17 +4,17 @@
 
 1. Open Vortex/VMM
 2. Locate the custom launcher we created in the previous step and click the play button.
-3. ![](https://shx.is/5BKQYt5oq.png)
+3. ![](https://i.imgur.com/VHLtUTz.png)
 4. A popup window should appear, prompting you to choose an executable from the Skyrim root folder.
 5. **This is extremely important! Select SkyrimSE.exe and press the Open button.**
 
-![It's very important to select SkyrimSE.exe!](https://shx.is/5BlEBHSqt.png)
+![It's very important to select SkyrimSE.exe!](https://i.imgur.com/0k9BvSl.png)
 
 6\. Skyrim Together Reborn will now launch.
 
 7\. Close it after you reached the main menu.
 
-![](https://shx.is/5BKRNVIxA.gif)
+![](https://i.imgur.com/DfFWszw.gif)
 
 ## Nothing pops up,when I open `SkyrimTogether.exe` / I chose the wrong .exe
 

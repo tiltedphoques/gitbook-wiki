@@ -12,7 +12,7 @@ Begin by uninstalling your game from the Steam application:
 4. Find your Skyrim installation folder. That can vary, but usally it's located at `C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition`
 5. Delete the entire `Skyrim Special Edition` folder.
 
-![](https://shx.is/5Bi9WQc8d.png)
+![](https://i.imgur.com/vsx5wBV.png)
 
 ## Removing old game profile(s) and savegames
 
@@ -24,7 +24,7 @@ Let's empty the folder containing all of your config files and savegames. Back t
 4. The folder can usually be found at `C:\Users\YOUR-USERNAME\Documents\My Games\Skyrim Special Edition`
 5. Obviously replace the `YOUR-USERNAME` part with your own Windows username.
 
-![Remember to backup this folder, if you want to make sure you've saved your old settings and savegames](https://shx.is/5Bi9L78r2.png)
+![Remember to backup this folder, if you want to make sure you've saved your old settings and savegames](https://i.imgur.com/rfMv6Vv.png)
 
 ### **Notes:**
 

@@ -36,14 +36,19 @@ I like to put my stuff in `/opt/` so that's what we will do for now
 3. Docker will now download the latest server image, and run it afterwards.
 4. If you want to see the logs in your terminal, you can use this command:\
    `docker logs -tf "skyrimserver"`
-5. Now your server is up and running.
+5. If you would like to attach to your server console to enter commands (such as `/help`), you can use this command:\
+   `docker attach skyrimserver`
+   * Note: to detach from the console, the default hotkey is `CTRL+P,Q`. This means you hold Left-Control, then you press and release P, and then press and release Q.
+6. Now your server is up and running.
 
 ### Start/Stopping your docker server
 
-1. To stop your `skyrimserver`, simply run this command in your console
-2. `docker stop skyrimserver` and it will stop your Skyrim Together Reborn server.
-3. To start it again, simply run this command in your console
-4. `docker start skyrimserver` and it will start your Skyrim Together Reborn server again
+1. To stop your `skyrimserver`, simply run the following command in your console and it will stop your Skyrim Together Reborn server:
+   * `docker stop skyrimserver -t 1`
+2. To start it again, simply run the following command in your console and it will start your Skyrim Together Reborn server again:
+   * `docker start skyrimserver`
+3. To restart the server, run the following command in your console and it will stop \*and\* start the server:
+   * `docker restart skyrimserver -t 1`
 
 ## I want to use docker-compose, what is the template?
 
@@ -61,6 +66,8 @@ services:
      - /opt/docker/skyrimserver/logs:/home/server/logs
      - /opt/docker/skyrimserver/Data:/home/server/Data
     restart: unless-stopped
+    stdin_open: true
+    tty: true
 ```
 
 #### Onwards to the next step!

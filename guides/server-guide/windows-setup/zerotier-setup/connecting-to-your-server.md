@@ -2,7 +2,7 @@
 
 ## How to connect to the server
 
-This page is intended to show the host's friend how to connect to his or her server.
+This page is intended to show the host's friend(s) how to connect to his or her server.
 
 ## **Installing ZeroTier**
 
@@ -15,9 +15,9 @@ It's actually quite easy. We only need to download the ZeroTier client.
 3. There will be no installation prompts or instructions.
 4. When it's finished, you should see this icon ![](https://i.imgur.com/y7wP8VV.png) in your system tray.
 
-## Joining your hosts network
+## Joining your host's network
 
-We need to join the network of the server host.
+We now need to join the ZeroTier network of the server host.
 
 1. Find the little ![](https://i.imgur.com/y7wP8VV.png) icon in your system tray
 2. Right click and select `Join New Network...`\
@@ -30,25 +30,27 @@ We need to join the network of the server host.
 
 ## Using the Skyrim Together Reborn UI (STRUI)
 
-1. Now to connect to your friends Skyrim Together Reborn server.
-2. To access the Skyrim Together Reborn UI, press `F2` or `Right-CTRL`. From now on, the guide will refer to it as the `STRUI`.
-3. Open up the `STRUI` by pressing either `F2` or `Right-CTRL`.
-4. Press the `Connect` button to start connecting to a server
+Now to connect to your friends Skyrim Together Reborn server.
+
+1. To access the Skyrim Together Reborn UI, press `F2` or `Right-CTRL`. From now on, the guide will refer to it as the `STRUI`.
+2. Open up the `STRUI` by pressing either `F2` or `Right-CTRL`.
+	- If `STRUI` does not open, please see [this page](../../../troubleshooting/the-strui-doesnt-appear-when-i-press-right-ctrl-or-f2.md) for help.
+3. Press the `Connect` button to start connecting to a server
 
 ![](https://i.imgur.com/EYwwO6P.png)
 
 ## Connecting to a server
 
-1. When you press connect, you will need to enter your server's connection information.
+**Please make sure you have finished the Helgen intro sequence / tutorial before following these steps.**
+
+1. Before you press `Connect`, you will need to enter your server's connection information.
 2. There will be an `Address` field and a `Password` field.
-3. In the `Address` field, you should put your server's public IPv4 address in there
-4. If you're just hosting it locally, that ip address will be `127.0.0.1`
-5. If you're hosting a server for other players, you can find your public IPv4 address by using a website like [this](https://icanhazip.com/) or [this](https://ipinfo.io/) or [this](https://www.whatismyip.com/).
-6. Press `Connect` to connect to your server, and there should be a visual and an audial confirmation that you're connected.
-
-7\. It should say `Succesfully connected to a server` in the little chat window
-
-8\. Now you should be connected and ready to play Skyrim Together Reborn with your friends :thumbsup:
+3. In the `Address` field, you should put your server's managed IPv4 address.
+   - If you're the one hosting it on your PC, you will enter the IP address `127.0.0.1`.
+   - If you're a friend of the host, trying to connect to their ZeroTier hosted server, you will need to enter [the managed IP address](./authorizing-users-in-zerotier-network.md#what-ip-address-should-i-send-to-my-friend).
+4. Press `Connect` to connect to the server; there should be a visual and an audial confirmation that you're connected.
+5. It should say `Succesfully connected to a server` in the little chat window.
+6. Now you should be connected and ready to play Skyrim Together Reborn with your friends. :thumbsup:
 
 ![Visit the Server setup section of this wiki to learn how to host a server!](https://i.imgur.com/X6INNOZ.gif)
 

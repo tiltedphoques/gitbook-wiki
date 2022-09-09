@@ -171,6 +171,8 @@ This is the mod policy feature, as descripted in the "**Features**" page. To use
 
 Can be set to `true` or `false`.
 
+{% embed url="https://wiki.tiltedphoques.com/tilted-online/guides/server-guide/windows-setup/regular-setup/explaining-benablemodcheck#what-does-benablemodcheck-do" %}
+
 ### sPassword
 
 #### Description

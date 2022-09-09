@@ -20,8 +20,15 @@ Both player and NPC inventories and equipment are fully synced. Chest contents a
 
 
 Dropping items on the ground is synced, someone else picking it up isn't synced.\
-Only pre-placed items in the world by Bethesda/Mod creator (eg. an item in a dungeon), are synced when picking those up.\
+Only pre-placed items in the world by Bethesda/Mod creator (eg. an item in a dungeon), are synced when picking those up.
 
+### Weather
+
+Weather is synced on a party-per-party basis. The party leader's client determines what weather is currently active.
+
+### Combat
+
+To make sure that all players are all targeted evenly by enemies, and not just the "host" (for lack of a better term), we have built our own combat targeting system on top of Skyrim's system. If player 1 hits an enemy, that enemy will lock on player 1 for at least 5 seconds, even if other players hit the enemy. If player 2 hits the enemy after those 5 seconds, the enemy will lock onto player 2.
 
 ### Death
 
@@ -96,10 +103,6 @@ The server has an optional setting that enforces a mod policy. This means that e
 ### Player map markers/waypoints
 
 This feature is pretty much finished, but there was no time to test it before 1.0. This feature will come in an update in the near future.
-
-### Weather
-
-Weather is planned to be synced later.
 
 ### Scripting API
 

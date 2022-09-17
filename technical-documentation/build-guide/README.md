@@ -54,9 +54,6 @@ Until you've built and installed the Together UI, you will not have it in game (
 
 Next, execute `pnpm deploy:develop` to build the development version. Alternatively, execute `pnpm deploy:production` to build the production version. Copy the folder `Code/skyrim_ui/dist/UI` over to `build/windows/x64/releasedbg` . Although not necessary, we recommend creating a symbolic link to the folder during development instead of duplicating to avoid having to copy over the folder after each build.
 
-### Building the Server Container
-
-See instructions [here](build-docker-image.md).
 
 ## Verifying
 

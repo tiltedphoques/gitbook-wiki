@@ -129,6 +129,7 @@ This builder image is based off of Ubuntu 22.04 and installs the necessary requi
     `docker buildx inspect --bootstrap`
 3. For some reason, buildx can occasionally have a bug where it won't build emulated architectures, but we can get around that with the command:\
     `docker run --rm --privileged multiarch/qemu-user-static --reset -p yes`
+    * Remember this command: if you have a build error in the future, try running this command and then attempt the build again. I have had it fix issues on more than one occasion.
 4. Now we will create the multi-architecture builder for both linux/amd64 and linux/arm64 architectures. This will create the builder image for use on PCs with AMD/Intel CPU and also for RaspberryPi/equivalent running x64 Linux:\
     `docker buildx build --platform linux/amd64,linux/arm64 -f Dockerfile.builder -t username/multiarch-builder:latest --push .`
 
@@ -141,7 +142,7 @@ Everything above this header need only be done once. This step is where we actua
     `FROM username/multiarch-builder:latest as builder`
 2. Now we'll use our multiarch-builder to create the server docker container:\
     `docker buildx build --platform linux/amd64,linux/arm64 -f Dockerfile -t username/st-reborn-server:latest --push .`
-    * If you want to build a specific repository/branch, you can pass `REPO` or `BRANCH` as a `--build-arg`, like so:
+    * If you want to build a specific repository/branch, you can pass `REPO` or `BRANCH` as a `--build-arg`, like so:\
         `docker buildx build --build-arg BRANCH=master --build-arg REPO=http://github.com/tiltedphoques/TiltedEvolution.git --platform linux/amd64,linux/arm64 -f Dockerfile -t username/st-reborn-server:latest --push .`
 
 This will create a manifest with two containers, one for linux/amd64 (Intel/AMD PCs) and one for linux/arm64 (RaspberryPi/equivalent), and push them to your docker hub. If you want to build only the server for your architecture, you can omit the other one. Alternatively, you could simply `docker build .` to build the server without buildx, but it will only build for your current architecture. As of writing, `docker build .` will only work with linux/amd64 and linux/aarch64 architectures.

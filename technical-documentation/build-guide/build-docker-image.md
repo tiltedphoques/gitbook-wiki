@@ -1,8 +1,8 @@
 # Build Docker server image
 
-**This is an advanced guide. If you have not worked with `docker` before, it is best that you [follow the Docker setup guide](docker-setup.md) to pull the official docker image from the tiltedphoques repository on Docker Hub.**
+**This is an advanced guide. If you have not worked with `docker` before, it is best that you [follow the Docker setup guide](../../guides/server-guide/linux-setup/docker-setup.md) to pull the official docker image from the tiltedphoques repository on Docker Hub.**
 
-This guide is primarily for those who want to build a dev branch of the server for use with Docker/Linux or for using `docker buildx` to build the server for different architectures/platforms. If you have not yet setup Docker, follow the [Installing Docker](docker-setup.md#installing-docker) instructions.
+This guide is primarily for those who want to build a dev branch of the server for use with Docker/Linux or for using `docker buildx` to build the server for different architectures/platforms. If you have not yet setup Docker, follow the [Installing Docker](../../guides/server-guide/linux-setup/docker-setup.md#installing-docker) instructions.
 
 In order to follow these instructions, you will need to have an account on [Docker Hub](https://hub.docker.com) and you will need to be logged into that account using `docker login`. Instructions for such can be found [here](https://docs.docker.com/engine/reference/commandline/login/).
 

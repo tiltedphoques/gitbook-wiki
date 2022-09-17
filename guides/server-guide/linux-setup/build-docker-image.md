@@ -1,4 +1,4 @@
-# Build Multi-Architecture Docker Server Image
+# Build Docker server image
 
 **This is an advanced guide. If you have not worked with `docker` before, it is best that you [follow the Docker setup guide](docker-setup.md) to pull the official docker image from the tiltedphoques repository on Docker Hub.**
 
@@ -8,7 +8,7 @@ In order to follow these instructions, you will need to have an account on [Dock
 
 Below, we will be referring to your docker hub repository as `username/image_name` when we push images. Please note that anywhere you see `username` it needs to be your Docker Hub username.
 
-## Setting up Docker Multiarch Builder with Buildx
+## Gathering Requirements for Building Server Container
 
 We only need `Dockerfile` and `Dockerfile.builder` in order to build the image. We have three options to retrieve these files, you only need to choose and follow the steps in one of them.
 
@@ -16,7 +16,7 @@ We only need `Dockerfile` and `Dockerfile.builder` in order to build the image. 
 
 This is the writer's preference, since it will always pull the latest Dockerfile and Dockerfile.builder, and it's simple. It does download the full repo, however, which includes files unecessary for this process.
 
-1. Run the following command to clone the repository into `~/str`:\
+1. Run the following command to clone the repository into ~/str:\
     `git clone https://github.com/tiltedphoques/TiltedEvolution.git ~/str`
     * We will not be building this project directly so we do not require the submodules/dependencies.
     * If you encounter an error about login status, install gh `sudo apt install gh` and login `gh auth login` to your github account.
@@ -44,7 +44,7 @@ This option does not download any unecessary files, though it is a few more comm
     `touch Dockerfile Dockerfile.builder`
 3. Open Dockerfile for editing:\
     `nano Dockerfile`
-4. Copy the following contents into Dockerfile and save:\
+4. Copy the following contents into Dockerfile and save:
 ```
 FROM username/multiarch-builder:latest as builder
 
@@ -91,9 +91,9 @@ ENTRYPOINT ["./SkyrimTogetherServer"]
 
 EXPOSE 10578/udp
 ```
-6. Open Dockerfile.builder for editing:\
+* Open Dockerfile.builder for editing:\
     `nano Dockerfile.builder`
-7. Copy the following contents into Dockerfile.builder and save:\
+* Copy the following contents into Dockerfile.builder and save:
 ```
 FROM ubuntu:22.04
 
@@ -119,7 +119,9 @@ RUN apt update && apt install \
 ```
 
 
-### Step 1 - Building the Multiarch Builder with Buildx
+## Building the Multiarch Builder with Buildx
+
+This builder image is based off of Ubuntu 22.04 and installs the necessary requirements to build the server docker image later. This step is only required once, since any time you build the server image afterwards your multiarch-builder image can be pulled from Docker Hub.
 
 1. First we are going to set up the multi-architecture builder with `docker buildx`:\
     `docker buildx create --name str-multiarch --use`
@@ -127,16 +129,15 @@ RUN apt update && apt install \
     `docker buildx inspect --bootstrap`
 3. For some reason, buildx can occasionally have a bug where it won't build emulated architectures, but we can get around that with the command:\
     `docker run --rm --privileged multiarch/qemu-user-static --reset -p yes`
-4. Now we will create the multi-architecture builder for both `linux/amd64` and `linux/arm64` architectures. This will create the builder image for use on PCs with AMD/Intel CPU and also for RaspberryPi/equivalent running x64 Linux:\
+4. Now we will create the multi-architecture builder for both linux/amd64 and linux/arm64 architectures. This will create the builder image for use on PCs with AMD/Intel CPU and also for RaspberryPi/equivalent running x64 Linux:\
     `docker buildx build --platform linux/amd64,linux/arm64 -f Dockerfile.builder -t username/multiarch-builder:latest --push .`
 
-This builder image is based off of Ubuntu 22.04 and installs the necessary requirements to build the server docker image later. This step is only required once, since any time you build the server image afterwards your multiarch-builder image can be pulled from Docker Hub.
 
+## Building the Multiarch Server Container with Buildx
 
+Everything above this header need only be done once. This step is where we actually build the server image, and should be done any time you wish to update your server image.
 
-### Step 2 - Building the Multiarch Server Container with Buildx
-
-1. Since you're following these instructions, I assume you want to pull the `multiarch-builder` we just built from your Docker Hub repository. If that is the case, edit the first line of `Dockerfile` to read:\
+1. Since you're following these instructions, I assume you want to pull the multiarch-builder we just built from your Docker Hub repository. If that is the case, edit the first line of Dockerfile to read:\
     `FROM username/multiarch-builder:latest as builder`
 2. Now we'll use our multiarch-builder to create the server docker container:\
     `docker buildx build --platform linux/amd64,linux/arm64 -f Dockerfile -t username/st-reborn-server:latest --push .`

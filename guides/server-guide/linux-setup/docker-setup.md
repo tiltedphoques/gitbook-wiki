@@ -53,18 +53,20 @@ I like to put my stuff in `/opt/` so that's what we will do for now
 ## I want to use docker-compose, what is the template?
 
 ```
-version: "3.9"
+version: "3"
 
 services:
   skyrimserver:
     container_name: skyrimserver
     image: tiltedphoques/st-reborn-server:latest
     ports:
-      - "10578:10578/udp"
+     - "10578:10578/udp"
     volumes:
      - /opt/docker/skyrimserver/config:/home/server/config
      - /opt/docker/skyrimserver/logs:/home/server/logs
      - /opt/docker/skyrimserver/Data:/home/server/Data
+     - /etc/localtime:/etc/localtime:ro
+     - /etc/timezone:/etc/timezone:ro
     restart: unless-stopped
     stdin_open: true
     tty: true

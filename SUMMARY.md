@@ -111,6 +111,6 @@
 ## Technical documentation
 
 * [Build guide](technical-documentation/build-guide/README.md)
-  * [Build Docker server image](server-guide/linux-setup/build-docker-image.md)
+  * [Build Docker server image](technical-documentation/build-guide/build-docker-image.md)
   * [Troubleshooting](technical-documentation/build-guide/troubleshooting.md)
 * [Overview](technical-documentation/overview.md)

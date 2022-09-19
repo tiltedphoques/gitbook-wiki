@@ -29,15 +29,12 @@ If you've followed this guide so far, you can take the same paths the guide does
 9. <img src="https://i.imgur.com/8AWbvA3.png" alt="" data-size="original">
 10. If the popup did not appear, visit [this page](../../../troubleshooting/during-server-setup-my-firewall-didnt-ask-for-network-permission.md) in the troubleshooting section.
 11. Now you can see the server is actually running:\
-    ![](https://i.imgur.com/katpGFn.png)\
-12. For now, **only you** can connect to it, and it's not configured. We'll also figure that out in a minute.
+    ![](https://i.imgur.com/katpGFn.png)
+12. As currently configured, **only you** can connect to your server for now, and we have yet to change any server options. We'll also figure that out in a minute.
+      * To test if it works, launch `Skyrim Together Reborn` using MO2, and connect using `127.0.0.1` as your IP address, and using no password.
 13. Close the `SkyrimTogetherServer.exe` for now.
 
 ![](https://i.imgur.com/vgRaDVA.gif)
-
-14\. If you want to test if it works, **only you** can now connect to your server now.
-
-15\. Launch `Skyrim Together Reborn` using MO2, and connect using `127.0.0.1` as your IP address, and using no password.
 
 
 
@@ -54,10 +51,9 @@ If you've followed this guide so far, you can take the same paths the guide does
 8. If the popup doesn't show up, don't worry, we'll figure it out in a minute.
 9. Now you can see the server is actually running:\
    ![](https://i.imgur.com/1ljV2pk.png)
-10. For now, **only you** can connect to it, and it's not configured. We'll also figure that out in a minute.
+10. As currently configured, **only you** can connect to your server for now, and we have yet to change any server options. We'll also figure that out in a minute.
+      * To test if it works, launch `Skyrim Together Reborn` using Vortex, and connect using `127.0.0.1` as your IP address, and using no password.
 11. Close the `SkyrimTogetherServer.exe` for now.
-12. Only you can now connect to your server if you want to see if it works.
-13. Launch `Skyrim Together Reborn` using Vortex, and connect using `127.0.0.1` as your IP address, and using no password.
 
 ![](https://i.imgur.com/U2xVDa7.gif)
 

@@ -54,6 +54,7 @@ Until you've built and installed the Together UI, you will not have it in game (
 
 Next, execute `pnpm deploy:develop` to build the development version. Alternatively, execute `pnpm deploy:production` to build the production version. Copy the folder `Code/skyrim_ui/dist/UI` over to `build/windows/x64/releasedbg` . Although not necessary, we recommend creating a symbolic link to the folder during development instead of duplicating to avoid having to copy over the folder after each build.
 
+
 ## Verifying
 
 If everything worked as intended, a Tilted Reverse Console will pop up. Once loaded into a save, run the corresponding server executable (or script, if you created one). Press F3 to display the Dear ImGui debug UI on top of your game. You should now be able to connect in-game by using the UI in the top left corner; pressing RCTRL or F2 should free your mouse so that you're able to interact with the UI. Note that you must have the [Address Library](https://www.nexusmods.com/skyrimspecialedition/mods/32444?tab=files) mod manually installed to launch an instance of the game.

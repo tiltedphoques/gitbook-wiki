@@ -20,3 +20,4 @@ If none of these options work for you, you are welcome to join the [official Dis
 * [Naked NPCs / players](naked-npcs-players.md)
 * [The STRUI doesn't appear when I press RIGHT-CTRL or F2](the-strui-doesnt-appear-when-i-press-right-ctrl-or-f2.md)
 * [The server list is not appearing](the-server-list-is-not-appearing.md)
+* [My game opens to a black screen for 2-10 seconds and then closes](black-screen-and-then-close.md)

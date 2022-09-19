@@ -16,3 +16,4 @@ you most likely didn't point xmake to vcpkg. This can be fixed by installing it 
 xmake g --vcpkg="location"
 ```
 
+For other errors, you can reset xmake config and refresh xrepo repositories by deleting the ./.xmake/ folder and running the command `xrepo remove --all -y`

@@ -1,4 +1,8 @@
-# My game crashes when I open it, or connect to a server
+# My game crashes when I open it or connect to a server
+
+{% hint style="warning" %}
+**This guide is only relevant for Skyrim Together Version **_**1.2.0 and below**_**!**
+{% endhint %}
 
 ## Q: My game crashes when I open it, or when I connect to a server
 

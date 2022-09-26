@@ -56,13 +56,13 @@ A: We have no idea which mods work well with Skyrim Together Reborn. There are n
 
 A: Skyrim Together Reborn 1.0 is a solid base for a lot of future expansion. The current development team has put in a lot of work. Unfortunately, they cannot keep working at this pace. That is why the mod has become open source. We hope that new developers will join in the future to help this mod reach new heights.
 
-There is still a lot of work to be done, such as creating a scripting API, adding features like weather sync, fixing bugs and crashes, smoothing out quests, and finishing Fallout Together.
+There is still a lot of work to be done, such as creating a scripting API, adding features like weather sync, fixing bugs and crashes, and smoothing out quests.
 
 The current development team will continue to maintain the codebase, guide new developers, and build new features (if they feel like it).
 
 ### Q: Is there some place where I can donate money to the project?
 
-A: We currently do not take donations. This may change in the future.
+A: Check out the [TogetherTeam Patreon](https://www.patreon.com/user?u=79997498) to help support the project and its development team. Due to personal lives and careers, it can be difficult for the developers to find the substantial amount of time needed to fix and maintain the mod. This Patreon helps to justify and relieve that burden. 
 
 ### Q: What operating systems are supported?
 

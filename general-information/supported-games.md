@@ -17,7 +17,7 @@ We **only** support Skyrim Special Edition **1.6.XXX** and above. You do not nee
 ### Supported versions
 
 {% hint style="success" %}
-* The Elder Scrolls V: Skyrim Special Edition (Steam  | V 1.6.XX)
+* The Elder Scrolls V: Skyrim Special Edition (Steam, GOG | LATEST VERSION)
 {% endhint %}
 
 ### Unsupported versions

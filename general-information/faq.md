@@ -56,7 +56,7 @@ A: We have no idea which mods work well with Skyrim Together Reborn. There are n
 
 A: Skyrim Together Reborn 1.0 is a solid base for a lot of future expansion. The current development team has put in a lot of work. Unfortunately, they cannot keep working at this pace. That is why the mod has become open source. We hope that new developers will join in the future to help this mod reach new heights.
 
-There is still a lot of work to be done, such as creating a scripting API, adding features like weather sync, fixing bugs and crashes, and smoothing out quests.
+There is still a lot of work to be done, such as creating a scripting API, adding features, fixing bugs and crashes, and smoothing out quests.
 
 The current development team will continue to maintain the codebase, guide new developers, and build new features (if they feel like it).
 
@@ -68,7 +68,7 @@ A: Check out the [TogetherTeam Patreon](https://www.patreon.com/user?u=79997498)
 
 A: For the mod itself you will need Windows 8.1 or higher. Linux support will be something that will have to be done by the community on our GitHub. The server runs on both Windows and Linux.
 
-AES-NI support is also required on your CPU. Check [this page](../guides/troubleshooting/my-game-crashes-when-i-open-it-or-connect-to-a-server.md) to see if your CPU is compatible.
+AES-NI was required on your CPU until Version 2.3.0. Check [this page](../guides/troubleshooting/my-game-crashes-when-i-open-it-or-connect-to-a-server.md) to see if your CPU is compatible.
 
 ### Q: What is Tilted Online?
 

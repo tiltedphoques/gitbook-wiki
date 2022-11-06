@@ -54,4 +54,4 @@ It is recommended that you save often, and that you leave auto saving enabled, e
 
 ### Debugger menu
 
-Press "**F3**" to open the debugger menu. This special UI has menus which can help you get unstuck, either as your character, or quests, etc. The debug UI can be closed by pressing F3 again.
+Press "**F3**" to open the debugger menu, Press "F2" to show the cursor. This special UI has menus which can help you get unstuck, either as your character, or quests, etc. The debug UI can be closed by pressing F3 again.

@@ -62,13 +62,11 @@ The current development team will continue to maintain the codebase, guide new d
 
 ### Q: Is there some place where I can donate money to the project?
 
-A: Check out the [TogetherTeam Patreon](https://www.patreon.com/user?u=79997498) to help support the project and its development team. Due to personal lives and careers, it can be difficult for the developers to find the substantial amount of time needed to fix and maintain the mod. This Patreon helps to justify and relieve that burden. 
+A: Check out the [TogetherTeam Patreon](https://www.patreon.com/user?u=79997498) to help support the project and its development team. Due to personal lives and careers, it can be difficult for the developers to find the substantial amount of time needed to fix and maintain the mod. This Patreon helps to justify and relieve that burden.
 
 ### Q: What operating systems are supported?
 
 A: For the mod itself you will need Windows 8.1 or higher. Linux support will be something that will have to be done by the community on our GitHub. The server runs on both Windows and Linux.
-
-AES-NI support is also required on your CPU. Check [this page](../guides/troubleshooting/my-game-crashes-when-i-open-it-or-connect-to-a-server.md) to see if your CPU is compatible.
 
 ### Q: What is Tilted Online?
 

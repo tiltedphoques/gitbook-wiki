@@ -2,7 +2,7 @@
 
 ## Q: The STRUI doesn't appear when I press either `Right CTRL` or `F2`
 
-**A:** First, ensure that you have followed this guide from beginning to end. If that's the case, it shouldn't happen in the first place. Check that your Skyrim Together Reborn mod folder, which contains the `SkyrimTogehter.exe`, is placed at:
+**A:** First, ensure that you have followed this guide from beginning to end. If that's the case, it shouldn't happen in the first place. Check that your Skyrim Together Reborn mod folder, which contains the `SkyrimTogether.exe`, is placed at:
 
 **For MO2 users:**\
 `C:\Modding\MO2\mods\Skyrim Together Reborn\SkyrimTogetherReborn`
@@ -24,3 +24,5 @@
 ## None of that worked for me, what do I do?
 
 **A:** You could try [removing the game](../client-setup/initial-setup/removing-the-old-setup.md), then [removing the mod](how-do-i-uninstall-the-mod/), and then re-doing the [entire guide](../getting-started.md).
+
+**A:** You can use the cursor from F2/right control with the [F3 Debuggers menu](../../general-information/playguide.md#debugger-menu).

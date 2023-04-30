@@ -8,7 +8,7 @@
 
 **A:** Your CPU needs support for AES-NI (AES New Instructions). The reason why this is needed in the client and server, is because they depend on libsodium lib, which relies on AES. Therefore, we need to wait until libsodium stop relying on AES (which is unlikely), or reimplement some parts with OpenSSL (time consuming).
 
-## How do I know if my CPU supports AES-NI? (Intel)
+## How do I know if my CPU supports AES-NI? (Intel only)
 
 1. Find the name of your CPU, using this method:
 2. Press your `Windows key` and search for `System information`

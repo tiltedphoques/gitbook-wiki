@@ -47,6 +47,7 @@
       * [First time launch](guides/client-setup/using-vortex-mod-manager-vmm/playing-skyrim-together-reborn/first-time-launch.md)
       * [Connecting to a server](guides/client-setup/using-vortex-mod-manager-vmm/playing-skyrim-together-reborn/connecting-to-a-server.md)
 * [Server setup](guides/server-guide/README.md)
+  * [Page 1](guides/server-guide/page-1.md)
   * [ReadMe first](guides/server-guide/readme-first.md)
   * [Terminology](guides/server-guide/terminology.md)
   * [Overview](guides/server-guide/overview.md)
@@ -98,6 +99,11 @@
   * [The STRUI doesn't appear when I press RIGHT CTRL or F2](guides/troubleshooting/the-strui-doesnt-appear-when-i-press-right-ctrl-or-f2.md)
   * [The server list is not appearing](guides/troubleshooting/the-server-list-is-not-appearing.md)
   * [My game opens to a black screen for 2-10 seconds and then closes](guides/troubleshooting/black-screen-and-then-close.md)
+* [Scripting](guides/scripting/README.md)
+  * [Core Math functions](guides/scripting/core-math-functions.md)
+  * [Player functions](guides/scripting/player-functions.md)
+  * [GameServer](guides/scripting/gameserver.md)
+  * [Components](guides/scripting/components.md)
 
 ## General information
 

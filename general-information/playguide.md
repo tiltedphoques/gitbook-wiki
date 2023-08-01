@@ -46,12 +46,12 @@ These are some things you can safely do if you are not the party leader (though 
 
 #### What if you get stuck?
 
-In case you get stuck, you can either reload an older save, or use the quest debugger as the party leader. The quest debugger menu can be opened through the debug UI overlay by pressing "**F3**" then  Press "F2" to show the cursor. This menu can be used to progress a quest stage or teleport quest NPCs to you. Be warned that using the quest debugger might cause the quest to be skipped entirely.
+In case you get stuck, you can either reload an older save, or use the quest debugger as the party leader. The quest debugger menu can be opened through the debug UI overlay by pressing "**F3**" then Press "F2" to show the cursor. This menu can be used to progress a quest stage or teleport quest NPCs to you. Be warned that using the quest debugger might cause the quest to be skipped entirely.
 
 ### Saving
 
 It is recommended that you save often, and that you leave auto saving enabled, especially before scripted events and before finishing a quest. You can use F5 to quicksave.
 
-### Debugger menu
+### Debugger menu <a href="#debugger-menu" id="debugger-menu"></a>
 
 Press "**F3**" to open the debugger menu. This special UI has menus which can help you get unstuck, either as your character, or quests, etc. The debug UI can be closed by pressing F3 again.

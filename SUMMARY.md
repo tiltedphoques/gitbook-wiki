@@ -47,7 +47,6 @@
       * [First time launch](guides/client-setup/using-vortex-mod-manager-vmm/playing-skyrim-together-reborn/first-time-launch.md)
       * [Connecting to a server](guides/client-setup/using-vortex-mod-manager-vmm/playing-skyrim-together-reborn/connecting-to-a-server.md)
 * [Server setup](guides/server-guide/README.md)
-  * [Page 1](guides/server-guide/page-1.md)
   * [ReadMe first](guides/server-guide/readme-first.md)
   * [Terminology](guides/server-guide/terminology.md)
   * [Overview](guides/server-guide/overview.md)

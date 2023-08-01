@@ -18,11 +18,7 @@ This is used to configure the logger in the server console. This option currentl
 
 #### Options
 
-| Option | Description                                     |
-| ------ | ----------------------------------------------- |
-| info   | Displays all logged information                 |
-| warn   | Displays warnings and critical information only |
-| error  | Displays critical information only              |
+<table><thead><tr><th width="157.40572792362772">Option</th><th width="508.4285714285714">Description</th></tr></thead><tbody><tr><td>info</td><td>Displays all logged information</td></tr><tr><td>warn</td><td>Displays warnings and critical information only</td></tr><tr><td>error</td><td>Displays critical information only</td></tr></tbody></table>
 
 ### bConsole
 
@@ -132,14 +128,7 @@ This sets the server side difficulty, which is enforced on **all** clients.
 
 #### Options
 
-| Option | Description |
-| ------ | ----------- |
-| 0      | Novice      |
-| 1      | Apprentice  |
-| 2      | Adept       |
-| 3      | Expert      |
-| 4      | Master      |
-| 5      | Legendary   |
+<table><thead><tr><th width="157.40572792362772">Option</th><th width="508.4285714285714">Description</th></tr></thead><tbody><tr><td>0</td><td>Novice</td></tr><tr><td>1</td><td>Apprentice</td></tr><tr><td>2</td><td>Adept</td></tr><tr><td>3</td><td>Expert</td></tr><tr><td>4</td><td>Master</td></tr><tr><td>5</td><td>Legendary</td></tr></tbody></table>
 
 ### bAllowMO2
 

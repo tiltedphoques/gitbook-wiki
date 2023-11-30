@@ -8,7 +8,7 @@
 
 **A:** Your CPU needs support for AES-NI (AES New Instructions). The reason why this is needed in the client and server is because they depend on libsodium lib, which relies on AES. Therefore, we need to wait until libsodium stops relying on AES (which is unlikely) or reimplement some parts with OpenSSL (time-consuming).
 
-**A:** If you are experiencing this issue on an older AMD Phenom processor, unfortunately, it seems that line of CPUs is not supported.
+**A:** If you are experiencing this issue on an older AMD Phenom processor (users reporting the issue were using either an AMD Phenom II X4 or X6), unfortunately, it seems that line of CPUs is not supported.
 
 ## How do I know if my CPU supports AES-NI? (Intel only)
 

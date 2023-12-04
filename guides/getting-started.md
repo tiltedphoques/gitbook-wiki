@@ -6,7 +6,7 @@ Reading the [playguide](../general-information/playguide.md) is **as essential**
 
 ### Supported versions
 
-Skyrim Special Edition v1.6 on Steam is **required** to play Skyrim Together Reborn. The Anniversary Upgrade paid mod pack is not required. In fact, we recommend that you play without it. The VR, console, Legendary, and Gamepass editions are incompatible. Skyrim Special Edition v1.5 is not supported either (aka pre Anniversary update). Verify the game files through Steam to ensure you have the most recent Special Edition update installed.
+Skyrim Special Edition v1.6 on Steam is **required** to play Skyrim Together Reborn. The Anniversary Upgrade paid mod pack is not required. We recommend that you play without it. The VR, console, Legendary, and GamePass editions are **incompatible**. Skyrim Special Edition v1.5 is not supported either (aka pre-anniversary update). Verify the game files through Steam to ensure you have the most recent Special Edition update installed.
 
 To see the full list of Supported games and versions, visit [this page](../general-information/supported-games.md).
 
@@ -23,7 +23,7 @@ When the guide refers to "SkyrimSE," it simply means "Skyrim Special Edition."
 {% hint style="warning" %}
 The guide uses either MO2 or Vortex as the mod manager.
 
-Both mod managers has their own separate guides.
+Both mod managers have their separate guides.
 {% endhint %}
 
 {% hint style="danger" %}

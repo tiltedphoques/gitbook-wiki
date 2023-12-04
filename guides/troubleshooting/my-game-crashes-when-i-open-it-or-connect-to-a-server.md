@@ -1,19 +1,21 @@
 # My game crashes when I open it or connect to a server
 
 {% hint style="warning" %}
-**This guide is only relevant for Skyrim Together Version **_**1.2.0 and below**_**!**
+**This guide is only relevant for Skyrim Together Version 1.2.0 and below! (with one exception)**
 {% endhint %}
 
 ## Q: My game crashes when I open it, or when I connect to a server
 
-**A:** Your CPU needs support for AES-NI (AES New Instructions). The reason why this is needed in the client and server, is because they depend on libsodium lib, which relies on AES. Therefore, we need to wait until libsodium stop relying on AES (which is unlikely), or reimplement some parts with OpenSSL (time consuming).
+**A:** Your CPU needs support for AES-NI (AES New Instructions). The reason why this is needed in the client and server is because they depend on libsodium lib, which relies on AES. Therefore, we need to wait until libsodium stops relying on AES (which is unlikely) or reimplement some parts with OpenSSL (time-consuming).
+
+**A:** If you are experiencing this issue on an older AMD Phenom processor (users reporting the issue were using either an AMD Phenom II X4 or X6), unfortunately, it seems that line of CPUs is not supported.
 
 ## How do I know if my CPU supports AES-NI? (Intel only)
 
 1. Find the name of your CPU, using this method:
 2. Press your `Windows key` and search for `System information`
 3. Find the line where it says `Processors` and write down the name.
-4. Then visit the [this page](https://ark.intel.com) from Intel.
+4. Then visit [this page](https://ark.intel.com) from Intel.
 5. Use the search function:\
    ![](https://i.imgur.com/O6kYkjc.png)
 6. Type in your CPU, e.g. `i7-9700K` and select it:\

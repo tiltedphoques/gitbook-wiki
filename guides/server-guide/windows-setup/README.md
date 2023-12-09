@@ -7,3 +7,5 @@ It's all about your personal preference. If you're not experienced with port for
 ### [Option 1: Regular setup](regular-setup/) (with port forwarding)
 
 ### [Option 2: ZeroTier setup](zerotier-setup/) (without port forwarding)
+
+### Option 3: Local/LAN setup (same network)

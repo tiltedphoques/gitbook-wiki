@@ -8,4 +8,4 @@ It's all about your personal preference. If you're not experienced with port for
 
 ### [Option 2: ZeroTier setup](zerotier-setup/) (without port forwarding)
 
-### Option 3: Local setup (same network)
+### [Option 3: Local setup](./#option-3-local-setup-same-network) (same network)

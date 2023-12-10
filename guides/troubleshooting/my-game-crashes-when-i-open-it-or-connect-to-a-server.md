@@ -1,86 +1,16 @@
 # My game crashes when I open it or connect to a server
 
-{% hint style="warning" %}
-**This guide is only relevant for Skyrim Together Version 1.2.0 and below! (with one exception)**
-{% endhint %}
-
 ## Q: My game crashes when I open it, or when I connect to a server
 
 **A:** Your CPU needs support for AES-NI (AES New Instructions). The reason why this is needed in the client and server is because they depend on libsodium lib, which relies on AES. Therefore, we need to wait until libsodium stops relying on AES (which is unlikely) or reimplement some parts with OpenSSL (time-consuming).
 
-**A:** If you are experiencing this issue on an older AMD Phenom processor (users reporting the issue were using either an AMD Phenom II X4 or X6), unfortunately, it seems that line of CPUs is not supported.
+**A:** If you are experiencing this issue on an older AMD Phenom processor (users reporting the issue were using either an AMD Phenom II X4, AMD Phenom II X6, or an AMD Phenom Athlon II X4), unfortunately, it seems that line of CPUs is not supported.
 
-## How do I know if my CPU supports AES-NI? (Intel only)
+**A:** If you are on a version earlier than 1.3.0, you **must** update your game as these versions are no longer supported.
 
-1. Find the name of your CPU, using this method:
-2. Press your `Windows key` and search for `System information`
-3. Find the line where it says `Processors` and write down the name.
-4. Then visit [this page](https://ark.intel.com) from Intel.
-5. Use the search function:\
-   ![](https://i.imgur.com/O6kYkjc.png)
-6. Type in your CPU, e.g. `i7-9700K` and select it:\
-   ![](https://i.imgur.com/7lCuc6P.png)
-7. Search for `AES New Instructions` on the page that opens
-8. If it says `Yes`, it's supported on your CPU. If it says `No`, it's not supported on your CPU.
+##
 
-## How do I know if `AES-NI` enabled?
-
-We need to download a tool named `CPU-Z`.
-
-1. Download CPU-Z [here](https://www.cpuid.com/softwares/cpu-z.html).
-2. Select the version you prefer (setup or portable version)
-3. Download and install it
-4. Open CPU-Z and look for `AES` under `Instructions`:\
-   ![](https://i.imgur.com/s2SjWnq.png)
-5. If you can find `AES`, it should be enabled.
-
-## How do I enable it in my BIOS?
-
-**A:** You could try turning on `AES-NI` in your BIOS. This appears to be especially important for Intel CPUs. This is difficult to walk you through because practically every BIOS looks different.
-
-#### Windows 10
-
-If you're running Windows 10, follow these steps to access your BIOS:
-
-1. Go to `Settings`
-2. Select `Update and Security`
-3. Select `Recovery`
-4. Click `Restart`
-5. Click `Troubleshoot`
-6. Select `Advanced Options`
-7. Select `UEFI Firmware Settings`
-8. You should now enter your BIOS
-9. Use whatever search function you have to find something related to `AES-NI`.
-10. You can use the following keywords:\
-    `AES`\
-    `AES-NI`\
-    `Data Protection Technology`\
-    `Advanced Encryption Standard`
-11. Enable `AES`/`AES-NI`
-12. Save your settings and restart your PC - usually use the `F10` key.
-
-#### Windows 11
-
-If you're running Windows 11, follow these steps to access your BIOS:
-
-1. Go to `Settings`
-2. Select `System`
-3. Select `Recovery`
-4. Select `Restart now` right beside `Advanced startup`
-5. Click `Troubleshoot`
-6. Select `Advanced Options`
-7. Select `UEFI Firmware Settings`
-8. You should now enter your BIOS
-9. Use whatever search function you have to find something related to `AES-NI`.
-10. You can use the following keywords:\
-    `AES`\
-    `AES-NI`\
-    `Data Protection Technology`\
-    `Advanced Encryption Standard`
-11. Enable `AES`/`AES-NI`
-12. Save your settings and restart your PC - usually use the `F10` key.
-
-## I have AES-NI enabled, but the issue still persists. What do I do?
+## The issue still persists. What do I do?
 
 **A:** When connecting, make sure you're using the correct IP address and port. It's a little detail, but I mistakenly misspelled my IP address, which crashed me to my desktop (CTD).
 

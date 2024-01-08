@@ -76,6 +76,7 @@
     * [Editing STServer.ini](guides/server-guide/linux-setup/editing-stserver.ini.md)
     * [Explaining bEnableModcheck](guides/server-guide/linux-setup/explaining-benablemodcheck.md)
     * [Port forwarding](guides/server-guide/linux-setup/port-forwarding.md)
+  * [Pterodactyl](guides/server-guide/pterodactyl.md)
   * [Server configuration parameters](guides/server-guide/server-configuration.md)
 * [Troubleshooting](guides/troubleshooting/README.md)
   * [Address Library error](guides/troubleshooting/address-library-error.md)

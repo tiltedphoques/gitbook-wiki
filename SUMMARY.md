@@ -123,3 +123,4 @@
   * [Build Docker server image](technical-documentation/build-guide/build-docker-image.md)
   * [Troubleshooting](technical-documentation/build-guide/troubleshooting.md)
 * [Overview](technical-documentation/overview.md)
+* [Contributing to translations](technical-documentation/contributing-to-translations.md)

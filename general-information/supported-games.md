@@ -17,7 +17,7 @@ We **only** support Skyrim Special Edition 1.6xxx and above. You do not need to 
 ### Supported versions
 
 {% hint style="success" %}
-* The Elder Scrolls V: Skyrim Special Edition (Steam, GOG | VER. 1.6.XXX)
+* The Elder Scrolls V: Skyrim Special Edition (Steam | VER. 1.6.XXX)
 {% endhint %}
 
 ### Unsupported versions
@@ -28,6 +28,8 @@ We **only** support Skyrim Special Edition 1.6xxx and above. You do not need to 
 * The Elder Scrolls V: Skyrim VR (All Versions)
 * The Elder Scrolls V: Skyrim Special Edition (Consoles)
 * The Elder Scrolls V: Skyrim Special Edition (Xbox Gamepass)
+* The Elder Scrolls V: Skyrim Special Edition (Epic Games)
+* The Elder Scrolls V: Skyrim Special Edition (GOG)
 {% endhint %}
 
 ## Fallout 4

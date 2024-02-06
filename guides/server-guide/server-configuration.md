@@ -4,7 +4,15 @@ description: Everything you need to know about the configuration file
 
 # Server configuration parameters
 
-To configure the server, simply go to the folder where Skyrim Together is installed, then go into the `config` folder and open `STServer.ini`. Here, you can configure all the server settings. Alternatively, you can use the command line in the server console when you have opened the server. Use /help to display all the possible commands.
+To configure the server, simply go to the folder where Skyrim Together is installed, then go into the `config` folder and open `STServer.ini`. Here, you can configure all the server settings.&#x20;
+
+{% hint style="danger" %}
+For changes in the STServer.ini to take effect, the server needs to be **shutdown**, otherwise none of the changes will apply and will be overridden with the settings the server know of, when it shuts down again.
+
+For changes _**while**_ the server is running, you need to use the server console.
+{% endhint %}
+
+Alternatively, you can use the command line in the server console when you have opened the server. Use **/help** to display all the possible commands.
 
 {% hint style="info" %}
 If you want to restore config defaults, simply close the server, delete `STServer.ini`, and start the server again.

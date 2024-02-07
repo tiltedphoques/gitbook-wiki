@@ -32,14 +32,14 @@ On Windows machines, it can be found by:
 
 ### **Public IPv4**
 
-Any of the following websites can help you find your local IPv4 address:
+Any of the following websites can help you find your public IPv4 address:
 
 1. [ICanHazIP.com](https://icanhazip.com/)
 2. [WhatIsMyIP.com](https://www.whatismyip.com/)
 3. [WhatIsMyIPAddress.com](https://whatismyipaddress.com/)
 4. [WhatIsMyIp.net](https://www.whatismyip.net/)
 
-These websites will display your public IPv4 address. In most cases, this is the address that people should use to connect to you from any outside network.&#x20;
+These websites will display your public IPv4 address. In most cases, this is the address that people should use to connect to you from any outside network.
 
 Except when using services such as Radmin, ZeroTier, or Hamachi. VPN software, such as the ones mentioned, generally uses a "managed IP", which only works with people on the same VPN network as you.
 

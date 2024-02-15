@@ -15,7 +15,7 @@ Duplicate the en.json and adjust its file name according to the wanted language 
 {% embed url="https://github.com/tiltedphoques/TiltedEvolution/blob/master/Code/skyrim_ui/src/assets/i18n/en.json" %}
 
 {% hint style="info" %}
-You can fine the language codes on this page or by using google e.g. "danish language code"
+You can find the language codes on this page or by using google e.g. "danish language code"
 
 [http://www.lingoes.net/en/translator/langcode.htm](http://www.lingoes.net/en/translator/langcode.htm)
 {% endhint %}
@@ -23,7 +23,7 @@ You can fine the language codes on this page or by using google e.g. "danish lan
 Then translate all strings in the file.
 
 {% hint style="danger" %}
-Do not change the key words such as the underline and similar marked in green. ![](../.gitbook/assets/image.png)
+Do not change the key words such as the underline and similar coloured in green. ![](../.gitbook/assets/image.png)
 {% endhint %}
 
 Then create a pull request like [https://github.com/tiltedphoques/TiltedEvolution/pull/573](https://github.com/tiltedphoques/TiltedEvolution/pull/573) with your new localisation file.

@@ -10,6 +10,10 @@ Follow the linked guide first to set up the project.
 
 ***
 
+{% hint style="danger" %}
+Be sure to create the new file while using(checked out) the DEV branch, not MASTER.
+{% endhint %}
+
 Duplicate the en.json and adjust its file name according to the wanted language code, e.g. da.json (Danish)
 
 {% embed url="https://github.com/tiltedphoques/TiltedEvolution/blob/master/Code/skyrim_ui/src/assets/i18n/en.json" %}

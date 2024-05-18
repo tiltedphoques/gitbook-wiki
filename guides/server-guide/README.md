@@ -10,7 +10,7 @@ If you choose a third-party server provider, we recommend you go with [playtoget
 
 {% hint style="danger" %}
 Playtogether.gg can't be used solely for playing with the same people in your LAN! \
-It counts the internet connection (your house) as one Player and therefore kicks everyone from the server that uses this internet connection.
+It counts the internet connection (your house) as one Player and therefore kicks everyone from the server that uses this internet connection, if there aren't other players on the server not using said internet connection.
 {% endhint %}
 
 ### Hosting your own server

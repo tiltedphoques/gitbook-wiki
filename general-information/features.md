@@ -28,7 +28,7 @@ Weather is synced on a party-per-party basis. The party leader's client determin
 
 ### Combat
 
-To make sure that all players are all targeted evenly by enemies, and not just the "host" (for lack of a better term), we have built our own combat targeting system on top of Skyrim's system. If player 1 hits an enemy, that enemy will lock on player 1 for at least 5 seconds, even if other players hit the enemy. If player 2 hits the enemy after those 5 seconds, the enemy will lock onto player 2.
+To make sure that all players are all targeted evenly by enemies, and not just the "host" (for lack of a better term), we have built our own combat targeting system on top of Skyrim's system. Depending on your actions in combat, enemy's aggression can change to other players.
 
 ### Death
 
@@ -80,7 +80,8 @@ Beastforms (vampire lord and werewolf forms) are fully synced, both in transform
 
 ### Time
 
-The server runs the world time. On connect, the local time will sync up to the server time. You cannot progress the time by waiting or sleeping.
+The server runs the world time. On connect, the local time will sync up to the server time. Calendar date and time progresses just like in regular game, e.g. You will have dragon attacks every 3 days. 
+You cannot progress the time by waiting or sleeping.
 
 ### Homes
 
@@ -94,16 +95,14 @@ We recommend that you do not use followers unless it is for a quest. The AI of t
 
 Actor values like health, stamina and magicka are all synced.
 
+### Player map markers/waypoints
+
+For easier exploration players can set custom map waypoints which everybody in the party can see.
+
 ### Mod policy
 
 The server has an optional setting that enforces a mod policy. This means that everyone on the server must have the same mods installed in the same load order. Having the same mod lists on every client ensures the most stable experience. This can be enabled through the server's `settings.ini` file.
 
-## Unimplemented features
-
-### Player map markers/waypoints
-
-This feature is pretty much finished, but there was no time to test it before 1.0. This feature will come in an update in the near future.
-
 ### Scripting API
 
-We would like to create a scripting API that modders can use to customize their servers, create Skyrim Together specific mods, or develop scripts to make existing mods more compatible.
+We have official - basic - support for server side scripting. This allows players to customize their servers, create Skyrim Together specific mods or develop scripts to make existing mods more compatible.

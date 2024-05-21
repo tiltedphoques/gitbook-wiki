@@ -103,6 +103,7 @@
   * [The server list is not appearing](guides/troubleshooting/the-server-list-is-not-appearing.md)
   * [My game opens to a black screen for 2-10 seconds and then closes](guides/troubleshooting/black-screen-and-then-close.md)
   * [STR UI shows my filesystem](guides/troubleshooting/str-ui-shows-my-filesystem.md)
+  * [Resource folder does not exist](guides/troubleshooting/resource-folder-does-not-exist.md)
 * [Scripting](guides/scripting/README.md)
   * [Core Math functions](guides/scripting/core-math-functions.md)
   * [Player functions](guides/scripting/player-functions.md)

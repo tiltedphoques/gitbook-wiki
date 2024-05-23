@@ -18,7 +18,7 @@ The VR, console, legendary edition (aka Oldrim), and the gamepass version are no
 
 ### Q: Where can I report bugs and request features?
 
-A: You can submit bugs and feature requests at our code repository [here](https://github.com/tiltedphoques/TiltedEvolution/issues).
+A: You can submit bugs and feature requests at our [code repository](https://github.com/tiltedphoques/TiltedEvolution/issues).
 
 ### Q: I have a lot of issues with the mod. Where can I get help?
 
@@ -30,9 +30,9 @@ A: While there is no hard player count limit in theory, we recommend that you pl
 
 ### Q: What is the current status of Fallout Together?
 
-A: When developing Skyrim Together Reborn, the developers decided to make the mod work with Fallout 4 too. At the start of 2022, we decided to focus on Skyrim Together Reborn entirely due to time constraints and the small size of the team. We said that we would finish Fallout Together after Skyrim Together Reborn was released.
+A: When developing Skyrim Together Reborn, the developers decided to make the mod work with Fallout 4 too. At the start of 2022, they decided to focus on Skyrim Together Reborn entirely due to time constraints and the small size of the team.
 
-There is currently only one developer on the team who is interested in finishing Fallout Together (see [Q: will the mod get future updates?](https://wiki.tiltedphoques.com/tilted-online/general-information/faq#q-will-the-mod-get-future-updates)). Even for this developer, this is most likely too big a task. If Fallout Together is to be completed, more developers need to pitch in. We hope that going open source brings in more people to help with that.
+There is currently only one developer on the team who is interested in finishing Fallout Together. But even for this developer, this is most likely too big a task to do alone. However, if there are new contributors who would like to take on the challenge of finishing Fallout Together, he'd be more than happy to continue development on it.
 
 ### Q: Can I use other mods with this mod?
 
@@ -46,7 +46,7 @@ We did not build Reborn with the Anniversary Upgrade mod pack in mind. For the m
 
 ### Q: Will X mod work with this mod?
 
-A: We have no idea which mods work well with Skyrim Together Reborn. There are no mods that are explicitly synced. Mods only sync by accident. The only way to find out if a mod syncs is to test it. Graphics mods generally work well. Aside from that, it's difficult to say. If you have SKSE installed, our mod will automatically load it. We have a mod tracker where you can check and submit mod compatibility. You can find it [here](https://github.com/tiltedphoques/Mod-Compatibility). We have blocked a few mods because they are inherently incompatible:
+A: We have no idea which mods work well with Skyrim Together Reborn. There are no mods that are explicitly synced. Mods only sync by accident. The only way to find out if a mod syncs is to test it. Graphics mods generally work well. Aside from that, it's difficult to say. If you have SKSE installed, our mod will automatically load it. We have a [mod tracker](https://github.com/tiltedphoques/Mod-Compatibility) where you can check and submit mod compatibility. We have blocked a few mods because they are inherently incompatible:
 
 * Engine fixes
 * Skyrim Souls RE
@@ -54,11 +54,7 @@ A: We have no idea which mods work well with Skyrim Together Reborn. There are n
 
 ### Q: Will the mod get future updates?
 
-A: Skyrim Together Reborn 1.0 is a solid base for a lot of future expansion. The current development team has put in a lot of work. Unfortunately, they cannot keep working at this pace. That is why the mod has become open source. We hope that new developers will join in the future to help this mod reach new heights.
-
-There is still a lot of work to be done, such as creating a scripting API, adding features like weather sync, fixing bugs and crashes, and smoothing out quests.
-
-The current development team will continue to maintain the codebase, guide new developers, and build new features (if they feel like it).
+A: Skyrim Together Reborn 1.6 is most likely the final update for the mod. The current development team has put in a lot of work, and this version is about as good as it gets for a mod where you try forcing co-op multiplayer into an open world game like this. No, it's still not perfect. It'll have silly bugs, it might still occasionally crash (though crashes are very rare nowadays), and it won't be AAA quality. But it is fun, and that's the most important part. As a reminder, follow the [playguide](https://wiki.tiltedphoques.com/tilted-online/general-information/playguide), and do NOT use mods for the best experience (including the included Creation Club content).
 
 ### Q: Is there some place where I can donate money to the project?
 

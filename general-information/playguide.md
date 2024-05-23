@@ -24,7 +24,7 @@ If you want an optimal questing experience with the least amount of bugs, crashe
 
 #### How does it work?
 
-The quest sync system works through the party system. When you create a party, you are the party leader. The party leader basically "hosts" the majority of the world. Other party members should be seen as "guests" in the world of the party leader. Whenever the party leader progresses a quest, the other party members also progress their quests automatically.
+The quest sync system works through the party system. When you create a party, you are the party leader. The party leader basically "hosts" the majority of the world. Other party members should be seen as "guests" in the world of the party leader. Whenever the party leader gets or progresses a quest, the other party members also get or progress their quests automatically. Note that this does not apply to miscellaneous quests.
 
 #### Guidelines
 

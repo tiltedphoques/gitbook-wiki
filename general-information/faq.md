@@ -56,6 +56,8 @@ A: We have no idea which mods work well with Skyrim Together Reborn. There are n
 
 A: Skyrim Together Reborn 1.6 is most likely the final update for the mod. The current development team has put in a lot of work, and this version is about as good as it gets for a mod where you try forcing co-op multiplayer into an open world game like this. No, it's still not perfect. It'll have silly bugs, it might still occasionally crash (though crashes are very rare nowadays), and it won't be AAA quality. But it is fun, and that's the most important part. As a reminder, follow the [playguide](https://wiki.tiltedphoques.com/tilted-online/general-information/playguide), and do NOT use mods for the best experience (including the included Creation Club content).
 
+The project is open source, so there's always the possibility for others to contribute and help the mod reach new heights.
+
 ### Q: Is there some place where I can donate money to the project?
 
 A: Check out the [TogetherTeam Patreon](https://www.patreon.com/user?u=79997498) to help support the project and its development team. Due to personal lives and careers, it can be difficult for the developers to find the substantial amount of time needed to fix and maintain the mod. This Patreon helps to justify and relieve that burden.

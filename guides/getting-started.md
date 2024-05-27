@@ -10,6 +10,10 @@ Skyrim Special Edition v1.6 on Steam is **required** to play Skyrim Together Reb
 
 To see the full list of Supported games and versions, visit [this page](../general-information/supported-games.md).
 
+{% hint style="danger" %}
+We do not support any kind of cracked / pirated version of the game and you wont receive help with issues.
+{% endhint %}
+
 ### ReadMe before installing!
 
 This will be a guide that will get Skyrim Together Reborn up and running, with only the required mods included.

@@ -22,6 +22,7 @@ We **only** support Skyrim Special Edition 1.6xxx and above. You do not need to 
 
 ### Unsupported versions
 
+* Any kind of cracked / pirated version
 * The Elder Scrolls V: Skyrim (All Versions)
 * The Elder Scrolls V: Skyrim Legendary Edition (All Versions)
 * The Elder Scrolls V: Skyrim VR (All Versions)

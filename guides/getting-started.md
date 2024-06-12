@@ -36,6 +36,10 @@ You must first launch Skyrim Special Edition via Steam before you can begin! Thi
 
 ### [Client Setup](client-setup/) (installing the mod)
 
+{% hint style="warning" %}
+You need to host your own server if you want to play locally!
+{% endhint %}
+
 ### [Server Setup](server-guide/) (hosting a server)
 
 \

@@ -10,7 +10,10 @@ Making sure the Anniversary Upgrade DLC is turned off is a critical step. You ma
 4. Go to `DLC` and **remove** the `✓` from the `The Elder Scrolls V: Skyrim Anniversary Upgrade` DLC.
 5. If you don't see a DLC tab, it means you didn't buy the `The Elder Scrolls V: Skyrim Anniversary Upgrade` DLC.
 
-![This is a necessary step because Skyrim Together Reborn does not function properly with the Anniversary Upgrade DLC enabled.](https://i.imgur.com/ONE3S1W.gif)
+
+![This is a necessary step because Skyrim Together Reborn does not function consistently with any overlay enabled since 1.6.7.](https://i.imgur.com/lXcnI3X.jpg)
+![This is a necessary step because Skyrim Together Reborn does not function properly with the Anniversary Upgrade DLC enabled.](https://i.imgur.com/BKIvOB3.jpg)
+
 
 ## Launching the game from Steam
 

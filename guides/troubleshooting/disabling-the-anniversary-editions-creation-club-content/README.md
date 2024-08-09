@@ -20,6 +20,8 @@ If you remove the Creation Club content, your existing savegame(s) may become un
 Regardless, it is **strongly advised** that they be removed!
 {% endhint %}
 
+![This is a necessary step because Skyrim Together Reborn does not function properly with the Anniversary Upgrade DLC enabled.](https://i.imgur.com/BKIvOB3.jpg)
+
 ## [Option 1: Using ModOrganizer2 (MO2)](using-modorganizer2.md)
 
 ## [Option 2: Using Vortex Mod Manager (VMM)](using-vortex-mod-manager.md)

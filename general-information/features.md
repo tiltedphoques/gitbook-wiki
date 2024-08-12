@@ -8,7 +8,7 @@ NPCs and monsters are fully synced, including dragons. Some random encounters, l
 
 ### Quests
 
-Quests are fully synced. Make sure to check out the playguide in the sidebar to have a good experience.
+Quests are fully synced. Make sure to check out the [playguide](https://wiki.tiltedphoques.com/tilted-online/general-information/playguide) to have a good experience.
 
 ### Dialogue
 
@@ -98,6 +98,10 @@ Actor values like health, stamina and magicka are all synced.
 ### Player map markers/waypoints
 
 For easier exploration players can set custom map waypoints which everybody in the party can see.
+
+### "Reveal other players" button
+
+You can press `F4` to toggle the "reveal other players" feature. This marks other players with a green, magical effect, which allows you to see your friends through the walls. Pressing `F4` again toggles this feature off (though it takes a couple of seconds for the effect to fully disappear).
 
 ### Mod policy
 

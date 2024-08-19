@@ -109,6 +109,9 @@
   * [Player functions](guides/scripting/player-functions.md)
   * [GameServer](guides/scripting/gameserver.md)
   * [Components](guides/scripting/components.md)
+  * [Services](guides/scripting/services.md)
+  * [World](guides/scripting/world.md)
+  * [Event Handlers](guides/scripting/event-handlers.md)
 
 ## General information
 

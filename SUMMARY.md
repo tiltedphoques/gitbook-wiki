@@ -121,6 +121,7 @@
 * [Supported games](general-information/supported-games.md)
 * [Helpful Links](general-information/helpful-links.md)
 * [Server Console Commands](general-information/ingame-chat-commands.md)
+* [In-Game Chat Commands](general-information/in-game-chat-commands.md)
 
 ## Technical documentation
 

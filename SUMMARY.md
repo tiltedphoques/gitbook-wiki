@@ -120,8 +120,10 @@
 * [FAQ](general-information/faq.md)
 * [Supported games](general-information/supported-games.md)
 * [Helpful Links](general-information/helpful-links.md)
-* [Server Console Commands](general-information/ingame-chat-commands.md)
-* [In-Game Chat Commands](general-information/in-game-chat-commands.md)
+* [Admin](general-information/admin.md)
+* [Commands](general-information/commands/README.md)
+  * [Server Console](general-information/commands/ingame-chat-commands.md)
+  * [In-Game Chat](general-information/commands/in-game-chat.md)
 
 ## Technical documentation
 

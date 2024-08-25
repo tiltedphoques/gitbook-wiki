@@ -79,8 +79,8 @@ Beastforms (vampire lord and werewolf forms) are fully synced, both in transform
 
 ### Time
 
-The server runs the world time. On connect, the local time will sync up to the server time. Calendar date and time progresses just like in regular game, \
-e.g. You will have dragon attacks every 3 days. You cannot progress the time by waiting or sleeping.
+The server runs the world time. On connect, the local time will sync up to the server time. Calendar date and time progresses just like in regular game. You **cannot** progress the time by waiting or sleeping.\
+e.g. You will have dragon attacks every 3 days.
 
 ### Homes
 

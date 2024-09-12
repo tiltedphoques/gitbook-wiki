@@ -124,6 +124,7 @@
 * [Commands](general-information/commands/README.md)
   * [Server Console](general-information/commands/ingame-chat-commands.md)
   * [In-Game Chat](general-information/commands/in-game-chat.md)
+* [Command line arguments](general-information/command-line-arguments.md)
 
 ## Technical documentation
 

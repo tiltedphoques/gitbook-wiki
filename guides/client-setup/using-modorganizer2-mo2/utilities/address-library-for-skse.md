@@ -10,7 +10,7 @@ However, in order for Skyrim Together Reborn to work, we must first install this
 
 ## Downloading and installing Address Library
 
-1. Head to the [mod page](https://www.nexusmods.com/skyrimspecialedition/mods/32444?tab=files), find the `All in one (Anniversary Edition)` version and press `Mod Manager Download`
+1. Head to the [mod page](https://www.nexusmods.com/skyrimspecialedition/mods/32444?tab=files), find the `All in one (1.6.X)` version and press `Mod Manager Download`
 2. ![](https://i.imgur.com/0OeRofe.png)
 3. Your MO2 should now launch and download the mod.
 4. To the right in MO2, there should be a tab named ![](https://i.imgur.com/z5YgMU2.png). Click it!

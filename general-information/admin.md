@@ -5,7 +5,7 @@ Admin features are only available in Skyrim Together Reborn version 1.7.0+
 {% endhint %}
 
 {% hint style="warning" %}
-Admin privileges are automatically removed&#x20;
+Admin privileges are automatically removed when leaving the server
 {% endhint %}
 
 ## Join as admin

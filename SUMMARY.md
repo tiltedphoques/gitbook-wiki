@@ -122,7 +122,7 @@
 * [Helpful Links](general-information/helpful-links.md)
 * [Admin](general-information/admin.md)
 * [Commands](general-information/commands/README.md)
-  * [Server Console](general-information/commands/ingame-chat-commands.md)
+  * [Server Console](general-information/commands/server-console.md)
   * [In-Game Chat](general-information/commands/in-game-chat.md)
 * [Command line arguments](general-information/command-line-arguments.md)
 

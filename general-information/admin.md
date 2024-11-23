@@ -8,21 +8,21 @@ Admin features are only available in Skyrim Together Reborn version 1.6.8+
 Admin privileges are automatically removed&#x20;
 {% endhint %}
 
-## How to join as an admin
+## Join as admin
 
 The `STServer.ini` file includes a field called `sAdminPassword` in the `[GameServer]` section. You can set a password here that users need to enter in the Connect window to join as an admin. If you don't set a password, no one will be able to join as an admin.\
 ex. `sAdminPassword=password` -> admin password = `password`
 
 
 
-## How to add an admin
+## Add admin
 
 You need access to the server console for this. Use the `/AddAdmin` command in the console to make a player an admin. If the player with the specified name isn’t found, you'll see a warning in the console.\
 ex. `/AddAdmin SkyrimTogether` -> adds the player "SkyrimTogether" as an admin
 
 
 
-## How to remove an admin
+## Remove admin
 
 {% hint style="info" %}
 Admin privileges are automatically revoked when the admin leaves the server

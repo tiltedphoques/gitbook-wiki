@@ -1,7 +1,7 @@
 # Admin
 
 {% hint style="danger" %}
-Admin features are only available in Skyrim Together Reborn version 1.6.8+
+Admin features are only available in Skyrim Together Reborn version 1.7.0+
 {% endhint %}
 
 {% hint style="warning" %}

@@ -2,10 +2,10 @@
 
 
 
-## [Server Console Commands](server-console.md)
+## [Server Console Commands](ingame-chat-commands.md)
 
-{% content-ref url="server-console.md" %}
-[server-console.md](server-console.md)
+{% content-ref url="ingame-chat-commands.md" %}
+[ingame-chat-commands.md](ingame-chat-commands.md)
 {% endcontent-ref %}
 
 

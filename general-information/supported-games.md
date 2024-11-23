@@ -11,13 +11,13 @@ We will never support any game on any **Console**, since it isn't possible to do
 ## The Elder Scrolls V: Skyrim
 
 {% hint style="warning" %}
-We **only** support Skyrim Special Edition 1.6xxx and above. You do not need to buy the Anniversary Upgrade. We recommend playing without it for the best experience.
+We **only** support Skyrim Special Edition latest version. You do not need to buy the Anniversary Upgrade. We recommend playing without it for the best experience.
 {% endhint %}
 
 ### Supported versions
 
 {% hint style="success" %}
-* The Elder Scrolls V: Skyrim Special Edition (Steam, GOG | VER. 1.6.XXX)
+* The Elder Scrolls V: Skyrim Special Edition (Steam, GOG | LATEST VERSION)
 {% endhint %}
 
 ### Unsupported versions

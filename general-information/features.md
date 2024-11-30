@@ -8,7 +8,7 @@ NPCs and monsters are fully synced, including dragons. Some random encounters, l
 
 ### Quests
 
-Quests are fully synced. Make sure to check out the playguide in the sidebar to have a good experience.
+Quests are fully synced. Make sure to check out the [playguide](playguide.md) in the sidebar to have a good experience.
 
 ### Dialogue
 
@@ -16,8 +16,7 @@ Dialogue of NPCs is synced by the party leader. If an NPC talks on the party lea
 
 ### Inventories and equipment
 
-Both player and NPC inventories and equipment are fully synced. Chest contents are also synced. Players can look at the same chest at the same time, and loot/store items similarly. Enchanted and poisoned items are synced. Pickpocketing is synced as well, including pickpocketing fellow players. \
-
+Both player and NPC inventories and equipment are fully synced. Chest contents are also synced. Players can look at the same chest at the same time, and loot/store items similarly. Enchanted and poisoned items are synced. Pickpocketing is synced as well, including pickpocketing fellow players.
 
 Dropping items on the ground is synced, someone else picking it up isn't synced.\
 Only pre-placed items in the world by Bethesda/Mod creator (eg. an item in a dungeon), are synced when picking those up.
@@ -32,11 +31,11 @@ To make sure that all players are all targeted evenly by enemies, and not just t
 
 ### Death
 
-When the player dies, it does not reload a save anymore. Instead, if the player dies outside, it will spawn nearby, similarly to GTA Online. If the player dies in a dungeon or another type of interior, they will respawn at the entrance of that dungeon/interior. On death, the player automatically pays all their crime bounties, and will therefore lose aggro from guards and such if they had any. There is an optional server option where the player loses a percentage of their gold. This can be configured in the server's `settings.ini` file.
+When the player dies, it does not reload a save anymore. Instead, if the player dies outside, it will spawn nearby, similarly to GTA Online. If the player dies in a dungeon or another type of interior, they will respawn at the entrance of that dungeon/interior. On death, the player automatically pays all their crime bounties, and will therefore lose aggro from guards and such if they had any. There is an optional server option where the player loses a percentage of their gold. This can be configured in the server's `STServer.ini` file.
 
 ### Difficulty
 
-The difficulty is determined by the server. This can be configured in the server's `settings.ini` file. The default is "expert" difficulty. We recommend that you use a high difficulty, since the game was not balanced for multiple players. If the game is still too easy, you can install difficulty mods. As always, make sure everyone installs the same mods for the best experience.
+The difficulty is determined by the server. This can be configured in the server's `STServer.ini` file. The default is "expert" difficulty. We recommend that you use a high difficulty, since the game was not balanced for multiple players. If the game is still too easy, you can install difficulty mods. As always, make sure everyone installs the same mods for the best experience.
 
 ### Pausing
 
@@ -44,7 +43,7 @@ We disabled pausing for certain menus, like inventory, magic selection, favorite
 
 ### PvP
 
-PvP is default disabled, but can be enabled through the server's `settings.ini` file. This is a co-op mod first and foremost, hence why it is disabled by default. We did not build the mod with PvP in mind, and PvP'ing will therefore not be perfect.
+PvP is default disabled, but can be enabled through the server's `STServer.ini` file. This is a co-op mod first and foremost, hence why it is disabled by default. We did not build the mod with PvP in mind, and PvP'ing will therefore not be perfect.
 
 ### Projectiles
 
@@ -64,7 +63,7 @@ Horse mounting is synced. The animation of the horse might be stuck for other pl
 
 ### XP sync
 
-The XP sync system attempts to emulate the natural level progression of the game. Whenever someone in your party gains experience in a **combat skill**, the rest of the party will get the same amount of experience in their respective **combat skills**. This goes for combat skills only, so not for smithing for example. As an example: if party member 1 hits a wolf with a one-handed sword and gets 5 xp in he one-handed skill tree, and party member 2 last used a destruction spell as combat skill, party member 2 will get 5 xp in destruction.&#x20;
+The XP sync system attempts to emulate the natural level progression of the game. Whenever someone in your party gains experience in a **combat skill**, the rest of the party will get the same amount of experience in their respective **combat skills**. This goes for combat skills only, so not for smithing for example. As an example: if party member 1 hits a wolf with a one-handed sword and gets 5 xp in he one-handed skill tree, and party member 2 last used a destruction spell as combat skill, party member 2 will get 5 xp in destruction.
 
 ### Puzzles
 
@@ -80,8 +79,8 @@ Beastforms (vampire lord and werewolf forms) are fully synced, both in transform
 
 ### Time
 
-The server runs the world time. On connect, the local time will sync up to the server time. Calendar date and time progresses just like in regular game, e.g. You will have dragon attacks every 3 days. 
-You cannot progress the time by waiting or sleeping.
+The server runs the world time. On connect, the local time will sync up to the server time. Calendar date and time progresses just like in regular game. You **cannot** progress the time by waiting or sleeping.\
+e.g. You will have dragon attacks every 3 days.
 
 ### Homes
 
@@ -105,4 +104,4 @@ The server has an optional setting that enforces a mod policy. This means that e
 
 ### Scripting API
 
-We have official - basic - support for server side scripting. This allows players to customize their servers, create Skyrim Together specific mods or develop scripts to make existing mods more compatible.
+We have official - basic - support for [server side scripting](../guides/scripting/). This allows players to customize their servers, create Skyrim Together specific mods or develop scripts to make existing mods more compatible.

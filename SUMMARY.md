@@ -109,6 +109,9 @@
   * [Player functions](guides/scripting/player-functions.md)
   * [GameServer](guides/scripting/gameserver.md)
   * [Components](guides/scripting/components.md)
+  * [Services](guides/scripting/services.md)
+  * [World](guides/scripting/world.md)
+  * [Event Handlers](guides/scripting/event-handlers.md)
 
 ## General information
 
@@ -117,7 +120,11 @@
 * [FAQ](general-information/faq.md)
 * [Supported games](general-information/supported-games.md)
 * [Helpful Links](general-information/helpful-links.md)
-* [Server Console Commands](general-information/ingame-chat-commands.md)
+* [Admin](general-information/admin.md)
+* [Commands](general-information/commands/README.md)
+  * [Server Console](general-information/commands/server-console.md)
+  * [In-Game Chat](general-information/commands/in-game-chat.md)
+* [Command line arguments](general-information/command-line-arguments.md)
 
 ## Technical documentation
 

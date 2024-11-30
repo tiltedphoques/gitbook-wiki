@@ -1,0 +1,3 @@
+# In-Game Chat
+
+<table data-full-width="true"><thead><tr><th width="144">Command</th><th width="122">Parameters</th><th>Description</th><th>Example</th><th width="121" data-type="checkbox">Admin only</th></tr></thead><tbody><tr><td>help</td><td></td><td>List all available  chat commands</td><td>/help</td><td>false</td></tr><tr><td>settime</td><td>0-23 0-59</td><td>Set the world's time</td><td>/settime 11 15</td><td>true</td></tr><tr><td>local</td><td>&#x3C;message></td><td>Send a message only to those around you</td><td>/local Hello local people</td><td>false</td></tr><tr><td>party</td><td>&#x3C;message></td><td>Send a message only to your party</td><td>/local Hello party people</td><td>false</td></tr></tbody></table>

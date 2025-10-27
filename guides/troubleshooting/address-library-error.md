@@ -6,7 +6,7 @@ There are several different causes for the "address library not loading" error. 
 
 ### Wrong address library version
 
-You need to install **All in one (Anniversary Edition)**, not **All in one (Special Edition)**.
+You need to install **All in one (1.6.X)**, not **All in one (1.5.X)**.
 
 ### Skyrim v1.5
 

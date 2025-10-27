@@ -10,6 +10,20 @@
 
 ##
 
+## Q: My game crashes when I open it, or just shows a black screen
+
+**A:** If you have an NVIDIA Card, please disable the NVIDIA App's Overlay, or GeForce Experience Overlay. Some of its features interfere since the summer of 2024. You can also rollback to an earlier driver and see if the game runs better with it.
+- GeForce Game Ready Driver WHQL 552.22 from April - https://www.nvidia.com/Download/Find.aspx
+
+**A:** If the game still crashes or is showing a black screen, try uninstalling Community Shaders or any ENB or ReShade enhancements you have. Then see if Skyrim Together can launch with it disabled.
+
+**A:** If you have a Windows version higher than 22H2 or you get DLL crash popups, try the following steps below.
+- If it is EngineFixes.dll, uninstall that mod. It is not compatible with STR so you can't use mods depending on it
+- If it is something that used to work in STR 1.5, downgrade conflicting Windows update 24H2 to 23H2 or 22H2
+- If the DLL from a mod is still crashing, it is probably incompatible and should be disabled, like SmoothCam.dll
+
+##
+
 ## The issue still persists. What do I do?
 
 **A:** When connecting, make sure you're using the correct IP address and port. It's a little detail, but I mistakenly misspelled my IP address, which crashed me to my desktop (CTD).

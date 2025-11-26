@@ -56,8 +56,6 @@ Now to connect to your friends Skyrim Together Reborn server.
 
 {% hint style="warning" %}
 Read the [playguide](../../../../general-information/playguide.md) to learn how to properly complete quests with your friends!
-
-If you want to do quests with your friends, you must first read the [playguide](../../../../general-information/playguide.md).
 {% endhint %}
 
 

@@ -4,7 +4,7 @@ description: Everything you need to know about the configuration file
 
 # Server configuration parameters
 
-To configure the server, simply go to the folder where Skyrim Together is installed, then go into the `config` folder and open `STServer.ini`. Here, you can configure all the server settings.&#x20;
+To configure the server, simply go to the folder where Skyrim Together is installed, then go into the `config` folder and open `STServer.ini`. Here, you can configure all the server settings.
 
 {% hint style="danger" %}
 For changes in the STServer.ini to take effect, the server needs to be **shutdown**, otherwise none of the changes will apply and will be overridden with the settings the server know of, when it shuts down again.
@@ -48,6 +48,16 @@ Determines whether the server shows up on the server list or not. If the server 
 
 Can be set to `true` or `false`.
 
+### bEnableMiscQuestSync
+
+#### Description
+
+(Experimental) By default, Skyrim Together syncs main quests and side quests, but not miscellaneous quests. Enabling this setting will attempt to sync misc quests as well.
+
+#### Options
+
+Can be set to `true` or `false`.
+
 ### fGoldLossFactor
 
 #### Description
@@ -57,6 +67,16 @@ Used to determine how much gold a player loses when they die. When set to 0, pla
 #### Options
 
 This is a factor. It can be set to anything between 0 and 1. For example, if you want the player to lose 5% of its gold on death, set it to 0.05.
+
+### bAutoPartyJoin
+
+#### Description
+
+Join parties automatically, as long as there is only one party in the server.
+
+#### Options
+
+Can be set to `true` or `false`.
 
 ### bEnableItemDrops
 
@@ -73,6 +93,16 @@ Can be set to `true` or `false`.
 #### Description
 
 Determines whether the xp sync system is enabled or not.
+
+#### Options
+
+Can be set to `true` or `false`.
+
+### bSyncPlayerCalendar
+
+#### Description
+
+Syncs up all player calendars to be the same day, month, and year. This uses the date of the player with the furthest ahead date at connection.
 
 #### Options
 

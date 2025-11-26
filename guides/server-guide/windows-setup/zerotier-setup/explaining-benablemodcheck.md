@@ -1,17 +1,17 @@
-# Explaining bEnableModcheck
+# Explaining bEnableModCheck
 
-## What does `bEnableModcheck` do?
+## What does `bEnableModCheck` do?
 
-The `bEnableModcheck` parameter allows you to enable or disable the option of enforcing a mod policy.
+The `bEnableModCheck` parameter allows you to enable or disable the option of enforcing a mod policy.
 
-If you **enable** `bEnableModcheck`, everyone who connects to your server will go through the following process:
+If you **enable** `bEnableModCheck`, everyone who connects to your server will go through the following process:
 
 1. Player A connects to your server, which has modcheck enabled.
 2. Your server will examine Player A's `loadorder.txt` file.
 3. If the `loadorder.txt` file on the server matches, Player A will now join your server.
 4. If the `loadorder.txt` file does not match the one on the server, Player A will be denied access to the server.
 
-If you **disable**`bEnableModcheck`, everyone who connects to your server will go through the following process:
+If you **disable**`bEnableModCheck`, everyone who connects to your server will go through the following process:
 
 1. Player A connects to your server, which has modcheck disabled.
 2. Your server will not examine Player A's `loadorder.txt` file.
@@ -21,7 +21,7 @@ The reason for enabling this is to increase the chances of having a more stable 
 
 It is not necessary to use if you and your friends are not using mods (or if you are only using `Address Library for SKSE`).
 
-## Oh! I want that! I want my server to kick players, that doesn't use the mods that I choose!
+## Oh, I want that! I want my server to kick players that don't use the mods that I chose.
 
 Alright! To do so, we must obtain your `loadorder.txt` from MO2 or VMM and place it in the correct location.
 
@@ -52,7 +52,7 @@ Alright! To do so, we must obtain your `loadorder.txt` from MO2 or VMM and place
 
 11\. Go back to the `config` folder, where `STServer.ini` is located.
 
-12\. Open the `STServer.ini` and change `bEnableModcheck` from `false` to `true`
+12\. Open the `STServer.ini` and change `bEnableModCheck` from `false` to `true`
 
 13\. Save the file
 
@@ -76,7 +76,7 @@ Alright! To do so, we must obtain your `loadorder.txt` from MO2 or VMM and place
 8. Create a folder named `Data` (important with uppercase D)
 9. Inside the `Data` folder, paste the `loadorder.txt` that we copied before.
 10. Go back to the `config` folder, where `STServer.ini` is located.
-11. Open the `STServer.ini` and change `bEnableModcheck` from `false` to `true`
+11. Open the `STServer.ini` and change `bEnableModCheck` from `false` to `true`
 12. Save the file
 13. Run `SkyrimTogetherServer.exe` again
 14. It should now say `ModPolicy is active` and your mod policy will now be enforced.

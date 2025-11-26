@@ -19,9 +19,9 @@ In this guide, we'll assume you're running Ubuntu 22.04 LTS. Because we won't be
    `sudo usermod -aG docker ${USER}`
 9. You will need to re-log your user, for this to take effect (open and close your terminal, if you're using a headless Ubuntu server)
 
-## Creating paths for the Skyrim Together Reborn server
+## Creating paths for the Skyrim Together server
 
-I like to put my stuff in `/opt/` so that's what we will do for now
+I like to put my stuff in `/opt/` so that's what we will do for now:
 
 1. Let's create the folders needed. We will need sudo privilige to create folders in `/opt/`.\
    `sudo mkdir -p /opt/docker/skyrimserver/{config,Data,logs}`
@@ -32,7 +32,7 @@ I like to put my stuff in `/opt/` so that's what we will do for now
 
 1. Docker is extremely simple to get up and running
 2. We just need to run this command, and Docker will take care of the rest:\
-   `docker run -d -it --name skyrimserver -p 10578:10578/udp -v /opt/docker/skyrimserver/config:/home/server/config -v /opt/docker/skyrimserver/Data:/home/server/Data -v /opt/docker/skyrimserver/logs:/home/server/logs tiltedphoques/st-reborn-server:latest`
+   `docker run -d -it --name skyrimserver -p 10578:10578/udp -v /opt/docker/skyrimserver/config:/st-server/config -v /opt/docker/skyrimserver/Data:/st-server/Data -v /opt/docker/skyrimserver/logs:/st-server/logs tiltedphoques/st-reborn-server:latest`
 3. Docker will now download the latest server image, and run it afterwards.
 4. If you want to see the logs in your terminal, you can use this command:\
    `docker logs -tf "skyrimserver"`
@@ -41,35 +41,17 @@ I like to put my stuff in `/opt/` so that's what we will do for now
    * Note: to detach from the console, the default hotkey is `CTRL+P,Q`. This means you hold Left-Control, then you press and release P, and then press and release Q.
 6. Now your server is up and running.
 
-### Start/Stopping your docker server
+### Start and stop your docker server
 
-1. To stop your `skyrimserver`, simply run the following command in your console and it will stop your Skyrim Together Reborn server:
+1. To stop your `skyrimserver`, simply run the following command in your console and it will stop your Skyrim Together server:
    * `docker stop skyrimserver -t 1`
-2. To start it again, simply run the following command in your console and it will start your Skyrim Together Reborn server again:
+2. To start it again, simply run the following command in your console and it will start your Skyrim Together server again:
    * `docker start skyrimserver`
 3. To restart the server, run the following command in your console and it will stop \*and\* start the server:
    * `docker restart skyrimserver -t 1`
 
-## I want to use docker-compose, what is the template?
+## I want to use Docker Compose
 
-```
-version: "3"
-
-services:
-  skyrimserver:
-    container_name: skyrimserver
-    image: tiltedphoques/st-reborn-server:latest
-    ports:
-     - "10578:10578/udp"
-    volumes:
-     - /opt/docker/skyrimserver/config:/home/server/config
-     - /opt/docker/skyrimserver/logs:/home/server/logs
-     - /opt/docker/skyrimserver/Data:/home/server/Data
-     - /etc/localtime:/etc/localtime:ro
-     - /etc/timezone:/etc/timezone:ro
-    restart: unless-stopped
-    stdin_open: true
-    tty: true
-```
+An up-to-date `docker-compose.yml` file [can be found in the project repository](https://github.com/tiltedphoques/TiltedEvolution/blob/dev/docker-compose.yml). Run it with `docker compose up -d` after you create the directories.
 
 #### Onwards to the next step!

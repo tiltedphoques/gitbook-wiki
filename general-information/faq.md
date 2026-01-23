@@ -12,7 +12,7 @@ The code was rewritten from the ground up because the old codebase was too diffi
 
 ### Q: What platforms and versions are supported?
 
-A: Skyrim Special Edition on Steam, specifically version 1.6, is the **ONLY** version that is supported and will most likely always be supported. This has been mislabeled as "Anniversary Edition" by the modding community. The Anniversary Edition is a combination of the Special Edition and the Anniversary Upgrade. This is not required to play Skyrim Together Reborn. You only need to purchase the Special Edition.
+A: Skyrim Special Edition on Steam, specifically version 1.6.117X, is the **ONLY** version that is supported and will most likely always be supported. This has been mislabeled as "Anniversary Edition" by the modding community. The Anniversary Edition is a combination of the Special Edition and the Anniversary Upgrade. This is not required to play Skyrim Together Reborn. You only need to purchase the Special Edition.
 
 The VR, console, legendary edition (aka Oldrim), and the gamepass version are not supported and will never be.
 
@@ -38,7 +38,7 @@ There is currently only one developer on the team who is interested in finishing
 
 A: Our official position is that you **should not** install any other mods for the best, most stable experience. You can still do so, and our mod also loads SKSE if you have it installed, but we cannot guarantee that these mods will not cause stability issues, will play nice with our systems, or that their features will sync. This is entirely up to you.
 
-Creation Club mods, including the Anniversary Upgrade mod pack, are included in this category.
+Creation Club mods, including the Anniversary Upgrade mod pack, are included in this category of non-recommended mods. Please do not use them on public servers.
 
 {% hint style="warning" %}
 We did not build Reborn with the Anniversary Upgrade mod pack in mind. For the most stable experience, you should [disable the mods](../guides/client-setup/initial-setup/launching-the-game.md#making-sure-anniversary-upgrade-dlc-is-disabled) that come with the paid Anniversary Upgrade mod pack.
@@ -46,15 +46,17 @@ We did not build Reborn with the Anniversary Upgrade mod pack in mind. For the m
 
 ### Q: Will X mod work with this mod?
 
-A: We have no idea which mods work well with Skyrim Together Reborn. There are no mods that are explicitly synced. Mods only sync by accident. The only way to find out if a mod syncs is to test it. Graphics mods generally work well. Aside from that, it's difficult to say. If you have SKSE installed, our mod will automatically load it. We have a mod tracker where you can check and submit mod compatibility. You can find it [here](https://github.com/tiltedphoques/Mod-Compatibility). We have blocked a few mods because they are inherently incompatible:
+A: We have limited intel about which mods work well with Skyrim Together Reborn. There are no mods that are explicitly synced. Mods only sync by accident. The only way to find out if a mod syncs is to test it. Graphics mods generally work well. Aside from that, it's difficult to say. If you have SKSE installed, our mod will automatically load it. We have a mod tracker where you can check and submit mod compatibility. You can find it [here](https://github.com/tiltedphoques/Mod-Compatibility). We have blocked a few mods because they are inherently incompatible:
 
-* Engine fixes
-* Skyrim Souls RE
+* KiLoader (used as ENB prerequisite)
+* Alternate Conversation Camera mods
 * Fraps (not a mod, but also blocked)
+
+Note: Mods that were previously flagged as incompatible, such as Engine Fixes 6, and Skyrim Souls RE, have been revisited by new community members. Now Engine Fixes 7 and Skyrim Souls RE Updated can load with Skyrim Together release 1.8.
 
 ### Q: Will the mod get future updates?
 
-A: Skyrim Together Reborn 1.0 is a solid base for a lot of future expansion. The current development team has put in a lot of work. Unfortunately, they cannot keep working at this pace. That is why the mod has become open source. We hope that new developers will join in the future to help this mod reach new heights.
+A: Skyrim Together Reborn 1.8 is a solid base for a lot of future expansion. The current development team has put in a lot of work. Unfortunately, they cannot keep working at this pace. That is why the mod has become open source. We hope that new developers will join in the future to help this mod reach new heights.
 
 There is still a lot of work to be done, such as creating a scripting API, adding features like weather sync, fixing bugs and crashes, and smoothing out quests.
 

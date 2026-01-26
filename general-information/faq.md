@@ -14,7 +14,7 @@ The code was rewritten from the ground up because the old codebase was too diffi
 
 A: Skyrim Special Edition on Steam, specifically version 1.6.117X, is the **ONLY** version that is supported and will most likely always be supported. This has been mislabeled as "Anniversary Edition" by the modding community. The Anniversary Edition is a combination of the Special Edition and the Anniversary Upgrade. This is not required to play Skyrim Together Reborn. You only need to purchase the Special Edition.
 
-The VR, console, legendary edition (aka Oldrim), and the gamepass version are not supported and will never be.
+The VR, console, legendary edition (aka Oldrim), epic games version, and the gamepass version are not supported and will never be.
 
 ### Q: Where can I report bugs and request features?
 
@@ -22,7 +22,7 @@ A: You can submit bugs and feature requests at our code repository [here](https:
 
 ### Q: I have a lot of issues with the mod. Where can I get help?
 
-A: You can look at the [troubleshooting page](../guides/troubleshooting/) on this wiki, which contains a list of common problems and solutions. If none of the troubleshooting pages helped you, you can always join our [Discord server](https://discord.com/invite/skyrimtogether).
+A: You can look at the [troubleshooting page](../guides/troubleshooting/) on this wiki, which contains a list of common problems and solutions. If none of the troubleshooting pages helped you, you can always join our [Discord server](https://discord.com/invite/skyrimtogether). Dismissing followers before connecting is recommended.
 
 ### Q: What is the recommended amount of players?
 
@@ -46,11 +46,17 @@ We did not build Reborn with the Anniversary Upgrade mod pack in mind. For the m
 
 ### Q: Will X mod work with this mod?
 
-A: We have limited intel about which mods work well with Skyrim Together Reborn. There are no mods that are explicitly synced. Mods only sync by accident. The only way to find out if a mod syncs is to test it. Graphics mods generally work well. Aside from that, it's difficult to say. If you have SKSE installed, our mod will automatically load it. We have a mod tracker where you can check and submit mod compatibility. You can find it [here](https://github.com/tiltedphoques/Mod-Compatibility). We have blocked a few mods because they are inherently incompatible:
+A: We have limited intel about which mods work well with Skyrim Together Reborn. There are no mods that are explicitly synced. Mods only sync by accident. The only way to find out if a mod syncs is to test it. Graphics mods generally work well. Aside from that, it's difficult to say. If you have SKSE installed, our mod will automatically load it. We have a mod tracker where you can check and submit mod compatibility. You can find it [here](https://github.com/tiltedphoques/Mod-Compatibility). We don't provide support for [the following mods](https://github.com/tiltedphoques/Mod-Compatibility/issues?q=state%3Aopen%20-label%3A%22Compatible%22%20AND%20-label%3A%22Dev%20Confirmed%22%20OR%20label%3A%22Can%20cause%20issues%22%20OR%20label%3AIncompatible%20OR%20label%3A%22Needs%20patch%22%20-&page=7) because they are currently incompatible.
+
+Some examples that may not load well:
 
 * KiLoader (used as ENB prerequisite)
 * Alternate Conversation Camera mods
+* Smoothcam (may fail to load saves)
 * Fraps (not a mod, but also blocked)
+* Save and Load Accelerator for SKSE Cosaves - S.L.A.C.K.
+* Wheeler - Show in UI
+* Master Occlusion Field
 
 Note: Mods that were previously flagged as incompatible, such as Engine Fixes 6, and Skyrim Souls RE, have been revisited by new community members. Now Engine Fixes 7 and Skyrim Souls RE Updated can load with Skyrim Together release 1.8.
 
@@ -58,7 +64,7 @@ Note: Mods that were previously flagged as incompatible, such as Engine Fixes 6,
 
 A: Skyrim Together Reborn 1.8 is a solid base for a lot of future expansion. The current development team has put in a lot of work. Unfortunately, they cannot keep working at this pace. That is why the mod has become open source. We hope that new developers will join in the future to help this mod reach new heights.
 
-There is still a lot of work to be done, such as creating a scripting API, adding features like weather sync, fixing bugs and crashes, and smoothing out quests.
+There is still a lot of work to be done, such as creating a scripting API, adding features, fixing bugs and crashes, and smoothing out quests.
 
 The current development team will continue to maintain the codebase, guide new developers, and build new features (if they feel like it).
 

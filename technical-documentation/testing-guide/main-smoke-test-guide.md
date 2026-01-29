@@ -22,7 +22,7 @@ Expected: All plugins, including Skyrimtogether.esp, are loaded and usable
 
 ### 2: Loading a character with all vanilla items
 
-A: If you can reach the main menu successfully, the next step is to open the console and reach gameplay. Press the console key and type "coc qasmoke" to load the test room, and make sure normal movement and menu UI interactions work. Make a savegame. Press F2 and connect to a localhost server and make a party. Now boot a second instance of the game and connect to the same room with the same character. Verify your local server config's party join setting is adhetered to and compare the players' equipped items and movement syncing.
+A: If you can reach the main menu successfully, the next step is to open the console and reach gameplay. Press the console key and type "coc qasmoke" to load the test room, and make sure normal movement and menu UI interactions work. Make a savegame. Press F2 and connect to a localhost server and make a party. Now boot a second instance of the game and connect to the same room with the same character. Verify your local server config's party join setting is adhered to and compare the players' equipped items and movement syncing.
 
 {% hint style="warning" %}
 Expected: All worn equipment and character movements are visibly synced
@@ -73,7 +73,7 @@ Expected: The players can rent the attic room from Delphine after using the note
 A: Some players experience bugs when the dragon is revived near Kynesgrove, sometimes Alduin becomes angry and starts meteors, or doesn't fully transition to waking the dead dragon from the ground. The dragon may revive from elsewhere and appear in weird animation.
 
 {% hint style="warning" %}
-Expected: Alduing settles in the sky and revives the dead dragon, the skeleton comes up from the burial spot and transitions to the alive dragon texture. The players can defeat the revived dragon and talk to Delphine after to complete [A blade in the Dark](https://elderscrolls.fandom.com/wiki/A_Blade_in_the_Dark) quest.
+Expected: Alduin settles in the sky and revives the dead dragon, the skeleton comes up from the burial spot and transitions to the alive dragon texture. The players can defeat the revived dragon and talk to Delphine after to complete [A blade in the Dark](https://elderscrolls.fandom.com/wiki/A_Blade_in_the_Dark) quest.
 {% endhint %}
 
 ### 9: Testing the Thalmor Embassy quest completion

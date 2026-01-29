@@ -4,6 +4,14 @@ description: Frequently tested function archetypes when making tweaks or testing
 
 # Smoke test the features and quests in order of importance
 
+## Q: Where can I report bugs and request features?
+
+A: You can submit bugs and feature requests at our code repository [here](https://github.com/tiltedphoques/TiltedEvolution/issues).
+
+{% hint style="warning" %}
+Expected: Check for duplicate bugs before reporting, help detail open bugs
+{% endhint %}
+
 ### 1: Booting the game with known addons hooked
 
 A: Address Library 1.6 booting Skyrim Together with Vortex and Mod Organizer 2 should be tested. Known addons that are good to test boot with are Skyrim Script Extender AE, Crashlogger SSE AE VR - PDB support, Engine Fixes 7, and Skyrim Souls RE Updated. A good way to detect if there has been a regression in boot loading is to add Upscaling - Community Shaders. 
@@ -18,14 +26,6 @@ A: If you can reach the main menu successfully, the next step is to open the con
 
 {% hint style="warning" %}
 Expected: All worn equipment and character movements are visibly synced
-{% endhint %}
-
-### Q: Where can I report bugs and request features?
-
-A: You can submit bugs and feature requests at our code repository [here](https://github.com/tiltedphoques/TiltedEvolution/issues).
-
-{% hint style="warning" %}
-Expected: Check for duplicate bugs before reporting, help detail open bugs
 {% endhint %}
 
 ### 3: Starting a new game and smoke test quest start

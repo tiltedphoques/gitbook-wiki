@@ -1,18 +1,18 @@
 ---
 description: >-
-  For those who are on the same network (LAN), no port forwarding or ZeroTier
-  is needed.
+  For those who are on the same network (LAN), no port forwarding or ZeroTier is
+  needed.
 ---
 
 # Local setup
 
 ### Host machine
 
-1. Open the command prompt on the host machine
-2. Enter `ipconfig` (or `ipconfig | FindStr /i ipv4` to find the exact line we're looking for)
-3. Note the IPv4 Address, this will be given to other players on the network to connect with
-4. The server address that the host machine (and only the host machine) uses is: `127.0.0.1`
-
+1. We will locate and launch `SkyrimTogetherServer.exe`
+2. Open the command prompt on the host machine
+3. Enter `ipconfig` (or `ipconfig | FindStr /i ipv4` to find the exact line we're looking for)
+4. Note the IPv4 Address, this will be given to other players on the network to connect with
+5. The server address that the host machine (and only the host machine) uses is: `127.0.0.1`
 
 ### Other players on the network
 
